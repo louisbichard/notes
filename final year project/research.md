@@ -1,3 +1,5 @@
 #Research notes
 
-##Some other title
+##Competitors and similar organisations
+
+	https://www.victimsupport.org.uk/help-victims
