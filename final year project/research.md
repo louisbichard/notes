@@ -10,7 +10,6 @@
 
 ###To research
  
-* Together Women Project – Contact Lieran Doherty
 * Multiple Choice
 	* Contact Caroline Mackay
 	* Multiple Choice already deliver a very successful peer Mentor Programme with an Open College Network (OCN) qualification.
@@ -24,6 +23,11 @@
 * HMP New Hall (CARE project)
 * Together Women Support Resources
 	* http://www.togetherwomen.org/toolkit_downloads
+* Sheffield help yourself
+	* http://www.sheffieldhelpyourself.org.uk/full_search_new.asp?group=25035
+* TWP Supporting offenders PDF
+	* file:///Users/louisbichard/Downloads/Mentoring%20Resource%20Supporting%20women%20who%20have%20experienced%20domestic%20abuse.pdf 
+* 
  
 ##Notes from mums email
  
