@@ -20,6 +20,8 @@
 	* Offer peer mentoring within substance misuse service delivery
 * Look at 'the Space'
 	* Caroline from Multiple Choice will be able to give you more information. 
+* Bradford housing project
+* HMP New Hall (CARE project)
  
 ##Notes from mums email
  
