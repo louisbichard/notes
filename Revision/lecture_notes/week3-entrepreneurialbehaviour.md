@@ -16,6 +16,13 @@
 * Someone creative
 * Destroys market through production of something new
 * Can only be an entrepreneur in an economically stable environment
+* Entrepreneurs are innovators, people who come up with ideas and embody those ideas in high growth companies
+* Defines two types:
+	* Innovative: entrepreneurs as those who disrupt current zeitgeists and ways of thinking
+	* Replicative: Those who steal others ideas and create small business
+* Makes similarities between entrepreneurs and warlords
+* Innovation is almost forced through the system
+* 
 
 ###Kirzner
 
@@ -24,6 +31,7 @@
 * Matches supply and demand
 * Has insight and knowledge to implement an idea
 * Opportunity spotting can be possessed by anyone (and thus anyone is an entrepreneur)
+* 
 
 ###Knight
 
@@ -74,6 +82,3 @@
 ##Theory of planned behaviour
 
 // TODO: LOOK THIS UP, THE SLIDES WERE POOR
-
-
-

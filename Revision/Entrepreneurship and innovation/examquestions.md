@@ -26,6 +26,16 @@ In order of adoption, the 5 groups are:
 
 ###People - Entrepreneurs and entrepreneurship
 
+####How does the schumpeterian view of the entrepreneur differ with that of kirzner? (15 marks) (3 occurences)
+
+Schumpeter was an economist, who thought that entrepreneurs were someone special who was innately creative. Yet this creativity would only flourish in an economically stable environment. 
+
+Schumpeter defined two types of entrepreneur: Those who were replicators of existing ideas and tended to setup small businesses and those who were innovators who would crash into a market, and disrupt the common zeitgeist to push new boundaries and develop and push new ideas. 
+
+Kirzner on the other hand believed that entrepreneurs were opportunitists, taking advantage of holes in the market, as opposed to being innately innovative or creative, kirzner believed that entrepreneurs were more business minded than creative and had the insight and knowledge to notice these market needs and implement them.
+
+// TODO: REVISIT THIS, I'M NOT REALLY THAT HAPPY WITH IT
+
 ###Intellectual property
 
 ####With reference to the main types of intellectual property describe how inventors can protect their ideas. In each case briefly explain the process for securing intellectual property rights on an idea (20 marks)
@@ -58,7 +68,9 @@ In order of adoption, the 5 groups are:
 
 ####With reference to their advantages and disadvantages, describe economic measures of innovation? (20)
 
-####How does the schumpeterian view of the entrepreneur differ with that of kirzner? (15 marks) (3 occurences)
+* Measuring numbers of small businesses reflects the amount of replicative innovators that are in the economy - as defined by Schumpter. Egypt often comes out more entrepreneurial than America (Henrekson) when using this statistic. Henrekson also argued that self-made billionaires produces a much better measurement of entrepreneurial vigor in an economy. Small businesses are a sign of stagnation in the economy as no other jobs are available, successful businesses tend to destroy the smaller companies as they take up the market: I.e Walmart or Amazon. However this has implications.
+
+* Entrepreneurs tend to be highly educated, 45% of american self-made entrepreneurs have advanced degrees. This is different to how it was at the start of the 1900's with engineers like Henry Ford dropping out of school. The service economy is king. 
 
 ####Discuss why use of cognitive theory rather tahn describing personality traits may give us a better understanding of why people engage in entrepreneurial behaviour? (10 marks) (3 occurences)
 
