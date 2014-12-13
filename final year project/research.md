@@ -2,9 +2,30 @@
 
 ##Competitors and similar organisations
 
-###Links
+###Organisations
+
+####Victims support
 
 	https://www.victimsupport.org.uk/help-victims
+
+####Together Women
+
+	http://www.togetherwomen.org/
+
+#####Overview
+
+* Established in 2006
+* 'Moves women out of crime into positive futures'
+* Works with women in safe, women-only spaces
+* Builds resilience, develops strength
+* Move away from damaged lifestyles
+
+####Areas of operation
+
+* Yorkshire and Humber
+* Bradford
+* Hull
+* 
 
 ###To research
  
