@@ -10,6 +10,8 @@
 * Builds resilience, develops strength
 * Move away from damaged lifestyles
 * One-stop-shops for a holistic approach
+* Has a fixed location facility
+* Generally focused on reactive care and after care
 
 ##Areas of operation
 
@@ -38,6 +40,9 @@
 
 * Peer mentor service to develop confidence
 * Mentors are used within the service and process
+* Face to face and over the phone
+* 1:1 
+* 
 
 ###Mentoring and advocacy
 

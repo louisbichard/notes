@@ -22,6 +22,8 @@
 	* Caroline from Multiple Choice will be able to give you more information. 
 * Bradford housing project
 * HMP New Hall (CARE project)
+* Together Women Support Resources
+	* http://www.togetherwomen.org/toolkit_downloads
  
 ##Notes from mums email
  
