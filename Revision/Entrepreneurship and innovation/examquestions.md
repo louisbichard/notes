@@ -10,7 +10,17 @@ Using the information given in the case study, and specifying any additional ass
 
 ####What do you understand to be the 'S curve' in relation to the introduction of a new product or service? (5 marks) (2 occurrences)
 
-The 'S-curve'
+The 'S-curve' in relation to the release of a new product is the time taken for adoption from different categories of people and closely resembles and reflects the product lifecycle. 
+
+The S curve is plotted in terms of adoption rate in the market (y axis) and time (x axis) and forms an S shape due to the slow adoption, followed by exponential growth, stagnation and eventually decline. 
+
+In order of adoption, the 5 groups are: 
+
+* Innovators
+* Early adopters
+* Early majority
+* Early minority
+* Laggards
 
 ###Opportunities
 
@@ -61,7 +71,6 @@ The 'S-curve'
 ####Why is adopting innovative culture so difficult for small businesses and how might they address this difficulty? (20 marks)
 
 ####Opportunity spotting and idea creation is an essential part of the innovation process. How do entrepreurs identify new product and or service opportunities (25 marks)
-
 
 ####How can the 'Theory of planned behaviour' be used to explain entrepreneurial behaviour? (20 marks)
 
