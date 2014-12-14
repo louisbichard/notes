@@ -42,15 +42,17 @@ Lastly, opportunities can be found in the future space. Predicting future change
 
 ####How can the 'Theory of planned behaviour' be used to explain entrepreneurial behaviour? (20 marks)
 
-The theory of planned behaviour is a psychological tool that is used to predict the __likelihood that a person will partake in a specific act or behaviour__. The theory of planned behaviour is broken down into 6 main constructs that all determine someones behaviour. 
+The theory of planned behaviour is a psychological tool that is used to predict the __likelihood that a person will partake in a specific act or behaviour__. The theory of planned behaviour is broken down into 6 main constructs that all determine someones behaviour. It should also be highlighted that a lot of the areas are to do with the entrepreneurs __perception__ of the situation, not just the actual situation itself. The theory however does not plan in different elements of behaviour intention such as mood, fear or past antecedent experience. 
 
 __Attitude__ can affect an entrepreneurs behaviour, where the entrepreneur has a favourable evaluation of their behaviour of interest for instance, is the project a worthy cause? Will the entrepreneur earn enough money to live? Is it ethical (if the entrepreneur is likely to consider ethics).
 
 __Subjective Norms__ refer to the perceptions of those around the entrepreneur. It is likely that if an entrepeneur speaks to their parents, they will want to entrepreneur to be safe and stable and not take risks, however if the entrepreneur is in social groups where entrepreneurial risky behaviour is normal, they are likely to conduct these behaviours. 
 
-__
+__Social norms__ refers to the customary codes of behaviour within the society within which the entrepreneur resides. Different countries have different likelhihoods of entrepreneurial behaviour and this is related to the social norm of those societies. In some socities where it is customary for a woman to stay at home and do house work are less likely to participate in entrepreneurial behaviour. 
 
-####Discuss why use of cognitive theory rather tahn describing personality traits may give us a better understanding of why people engage in entrepreneurial behaviour? (10 marks) (3 occurences)
+__Behavioural control__ refers to the perception that the entrepreneur has over the situation. Are they smart enough, do they have the right resources etc. 
+
+####Discuss why use of cognitive theory rather than describing personality traits may give us a better understanding of why people engage in entrepreneurial behaviour? (10 marks) (3 occurences)
 
 ####How does the schumpeterian view of the entrepreneur differ with that of kirzner? (15 marks) (3 occurences)
 
