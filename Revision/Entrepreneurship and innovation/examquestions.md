@@ -87,7 +87,7 @@ __Design rights__ are protection over the look or appearance of a certain object
 
 ####What are the different funding opportunities available to entrepreneurs? Your answer should reflect the advantages and disadvantages of funding a business idea through the routes you describe? (20) (4 occurrences)
 
-####As a venture capatalist, what criteria would you use to evaluate an investment opportunity (10 marks)
+####As a venture capitalist, what criteria would you use to evaluate an investment opportunity (10 marks)
 
 A Venture capitalist is usually an individual investor that looks to take equity in a company in return for a stake of the business returns. Venture capatilists are open to large risks in order to achieve higher returns and will work closely with the organisation in order to achieve this. 
 
@@ -97,12 +97,24 @@ __Evidence of bootstrapping__ is important, the organisation must prove that it 
 
 __ROI__ is another big factor for VC's. Since they are investing in mostly small companies with large sums of money, the VC must have potential reward to offset the risk. The risk is particularly high as small companies often do not have much to offset the investment. 
 
-__Exit strategy__ is another big factor for VC's. 
+__Exit strategy__ is another big factor for VC's. It is the way that a VC will 'cash out' on its investment. A VC hopes to sell its equity in the company in 3-7 years, ideally in the IPO of the company.
+
 // TODO: RESEARCH EXIT STRATEGY
 
 // TODO: RESEARCH 
 
 ####Describe the main sources of debt and equity finance for entrepreneurs and reflect on the advantages of fuding a business through different routes (15 marks) (2 occurences)
+
+__Banks__ will invest in businesses, however will be reluctant to do so in the case of small businesses. Banks can provide large sources of funding, but there will be little feedback and assistance. Banks are primarily bothered about __ROI__ and finances. 
+
+__Venture capitalists__ will invest in small companies (however not seeds) and are more open to taking risk if the reward can be seen. Venture capitalists are often likely to invest in indivduals as they will need to work with them, and often they are investing in the businesses ability to generate ideas, rather than on one sole investment. 
+
+__Grants__ are usually government funding 'pots' of money available to certain business types. Grants are advantageous in that you do not have to 'pay them back' however the application proccesses can be lengthy and competitive. 
+
+
+__Crowd sourcing__ is a form of funding that comes from a large group of people all investing a small amount of income to reach a larger total. 
+
+// TODO: MAKE SURE YOU HAVE THE VENTURE CAPITALIST DEFINITION RIGHT, IT SOUNDS A LOT LIKE A BUSINESS ANGEL AND YOU DON'T WANT TO GET THOSE TWO MIXED UP. 
 
 ####What do you understand to be the finance gap? (5 marks)
 

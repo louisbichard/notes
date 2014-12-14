@@ -76,7 +76,6 @@
 
 ##Venture finance
 
-
 ###Types of venture finance
 * Formal ventures (VC's)
 	* The investor takes equity in the company in return for some investment
