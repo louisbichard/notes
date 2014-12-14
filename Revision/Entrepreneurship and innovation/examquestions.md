@@ -70,6 +70,15 @@ Kirzner on the other hand believed that entrepreneurs were opportunitists, takin
 
 ####With reference to the main types of intellectual property describe how inventors can protect their ideas. In each case briefly explain the process for securing intellectual property rights on an idea (20 marks)
 
+Intellectual property is non-physical property that is the product of original thought. Intellectual property allow artists and creators to gain rights to prosecute those infringing their rights by copying their ideas. 
+
+__Patents__ are a type of intellectual property 
+
+__Design rights__
+
+
+
+
 ####Describe the three main types of intellectual property that companies use to protect their industrial rights (25) (4 occurrences)
 
 ####Describe what a firm might do with its intellectual property in order to maximise its value as a company asset (5 marks) (4 occurences)
