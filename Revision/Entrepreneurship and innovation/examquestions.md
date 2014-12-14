@@ -42,6 +42,14 @@ Lastly, opportunities can be found in the future space. Predicting future change
 
 ####How can the 'Theory of planned behaviour' be used to explain entrepreneurial behaviour? (20 marks)
 
+The theory of planned behaviour is a psychological tool that is used to predict the __likelihood that a person will partake in a specific act or behaviour__. The theory of planned behaviour is broken down into 6 main constructs that all determine someones behaviour. 
+
+__Attitude__ can affect an entrepreneurs behaviour, where the entrepreneur has a favourable evaluation of their behaviour of interest for instance, is the project a worthy cause? Will the entrepreneur earn enough money to live? Is it ethical (if the entrepreneur is likely to consider ethics).
+
+__Subjective Norms__ refer to the perceptions of those around the entrepreneur. It is likely that if an entrepeneur speaks to their parents, they will want to entrepreneur to be safe and stable and not take risks, however if the entrepreneur is in social groups where entrepreneurial risky behaviour is normal, they are likely to conduct these behaviours. 
+
+__
+
 ####Discuss why use of cognitive theory rather tahn describing personality traits may give us a better understanding of why people engage in entrepreneurial behaviour? (10 marks) (3 occurences)
 
 ####How does the schumpeterian view of the entrepreneur differ with that of kirzner? (15 marks) (3 occurences)

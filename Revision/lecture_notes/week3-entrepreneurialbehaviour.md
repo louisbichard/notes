@@ -85,8 +85,10 @@
 	* Whether others approve or dissaprove the behaviour
 	* Based on perception of peers views
 * Social norms
-	* 
+	* Refers to the customary behaviour within which they reside
 * Percieved power
+	* Persons percieved behavioural control over each of the factors
 * Percieved behavioural control
+	* Perception of ease or difficulty of the task at hand
 
 
