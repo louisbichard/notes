@@ -24,6 +24,20 @@ In order of adoption, the 5 groups are:
 
 ###Opportunities
 
+####Opportunity spotting and idea creation is an essential part of the innovation process. How do entrepreurs identify new product and or service opportunities (25 marks)
+
+* Market opportunities
+* Technology space
+* Future space
+
+// TODO: DEFINE THE INNOVATION PROCESS?
+
+Entrepreneurs may find opportunities in 3 main areas, gaps in the market, technological innovations or by looking into the future. 
+
+Market opportunities can be identified a number of different ways, the first and most obvious being by having a __keen entrepreneurial eye__ within the indutstry. Secondly, using __market intelligence__ tools can also __detect changes in customer demands__ by measuring and analysing figures regarding the size, shape and dynamics of the market. Entrepreneurs can also use the __schumpeter replicator theory__ of the entrepreneur to copy existing organisations in the instance of __southwest airlines__ being copied by Stelios, but given a USP such as reduced travel agents to provide a low cost airline that met market demands. 
+
+Secondly, opportunities can be found in the  
+
 ###People - Entrepreneurs and entrepreneurship
 
 ####Discuss why use of cognitive theory rather tahn describing personality traits may give us a better understanding of why people engage in entrepreneurial behaviour? (10 marks) (3 occurences)
@@ -38,6 +52,8 @@ Kirzner on the other hand believed that entrepreneurs were opportunitists, takin
 
 // TODO: REVISIT THIS, I'M NOT REALLY THAT HAPPY WITH IT
 
+####Giving examples, describe how acedemic economists, psychologists and sociologists have tried to define the entrepreneur? (25)
+
 ###Intellectual property
 
 ####With reference to the main types of intellectual property describe how inventors can protect their ideas. In each case briefly explain the process for securing intellectual property rights on an idea (20 marks)
@@ -47,6 +63,8 @@ Kirzner on the other hand believed that entrepreneurs were opportunitists, takin
 ####Describe what a firm might do with its intellectual property in order to maximise its value as a company asset (5 marks) (4 occurences)
 
 ###Financing innovation
+
+####What are the different funding opportunities available to entrepreneurs? Your answer should reflect the advantages and disadvantages of funding a business idea through the routes you describe? (20) (4 occurrences)
 
 ####As a venture capatalist, what criteria would you use to evaluate an investment opportunity (10 marks)
 
@@ -70,6 +88,10 @@ Kirzner on the other hand believed that entrepreneurs were opportunitists, takin
 
 ###Measuring innovation
 
+####Briefly describe how you would evaluate the success of a new government funding scheme available to encourage innovation in small businesses (5 marks) (5 occurences)
+
+####Discuss why the UK's innovative performance appears to be, at best, average compare to its major competitors (DTI innovation report 2003). Incude in your answer what measure the government has taken to address this problem. (25 marks)
+
 ####With reference to their advantages and disadvantages, describe economic measures of innovation? (20)
 
 * Measuring numbers of small businesses reflects the amount of replicative innovators that are in the economy - as defined by Schumpter. Egypt often comes out more entrepreneurial than America (Henrekson) when using this statistic. Henrekson also argued that self-made billionaires produces a much better measurement of entrepreneurial vigor in an economy. Small businesses are a sign of stagnation in the economy as no other jobs are available, successful businesses tend to destroy the smaller companies as they take up the market: I.e Walmart or Amazon. However this has implications.
@@ -78,24 +100,12 @@ Kirzner on the other hand believed that entrepreneurs were opportunitists, takin
 
 ###Uncategorised (TODO)
 
-
-
 ####With reference to the key stages involved in the innovative process and barriers you are likely to encounter, describe how you would take a new product or service idea to the market (25 marks)
 
-####Discuss why the UK's innovative performance appears to be, at best, average compare to its major competitors (DTI innovation report 2003). Incude in your answer what measure the government has taken to address this problem. (25 marks)
-
 ####Why is adopting innovative culture so difficult for small businesses and how might they address this difficulty? (20 marks)
-
-####Opportunity spotting and idea creation is an essential part of the innovation process. How do entrepreurs identify new product and or service opportunities (25 marks)
 
 ####How can the 'Theory of planned behaviour' be used to explain entrepreneurial behaviour? (20 marks)
 
 ####Small firm performance is not improved by formal business training provided for entrepreneurs. Discuss this statement (10 marks) (3 occurences)
-
-####Giving examples, describe how acedemic economists, psychologists and sociologists have tried to define the entrepreneur? (25)
-
-####What are the different funding opportunities available to entrepreneurs? Your answer should reflect the advantages and disadvantages of funding a business idea through the routes you describe? (20) (4 occurrences)
-
-####Briefly describe how you would evaluate the success of a new government funding scheme available to encourage innovation in small businesses (5 marks) (5 occurences)
 
 ####With reference to key stages in the innovation process, what barriers do businesses often encounter when developing new products and services? (20)
