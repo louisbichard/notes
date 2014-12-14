@@ -10,7 +10,6 @@
 ##Types of views regarding definition of the entrepreneur
 
 ###Schumpter
-
 * Schumpter was an economist // TODO: CHECK THIS
 * Someone special
 * Someone creative
@@ -25,7 +24,6 @@
 * 
 
 ###Kirzner
-
 * Is alert to profitable opportunities
 * Not someone who comes up with new products
 * Matches supply and demand
@@ -34,7 +32,6 @@
 * 
 
 ###Knight
-
 * Entrepreneur is a calculated risk taker
 * They find a way to bear uncertainty
 * Understand risk
@@ -42,7 +39,6 @@
 * Know their customers more intimately than their competitors
 
 ##Psychologists view on entrepreneurship
-
 * Assume that individuals do not possess a perfect knowledge of the world around them
 * Individuals have to select information and interpret it
 * Individuals see and interpret situations based on their previous experiences
@@ -50,35 +46,47 @@
 	* Decisions based on previous learned experiences
 
 ###McClelland 1965
-
 * High self motivation
 * Positive attitude
 * Type A behaviour
 
 ##Type A and B personalities
-
 * Theory defined by Friedman and Rosenman
 	* Dates back to how some patients couldn't sit still in a waiting room, tended to sit on the edge of their chair
 
 ###Type A
-
 * Tend to be competitive and self-critical
 * Easily 'wound-up'
 * Exhibit a constant sense of urgency, always in a constant struggle against the clock
 * Become impatient with delays and unproductive time
 
 ###Type B
-
 * Tend to be more relaxed and have a higher level of creativity and imagination
 * One thing at a time
 * Express feelings
 
 ##Rotter 1966
-
 * Strong locus of controler
 * Responsible for their own destiny
 * Self confident
 
 ##Theory of planned behaviour
+* The theory of planned behaviour began as a prediction of intention to engage in behaviour at a specific time or place
+* Intended th explain all behaviours over which people have the ability to exert self-control
+* Used to predict a lot of health behaviours including smoking, drinking, breastfeeding, etc. 
 
-// TODO: LOOK THIS UP, THE SLIDES WERE POOR
+###Six constructs of planned behaviour
+* Attitudes
+	* Degree to which the personal has a favourable evaluation of behavioural self interest
+* Behavioural intention
+	* Motivational factors
+	* Looks at strength of intention to perform the behaviour
+* Subjective norms
+	* Whether others approve or dissaprove the behaviour
+	* Based on perception of peers views
+* Social norms
+	* 
+* Percieved power
+* Percieved behavioural control
+
+

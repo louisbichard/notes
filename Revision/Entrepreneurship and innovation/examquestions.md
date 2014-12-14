@@ -26,19 +26,21 @@ In order of adoption, the 5 groups are:
 
 ####Opportunity spotting and idea creation is an essential part of the innovation process. How do entrepreurs identify new product and or service opportunities (25 marks)
 
-* Market opportunities
-* Technology space
-* Future space
-
-// TODO: DEFINE THE INNOVATION PROCESS?
-
 Entrepreneurs may find opportunities in 3 main areas, gaps in the market, technological innovations or by looking into the future. 
 
 Market opportunities can be identified a number of different ways, the first and most obvious being by having a __keen entrepreneurial eye__ within the indutstry. Secondly, using __market intelligence__ tools can also __detect changes in customer demands__ by measuring and analysing figures regarding the size, shape and dynamics of the market. Entrepreneurs can also use the __schumpeter replicator theory__ of the entrepreneur to copy existing organisations in the instance of __southwest airlines__ being copied by Stelios, but given a USP such as reduced travel agents to provide a low cost airline that met market demands. 
 
-Secondly, opportunities can be found in the  
+Secondly, opportunities can be found in __technological innovations__. This can sometimes be known as __'blue skies research'__ which refers to the act of researching technologies that aren't immediately apparent. This however can be very risky and expensive for an entrepreneur. 
+
+Lastly, opportunities can be found in the future space. Predicting future changes is based on trends or __PESTLE analysis__ that analyses political, environmental, social, technological and economic changes in the businesses domain. 
+
+// TODO: DEFINE THE INNOVATION PROCESS
+// TODO: TO IMPROVE: ADD SOME QUOTES FROM OUTSIDE SOURCES
+// TODO: ADD SOMETHING ABOUT CLOSE TIES WITH UNIVERISTIES IS GOOD FOR BLUE SKIES RESEARCH, BUT THEY NEED TO FIND THESE TIES WITH UNIVERSITIES AND THESE ARE TYPICALLY HARD TO FIND
 
 ###People - Entrepreneurs and entrepreneurship
+
+####How can the 'Theory of planned behaviour' be used to explain entrepreneurial behaviour? (20 marks)
 
 ####Discuss why use of cognitive theory rather tahn describing personality traits may give us a better understanding of why people engage in entrepreneurial behaviour? (10 marks) (3 occurences)
 
@@ -103,8 +105,6 @@ Kirzner on the other hand believed that entrepreneurs were opportunitists, takin
 ####With reference to the key stages involved in the innovative process and barriers you are likely to encounter, describe how you would take a new product or service idea to the market (25 marks)
 
 ####Why is adopting innovative culture so difficult for small businesses and how might they address this difficulty? (20 marks)
-
-####How can the 'Theory of planned behaviour' be used to explain entrepreneurial behaviour? (20 marks)
 
 ####Small firm performance is not improved by formal business training provided for entrepreneurs. Discuss this statement (10 marks) (3 occurences)
 
