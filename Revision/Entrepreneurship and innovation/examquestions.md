@@ -72,12 +72,12 @@ Kirzner on the other hand believed that entrepreneurs were opportunitists, takin
 
 Intellectual property is non-physical property that is the product of original thought. Intellectual property allow artists and creators to gain rights to prosecute those infringing their rights by copying their ideas. 
 
-__Patents__ are a type of intellectual property 
+__Patents__ are a type of intellectual property that protects inventions with regards to what they do and how they achieve it, including what they are made of etc. Applicatin for a patent must be done through the patent office for the region that it is to be registered. The process involves filing the patent for review (known as __patent pending__) and the office must decide whether to abandon or grant the patent. The idea must be original and not currently known to the public, known as __prior art__ (pre-existing knowledge of the idea in the public domain). The patent will then last 20 years and can be licensed or sold. 
 
-__Design rights__
+__Design rights__ are protection over the look or appearance of a certain object, or part of an object applying to 2D objects, colours, shapes, contours etc. Design rights must be registered and paid for and then last for 20 years. 
 
-
-
+// TODO: DO SOME RESEARCH INTO DESIGN RIGHTS TO IMPROVE IT
+// TODO: MAKE SURE THESE ARE THE ONLY 2 IDEAS THAT PROTECT IDEAS
 
 ####Describe the three main types of intellectual property that companies use to protect their industrial rights (25) (4 occurrences)
 
