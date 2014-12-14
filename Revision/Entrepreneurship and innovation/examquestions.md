@@ -89,6 +89,19 @@ __Design rights__ are protection over the look or appearance of a certain object
 
 ####As a venture capatalist, what criteria would you use to evaluate an investment opportunity (10 marks)
 
+A Venture capitalist is usually an individual investor that looks to take equity in a company in return for a stake of the business returns. Venture capatilists are open to large risks in order to achieve higher returns and will work closely with the organisation in order to achieve this. 
+
+__Relationship to owners__ is important as the VC will work closely with the business and the venture capatilist has to be sure that the owners are the correct type of people to compliment their personality type. 
+
+__Evidence of bootstrapping__ is important, the organisation must prove that it has some market need and that it is now gaining traction. Venture capitalists will tend not to invest in seedling companies as they are too risky. 
+
+__ROI__ is another big factor for VC's. Since they are investing in mostly small companies with large sums of money, the VC must have potential reward to offset the risk. The risk is particularly high as small companies often do not have much to offset the investment. 
+
+__Exit strategy__ is another big factor for VC's. 
+// TODO: RESEARCH EXIT STRATEGY
+
+// TODO: RESEARCH 
+
 ####Describe the main sources of debt and equity finance for entrepreneurs and reflect on the advantages of fuding a business through different routes (15 marks) (2 occurences)
 
 ####What do you understand to be the finance gap? (5 marks)
