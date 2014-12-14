@@ -26,6 +26,8 @@ In order of adoption, the 5 groups are:
 
 ###People - Entrepreneurs and entrepreneurship
 
+####Discuss why use of cognitive theory rather tahn describing personality traits may give us a better understanding of why people engage in entrepreneurial behaviour? (10 marks) (3 occurences)
+
 ####How does the schumpeterian view of the entrepreneur differ with that of kirzner? (15 marks) (3 occurences)
 
 Schumpeter was an economist, who thought that entrepreneurs were someone special who was innately creative. Yet this creativity would only flourish in an economically stable environment. 
@@ -46,6 +48,8 @@ Kirzner on the other hand believed that entrepreneurs were opportunitists, takin
 
 ###Financing innovation
 
+####As a venture capatalist, what criteria would you use to evaluate an investment opportunity (10 marks)
+
 ####Describe the main sources of debt and equity finance for entrepreneurs and reflect on the advantages of fuding a business through different routes (15 marks) (2 occurences)
 
 ####What do you understand to be the finance gap? (5 marks)
@@ -64,7 +68,7 @@ Kirzner on the other hand believed that entrepreneurs were opportunitists, takin
 
 ###Failure
 
-###Uncategorised (TODO)
+###Measuring innovation
 
 ####With reference to their advantages and disadvantages, describe economic measures of innovation? (20)
 
@@ -72,9 +76,9 @@ Kirzner on the other hand believed that entrepreneurs were opportunitists, takin
 
 * Entrepreneurs tend to be highly educated, 45% of american self-made entrepreneurs have advanced degrees. This is different to how it was at the start of the 1900's with engineers like Henry Ford dropping out of school. The service economy is king. 
 
-####Discuss why use of cognitive theory rather tahn describing personality traits may give us a better understanding of why people engage in entrepreneurial behaviour? (10 marks) (3 occurences)
+###Uncategorised (TODO)
 
-####As a venture capatalist, what criteria would you use to evaluate an investment opportunity (10 marks)
+
 
 ####With reference to the key stages involved in the innovative process and barriers you are likely to encounter, describe how you would take a new product or service idea to the market (25 marks)
 
