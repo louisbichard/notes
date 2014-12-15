@@ -126,7 +126,15 @@ __Crowd sourcing__ is a form of funding that comes from a large group of people 
 
 ####Growth of a business is highly complex and depends on the interaction of different factors. Evaluate the Storey Framework as a way of identifiying firms that are likely to achieve a high level of growth (20 marks) (2 occurences)
 
-The storey framework consists of measuring 3 characteristics to predict growth. 
+The storey framework __consists of measuring 3 characteristics__ to predict growth: __The entrepreneur__, __the strategy__ they employ and __the company itself__. It is argued that these __factors are not independent__ and must all be present at the correct level in order for a business to be deemed in a position to achieve large rates of growth. 
+
+The first characteristic is that of the entrepreneur themselves which encompasses factors regarding the entrepreneur themselves and whether they are deemed to possess the relevant characteristics and skills in order to drive growth. Some examples of these characteristics are __motivation__, __education__, __Management experiencee__. 
+
+Secondly is the factors of __the company__ itself. The company encompasses usually decisions by the entrepreneur when they set up the organisation and remain fairly constant once they start trading. This is measured by addressing factors such as the __companies age__, __culture__ and __structure__. 
+
+Lastly is __the strategy__ of the organistation itself which is arguably the most important and interesting characteristic. Includes factors such as the market position of the company, training of the workforce, any new products it has in the pipeline and competitors. 
+
+// LOOK UP PROBLEMS WITH THE STOREY METHOD - AS THIS IS AN EVALUATION QUESTION
 
 ####What barriers to firm growth are often encountered by the entrepreneur (10 marks)
 
