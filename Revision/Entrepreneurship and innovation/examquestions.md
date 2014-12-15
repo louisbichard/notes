@@ -109,10 +109,10 @@ __Banks__ will invest in businesses, however will be reluctant to do so in the c
 
 __Venture capitalists__ will invest in small companies (however not seeds) and are more open to taking risk if the reward can be seen. Venture capitalists are often likely to invest in indivduals as they will need to work with them, and often they are investing in the businesses ability to generate ideas, rather than on one sole investment. 
 
-__Grants__ are usually government funding 'pots' of money available to certain business types. Grants are advantageous in that you do not have to 'pay them back' however the application proccesses can be lengthy and competitive. 
+__Grants__ are usually government funding 'pots' of money available to certain business types. Grants are advantageous in that you do not have to 'pay them back' however the application __proccesses can be lengthy and competitive__. 
 
 
-__Crowd sourcing__ is a form of funding that comes from a large group of people all investing a small amount of income to reach a larger total. 
+__Crowd sourcing__ is a form of funding that comes from a large group of people all investing a small amount of income to reach a larger total. Crowd sourcing works best for __customer facing__ 'simple products' that solve a simple problem. Crowd sourcing is __not good for larger companies__ with technical and complex solutions or ones that aren't in the basic customer domain I.E business to business. Crowd sourcing is very good for seed businesses as the small investment means a the risk is offset to investors. 
 
 // TODO: MAKE SURE YOU HAVE THE VENTURE CAPITALIST DEFINITION RIGHT, IT SOUNDS A LOT LIKE A BUSINESS ANGEL AND YOU DON'T WANT TO GET THOSE TWO MIXED UP. 
 
