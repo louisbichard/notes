@@ -1,12 +1,6 @@
-#Questions
 
-##Section 1 questions
 
-Using the information given in the case study, and specifying any additional assumptions that you make, write a report for Charnwood Theatre Hire Limited that includes a critical evaluation of their current business activities and suggested ways in which they can improve future business performance (50) (3 occurences)
-
-##Section 2 questions (back to 2008)
-
-###General innovation
+#General innovation
 
 ####What do you understand to be the 'S curve' in relation to the introduction of a new product or service? (5 marks) (2 occurrences)
 
@@ -22,7 +16,7 @@ In order of adoption, the 5 groups are:
 * Early minority
 * Laggards
 
-###Opportunities
+#Opportunities
 
 ####Opportunity spotting and idea creation is an essential part of the innovation process. How do entrepreurs identify new product and or service opportunities (25 marks)
 
@@ -38,7 +32,7 @@ Lastly, opportunities can be found in the future space. Predicting future change
 // TODO: TO IMPROVE: ADD SOME QUOTES FROM OUTSIDE SOURCES
 // TODO: ADD SOMETHING ABOUT CLOSE TIES WITH UNIVERISTIES IS GOOD FOR BLUE SKIES RESEARCH, BUT THEY NEED TO FIND THESE TIES WITH UNIVERSITIES AND THESE ARE TYPICALLY HARD TO FIND
 
-###People - Entrepreneurs and entrepreneurship
+#People - Entrepreneurs and entrepreneurship
 
 ####How can the 'Theory of planned behaviour' be used to explain entrepreneurial behaviour? (20 marks)
 
@@ -54,6 +48,8 @@ __Behavioural control__ refers to the perception that the entrepreneur has over 
 
 ####Discuss why use of cognitive theory rather than describing personality traits may give us a better understanding of why people engage in entrepreneurial behaviour? (10 marks) (3 occurences)
 
+// TODO: COMPLETE
+
 ####How does the schumpeterian view of the entrepreneur differ with that of kirzner? (15 marks) (3 occurences)
 
 Schumpeter was an economist, who thought that entrepreneurs were someone special who was innately creative. Yet this creativity would only flourish in an economically stable environment. 
@@ -66,7 +62,9 @@ Kirzner on the other hand believed that entrepreneurs were opportunitists, takin
 
 ####Giving examples, describe how acedemic economists, psychologists and sociologists have tried to define the entrepreneur? (25)
 
-###Intellectual property
+// TODO: COMPLETE
+
+#Intellectual property
 
 ####With reference to the main types of intellectual property describe how inventors can protect their ideas. In each case briefly explain the process for securing intellectual property rights on an idea (20 marks)
 
@@ -81,11 +79,17 @@ __Design rights__ are protection over the look or appearance of a certain object
 
 ####Describe the three main types of intellectual property that companies use to protect their industrial rights (25) (4 occurrences)
 
+// TODO: COMPLETE
+
 ####Describe what a firm might do with its intellectual property in order to maximise its value as a company asset (5 marks) (4 occurences)
 
-###Financing innovation
+// TODO: COMPLETE
+
+#Financing innovation
 
 ####What are the different funding opportunities available to entrepreneurs? Your answer should reflect the advantages and disadvantages of funding a business idea through the routes you describe? (20) (4 occurrences)
+
+// TODO: COMPLETE
 
 ####As a venture capitalist, what criteria would you use to evaluate an investment opportunity (10 marks)
 
@@ -118,11 +122,13 @@ __Crowd sourcing__ is a form of funding that comes from a large group of people 
 
 ####What do you understand to be the finance gap? (5 marks)
 
-###Entreprenurial behaviour
+Also known as the funding gap. The finance gap is the gap in provision for medium sized, fast growing firms. This occurs when the company is too large to ask individual shareholders for funds or to ask for bank finance but they are also not ready to launch on the stock market. 
 
-###Positioning and planning for success
+#Growth
 
-###Growth
+####Small firm performance is not improved by formal business training provided for entrepreneurs. Discuss this statement (10 marks) (3 occurences)
+
+// TODO: COMPLETE
 
 ####Growth of a business is highly complex and depends on the interaction of different factors. Evaluate the Storey Framework as a way of identifiying firms that are likely to achieve a high level of growth (20 marks) (2 occurences)
 
@@ -138,15 +144,25 @@ Lastly is __the strategy__ of the organistation itself which is arguably the mos
 
 ####What barriers to firm growth are often encountered by the entrepreneur (10 marks)
 
+// TODO: COMPLETE
+
 ####Describe a stage model of firm growth (15 marks)
 
-###Failure
+// TODO: COMPLETE
 
-###Measuring innovation
+####With reference to key stages in the innovation process, what barriers do businesses often encounter when developing new products and services? (20)
+
+// TODO: COMPLETE
+
+#Measuring innovation
 
 ####Briefly describe how you would evaluate the success of a new government funding scheme available to encourage innovation in small businesses (5 marks) (5 occurences)
 
+// TODO: COMPLETE
+
 ####Discuss why the UK's innovative performance appears to be, at best, average compare to its major competitors (DTI innovation report 2003). Incude in your answer what measure the government has taken to address this problem. (25 marks)
+
+// TODO: COMPLETE
 
 ####With reference to their advantages and disadvantages, describe economic measures of innovation? (20)
 
@@ -154,12 +170,14 @@ Lastly is __the strategy__ of the organistation itself which is arguably the mos
 
 * Entrepreneurs tend to be highly educated, 45% of american self-made entrepreneurs have advanced degrees. This is different to how it was at the start of the 1900's with engineers like Henry Ford dropping out of school. The service economy is king. 
 
-###Uncategorised (TODO)
+#Uncategorised (TODO)
 
 ####With reference to the key stages involved in the innovative process and barriers you are likely to encounter, describe how you would take a new product or service idea to the market (25 marks)
 
+// TODO: COMPLETE
+
 ####Why is adopting innovative culture so difficult for small businesses and how might they address this difficulty? (20 marks)
 
-####Small firm performance is not improved by formal business training provided for entrepreneurs. Discuss this statement (10 marks) (3 occurences)
+// TODO: COMPLETE
 
-####With reference to key stages in the innovation process, what barriers do businesses often encounter when developing new products and services? (20)
+

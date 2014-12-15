@@ -74,7 +74,6 @@
 			* Gender
 	* Strategy
 		* Are arguably the most important
-		* 
 		* Factors:
 			* Market positioning
 			* Training of the workforce
