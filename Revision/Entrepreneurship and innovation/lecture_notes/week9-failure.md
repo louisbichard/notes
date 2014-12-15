@@ -26,6 +26,10 @@
 	* Distributors
 	* Other stakeholders
 
+###Macro level causes of failure
+* Macro environment is complex
+* Think back to pestle
+
 ###Bad debtors
 * When customers don't pay on time
 
@@ -39,4 +43,34 @@
 ###3M - Six Sigma
 * Designed to eliminate wastage
 * Some found it too rigid and restrictive
+
+##Failure in SME's
+* 65% of SME's have not conceptualised a vision or strategy. 
+* Many lack management skills, only 30% invest in development of leadership and management skills. 
+* Fewer than 20% enter into collaborative agreements or partnerships with suppliers or customers. 
+* Don't engage with staff or present opportunities for employee involvement
+* Over 70% of SME's rely solely on accounting based methods to measure performance
+* Competitor benchmarking is predominantly based on what they see, read or are told. 
+
+##Top reasons for startup failure
+* No market need
+* Ran out of cash
+* Not the right team
+* Get outcompeted
+
+##Failure as a stigma
+* Failure is considered to be negative
+* People fear admitting their failures because they don't want to be vulnerable
+* Proctor and Gamble aim for a 50% failure rate
+
+##Root Cause Analysis (RCA)
+* Ensures that appropriate learning is completed from failures
+* Addresses root causes of problems for future prevention
+* Conducting of a RCA
+	* Cause and effect
+	* Events and causal factors analysis
+	* Fault tree analysis
+	* Story telling method
+
+// RESEARCH THESE METHODS OF ROOT CAUSE ANALYSIS
 

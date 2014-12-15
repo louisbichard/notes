@@ -10,6 +10,35 @@
 
 ###To research
  
+
+###Existing technologies
+* http://www.patientslikeme.com/
+* Aspire news app
+	* https://www.whengeorgiasmiled.org/
+	* https://www.whengeorgiasmiled.org/the-aspire-news-app/#.VBKcbfldWSo
+* safetrek
+	*  https://itunes.apple.com/us/app/safetrek/id716262008?mt=8
+	* http://www.safetrekapp.com/
+* Emergensee
+	* https://itunes.apple.com/us/app/emergensee/id445075028?mt=8
+	* Streams live video and audio from your phone
+	* Message sent to predefined contact
+	* Timer for when you might be in trouble
+* Apps against abuse campaign
+	* http://appsagainstabuse.challengepost.com/submissions
+
+###Potential features
+
+
+###THe market
+* Market need
+* The right team for the job
+* Pricing and cost issues
+	* Current cost of reoffending
+* Timing
+* Defining focus of the organisation
+
+###Organisations
 * Multiple Choice
 	* Contact Caroline Mackay
 	* Multiple Choice already deliver a very successful peer Mentor Programme with an Open College Network (OCN) qualification.
