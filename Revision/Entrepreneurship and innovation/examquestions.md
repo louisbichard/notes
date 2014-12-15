@@ -126,6 +126,8 @@ __Crowd sourcing__ is a form of funding that comes from a large group of people 
 
 ####Growth of a business is highly complex and depends on the interaction of different factors. Evaluate the Storey Framework as a way of identifiying firms that are likely to achieve a high level of growth (20 marks) (2 occurences)
 
+The storey framework consists of measuring 3 characteristics to predict growth. 
+
 ####What barriers to firm growth are often encountered by the entrepreneur (10 marks)
 
 ####Describe a stage model of firm growth (15 marks)

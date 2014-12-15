@@ -57,18 +57,40 @@
 
 ###Storey characteristics approack model
 * Storey (1994) said that the Churchill and Greiner models only describe, but do not measure growth
-
-####Three characteristics
-* The entrepreneur
-	* The characteristics of the entrepreneur themselves
-* Strategy
-	* Market positioning
-	* Planning and financial strategy
-* Company
-	* Age
-	* Type
-	* Culture
-	* Structure
+* Theory consists of 3 characteristics
+* Often drawn as a venn diagram as the concepts are overlapping
+* Must combine all characteristics in order to achieve growth 
+* 
+	* The entrepreneur
+		* A lot of these elements can be addressed before the business exists as they are related to the entrepreneur as an individual
+		* Rely on the entrepreneurs access to resources no the business
+		* Factors: 
+			* Motivation
+			* Education
+			* Management experience
+			* Social marginality
+			* Functional skills
+			* Age
+			* Gender
+	* Strategy
+		* Are arguably the most important
+		* 
+		* Factors:
+			* Market positioning
+			* Training of the workforce
+			* Technological sophistication
+			* Planning
+			* New products
+			* Competition
+			* Planning and financial strategy
+	* Company
+		* Reflect decisions made by the entrepreneur when starting the firm
+		* Generally held constant when trading begins
+		* Factors
+			* Age
+			* Type
+			* Culture
+			* Structure
 
 ##When growth happens
 * Has to be a catalyst
