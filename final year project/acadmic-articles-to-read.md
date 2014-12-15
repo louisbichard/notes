@@ -40,9 +40,6 @@ Stay. IEEE Internet Computing. 17, 2 (2013).
 
 [12] O‟Hara, K. and Hutton, W. 1994. Trust. Icon Books.
 
-[13] Opinion Matters 2010. Wake Up To Rape Research
-Summary Report.
-
 [14] Reporting of Sexual Violence Incidents: 2010.
 http://www.nij.gov/topics/crime/rape-sexualviolence/rape-notification.htm.
 Accessed: 2013-02-13.
@@ -71,3 +68,7 @@ Pearson Education Limited.
 [20] Turing Machines:
 http://plato.stanford.edu/entries/turing-machine/.
 Accessed: 2013-02-14. 
+
+Minneapolis Domestic Violence Experiment - __Lawrence Sherman and Richard Berk__,
+
+

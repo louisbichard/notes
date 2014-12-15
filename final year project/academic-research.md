@@ -120,3 +120,97 @@ aged 35 to 50. The sample also included 922 heterosexual, 71 homosexual, 52 bise
  Left a drink unattended at a bar (31% vs. 21% of 35 to 50 year olds)
  Been so drunk they have lost their memory of the evening (26% vs. 14% of 35 to 50 year olds)"
 
+"When asked specifically about reporting a sexual assault or rape to the police a significant
+number of respondents were unsure:
+ Over one in ten claimed they would ‘maybe’ report it to the police (13%) and one in twenty admitted they didn’t know (5%)  One in fifty respondents were clear that they would not report a case of rape or sexual assault to the police (2%)""
+
+"This begs the question; why? What is it that prevents people from letting the police know?
+The main reasons are:
+ I would be too embarrassed / ashamed of what had happened (55%)
+ I would just want to forget it ever happened (41%)
+ I wouldn’t want to go to court (38%)
+ I would be afraid of repercussions from the assailant (31%)
+ I would be afraid that my family would find out (25%)"
+
+
+Some open responses to this question were:
+“The rape conviction rate here is the lowest in Europe. I wouldn't want to relive the experience in
+court, and have to be in the same room as my assaulter, considering the odds of getting a
+conviction are so low. Prison time is so low even if a conviction”
+“I would be afraid of being demoralised by the police and society during court proceedings, why
+bother when they are just going to get off the charges anyway?”
+“I am not sure whether I would be taken seriously and the follow through procedure would be
+thorough”
+“My statement of truth being doubted”
+“Rape victims rarely get justice”
+
+Although Londoners would not report a rape or assault on themselves, they would
+however offer advice to a friend if they had confided in them about such an assault.
+ The vast majority of Londoners would advise their friends to seek immediate medical
+attention if they had been sexually assaulted (96%)
+
+Shockingly, over a third of Londoners have been in a situation where they could have
+been made to have sex when they didn’t want to (34%)
+ Women are twice as likely as men to have been in this situation (40% vs. 20%)
+
+Women are less forgiving than men. They are more likely to think that a person should
+accept responsibility when:
+ Performing another sexual act on them (75% vs. 70%)
+ Getting into bed with a person (71% vs. 57%)
+ Going back to theirs for a drink (35% vs. 19%)
+ Dressing provocatively (31% vs. 23%)
+ Dancing in a sexy way with a man at a night club or bar (23% vs. 19%)
+ Accepting a drink and engaging in a conversation at a bar (15% vs. 11%)
+
+
+#Police response to domestic violence
+
+__refernce__: 
+
+_HEATHER C. MELTON University of Colorado_
+
+__link__: http://www.tandfonline.com/doi/pdf/10.1300/J076v29n01_01
+
+#Page 1
+
+"The weight of the literature seems to suggest that
+mandatory arrest policies may not universally achieve positive goals. Moreover,
+some studies show that police agencies do not work effectively with
+other social welfare agencies"
+
+Future research should seek alternative police
+interventions that yield more integrated methods for societal response to domestic
+violence
+
+"Domestic violence is a social problem that has increasingly been targeted
+as a phenomenon in need of social control. At the forefront of this issue is the
+debate surrounding the role police play in their response to domestic violence"
+
+#Page 2
+
+s. And yet, this issue continues
+to spark controversy and debate among experts over the use of arrest by the
+police as a means and a solution for the social control of domestic violence
+
+
+
+#Secondary sources
+
+"Berk (1980) states that police often provide inadequate documentation
+of domestic violence incidents, which results in hindering any further action
+by the criminal justice system."
+
+"The term ‘‘rule of thumb’’ comes from British Common
+Law which allowed men legally to beat their wives with sticks no bigger
+than their thumb, citing that anything bigger would be too uncivilized
+(Brown, 1984)"
+
+In the twentieth century, the traditional police response to cases of domestic
+violence has been dominated by their ‘‘overriding goal to extricate (themselves)
+from the dangerous and unpleasant duty with as little cost as possible
+and to reinvolve (themselves) with ‘real’ police work’’ (Buzawa, 1990).
+
+"Historically, all over the world laws have been in place that condoned domestic
+violence by a man against his wife. In 1140, the first systematization of
+church law specified that ‘‘women were ‘subject to their men’ and needed to
+be corrected through castigation or punishment’’ (Dutton, 1995)."
