@@ -13,6 +13,23 @@
 
 ###Bob is using the RSA public key (e = 21, n = 187) and the correct corresponding private key for singing. Alice receives an unecrypted document M with a digital signature having the value 5. Alice is told that the message is signed by Bob. Explain how Alice will verify the signature, knowing that when applying the hash function to M, the hash code obtained is 82. For full marks use the square and multiply method where appropriate. (7 marks)
 
+
+# Past paper - 2011 
+
+
+
+# Past paper - 2012
+
+###The following questions refer to advanced encryption standard 
+
+####Describe the main steps of the encryption algorithm for block size 128 bits and key size 128 bits (don't describe the decryption or creation of round keys)
+
+####In the design of the algorithm do you think it was necessary that all entries in the Sbox (Substitution table) should be different? Justify your answer. 
+
+####What encryption standard was used before AES and why did it need to be changed? 
+
+###Bob wants to create keys for using RSA public-key cryptography. He choosed the prime numbers p = 101 and q = 103. For his public encryption exponent Bob chooses e = 77. Compute Bob's private key and public key using either the extended Euclidean algorithm (for full marks) or any other method for parial marks. 
+
 # Past paper - 2013
 
 ###Alice and bob use public key cryptography. Bob publishes his public key as (e = 33, n = 3127). Alice wants to send him the message m = 10. How will she encrypt it? Use the square and multiply method for full marks, or any other method for partial marks. Eve has bob's public key and she suspects that Bobs private decryption exponent is d = 8. Do you think she is right? Justify your answer. (If you think she is incorrect, you must determine the correct exponent).
@@ -29,6 +46,8 @@
 ####RSA
 
 #Symmetric key cryptosystems
+
+###Describe the Cipher Block Chaining mode of operation for AES including the encryption as well as decryption process. (The explanation can either be text or a diagram). Explain how a message authentication code (MAC) can be created using AES in CBC mode. Why is this mode suitable for creating a MAC
 
 ###Describe the general structure of a symmetric cryptographic system. Describe the general structure of a public key cryptography system. Compare the two types of systems, discussing the advantages and disadvantages and discuss how the two systems can be combined.
 
@@ -150,7 +169,11 @@ A typical digital signature scheme uses a hash function and a public-key cryptos
 
 ####How do collisions affect the security of a hash function
 
-####A digital signature contains, amongst other things a digital signature. 
+####A digital signature contains, amongst other things a digital signature. What is the role of the signature? 
+
+####Who signs an X509 certificate usually
+
+####Who signs an openPGP certificate usually
 
 ####Explain the notion of weak collision resistance for a hash function. Explain why this property is required for hash functions used in digital signatures
 
@@ -176,6 +199,8 @@ A typical digital signature scheme uses a hash function and a public-key cryptos
 
 ###Discuss denial of service attacks and possible protection measures
 
+###Discuss distributed denial of service attacks and their purpose, methods used for attack and protecting against them (no need to discuss any other type of denial of service attacks).
+
 ###Explain the terms: Virus, Worm, Trojan Horse and discuss their corresponding protection measures
 
 ###What does the term "authentication" mean in cryptography and why is authentication needed? What is a MAC (Message Authentication Code)? Explain the main idea for producing a MAC using a hash function. (HMAC algorithms)( You do not need to know the exact formula for HMAC ). Explain why this method satisfies the requirements of a MAC. Discuss methods of authenticating the time when a message was sent. 
@@ -188,9 +213,13 @@ A typical digital signature scheme uses a hash function and a public-key cryptos
 
 #Network security
 
+###What is phishing and discuss methods of protective against it
+
 ###Discuss cookies in terms of security and privacy threats
 
 ###What are firewalls? What protection do they offer? Discuss different types of firewalls
+
+###Discuss four different techniques that firewalls can employ for protecting a network
 
 ###What is IPSec? What security service does it provide? Describe the AH and ESP version of the protocol. Describe the transport mode and tunnel mode. What are the advantages of using tunnel mode at the router/firewall of an internal network? (Note: you do not need to know the exact structure of the IPSec packets, concentrate on what security mechanisms are used e.g. MAC)
 
