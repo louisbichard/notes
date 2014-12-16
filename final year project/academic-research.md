@@ -192,6 +192,20 @@ s. And yet, this issue continues
 to spark controversy and debate among experts over the use of arrest by the
 police as a means and a solution for the social control of domestic violence
 
+##Page 3
+
+"Since most domestic violence cases were classified as misdemeanor assaults, police officers were gravely restricted as to when they could employ arrest. Until recently, most states had restrictions in place on the use of warrantless misdemeanor arrests"
+
+"Many officers regarded domestic violence incidents as private disputes that should be settled by the parties involved. Thus, police were more likely to resort to a policy that did not criminalize the action."
+
+##Page 4
+
+"With the feminist and women’s rights movements that began in the late 1960s, popular consciousness about societal neglect toward problems of women, such as rape, was raised."
+
+"Although initially focused on crimes involving strangers, women’s rights activists soon began to contemplate the question of violence in the home. As batteredwomen’s shelters began to open around the country, more attorneys, victims’advocates, and social workers became involved in cases of domestic violence."
+
+
+
 #Secondary sources
 
 "Berk (1980) states that police often provide inadequate documentation
@@ -212,5 +226,9 @@ and to reinvolve (themselves) with ‘real’ police work’’ (Buzawa, 1990).
 violence by a man against his wife. In 1140, the first systematization of
 church law specified that ‘‘women were ‘subject to their men’ and needed to
 be corrected through castigation or punishment’’ (Dutton, 1995)."
+
+Berk (1980) states that police often provide inadequate documentation
+of domestic violence incidents, which results in hindering any further action
+by the criminal justice system. S
 
 // TODO: FINISH THIS RESEARCH

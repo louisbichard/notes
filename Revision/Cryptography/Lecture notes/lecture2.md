@@ -14,4 +14,3 @@
 
 ##Substitution cipher
 * Uses a substitution table to swap letters in the alphabet for others
-
