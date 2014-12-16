@@ -1,4 +1,10 @@
 
+# Technology security checklist
+
+__Source:__ http://nnedv.org/resources/safetynetdocs/data-security-checklist.html
+
+// TODO: READ AND GET RELEVANT INFORMATION
+
 #Technologyt & Confidentiality FAQs
 
 __Source__: http://tools.nnedv.org/faq/faqrecords

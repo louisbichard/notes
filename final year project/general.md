@@ -15,6 +15,8 @@
 * Add introductory questions to the site
 	* Ask what preferred contact is
 	* Check if voicemail is okay if they choose phone contact
+* Include anonymous question feature where they don't have to email anyone
+* Session inactivity timeouts
 
 ##Structure of the literature review
 
@@ -22,12 +24,15 @@
 * History of the women rights movement and domestic rights historically
 * Why domestic violence is important
 * The current trends of domestic violence
+* The problem the technology solves
 * Current measures to deal with domestic violence
 	* Police measures
 	* Police acting as social carers
 * Who is the future of domestic violence?
 	* Proposed solutions to domestic violence
 * Existing discreet/ Social care technologies and apps
+* How other online apps ensure that they are secure
+	* Banks
 * The implications of providing social care
 	* The dangers
 	* Legal issues
@@ -41,4 +46,4 @@
 	* Accessed on mobile devices?
 	* Where do they get mobile devices?
 	* Threats of using personal devices
-
+* Use of USB devices for browsing while not on the actual computer

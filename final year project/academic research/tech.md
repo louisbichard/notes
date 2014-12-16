@@ -1,3 +1,37 @@
+#TecSOS phones
+
+// TODO: RESEARCH THIS
+
+#Safety net project
+
+__Source__: Safety Net Project
+
+// TODO: RESEARCH THIS
+
+#Cindy Southworth
+
+//TODO: LOOK UP HER WORK, SHE'S AN ADVOCATE OF DOMESTIC VIOLENCE TECH
+
+
+#Telegraph safety tech
+
+__source__: http://www.telegraph.co.uk/women/womens-life/9913548/International-Womens-Day-2013-It-saved-my-life-The-mobile-phone-giving-domestic-violence-victims-a-lifeline.html
+
+"It was not long before Ruth had need of the new mobile, when her husband flew into yet another violent rage. Unbeknown to him, she pressed the button and the call alerted the police to her location. Within minutes, officers were on the scene and the years of abuse finally drew to a close." 
+
+"Ruth is one of more than 2,000 women in this country who have used these mobiles. Known as TecSOS phones, they were developed by the Vodafone Foundation - the philanthropic arm of mobile phone giant, Vodafone. First used in Spain six years ago, the phones are now being used by police forces in Italy, Portugal, Hungary and the UK."
+
+"Statistics suggest that on average, two women a week are killed by a current or former partner while one in four women will experience domestic violence in their lifetime."
+
+
+
+#Tech safety: Assessing for technology abuse and privacy concerns
+
+__Source__: http://static.squarespace.com/static/51dc541ce4b03ebab8c5c88c/t/53b5753fe4b0c9a85cfa03a0/1404400959539/Assessing+for+Tech+Abuse_2014.pdf
+
+* Prevent compromise of survivors in misuse of technology
+* 
+
 #Tech safety: Messaging survivors
 
 __source__: http://static.squarespace.com/static/51dc541ce4b03ebab8c5c88c/t/53b57520e4b0c9a85cfa0387/1404400928024/Questions+to+Consider+Technlogy+Safety_2014.pdf
@@ -22,18 +56,6 @@ __Source__: http://techsafety.org/
 "Exploring technology in the context of intimate partner violence, sexual assault and violence against women"
 
 "Participants will be given tools and information to respond to technology abuse, to enhance services for survivors of violence, and to hold offenders accountable. In addition to incredible attendees from all over the United States and internationally, our excellent faculty includes the Safety Net Team; survivors; national experts on technology, confidentiality, and privacy’ technology developers  and representatives from technology companies; and leaders in law enforcement, domestic violence, and the legal field. "
-
-
-#Safety net project
-
-__Source__: Safety Net Project
-
-
-// TODO: RESEARCH THIS
-
-#Cindy Southworth
-
-//TODO: LOOK UP HER WORK, SHE'S AN ADVOCATE OF DOMESTIC VIOLENCE TECH
 
 #Crime applications and social machines
 __Reference__: 
