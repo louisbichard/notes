@@ -47,3 +47,19 @@ Most algorithms today follow these basic principles:
 * Encryption and decryption use different keys
 * Keys are related but it's hard to deduce one from the other
 
+##Symmetric vs Public key
+
+###Speed
+Symmetric cryptography is much faster than public key for a similar level of security
+
+###Security
+For same computational cost, symmetric is more secure
+
+###Complexity of implementation
+Symmetric requires a secure channel for passing of its keys which can be expensive
+
+##Combining symmetric and public key cryptography
+* Use public key cryptography to exchange a message with a symmetric key
+* Communicate using symmetric cryptography
+* Used in SSL ang PGP
+
