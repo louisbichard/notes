@@ -55,11 +55,41 @@
 
 ####iii) What encryption standard was used before AES and why did it need to be changed?
 
-#RSA
+#SSL
+
+###What security services does SSL offer? What are the protocols included in SSL? What are the main steps of the protocols? 
+
+###Explain how SSL combines the use of public key cryptography and symmetric cryptography. 
+
+###How does SSL achieve each of the following: confidentiality, authentication, integrity, protection against replay?
+
+###How does SSL use digital signatures?
+
+#Public Key Cryptography
+
+###Explain how PGP/GnuPG works for sending an encrypted email. Explain how PGP combines the use of public key cryptography and symmetric cryptography. 
+
+###What is a PKI (Public key infrastructure)?
+
+###What are the roles of a certification authority and a registration authority?
+
+###How does a web browser determine whether a certificate is genuine?
+
+###Explain how digital signatures are produced using a hash function and a public-key cryptosystem. How are digital signatures checked?
 
 ###It is well known that if an efficient integer factorisation algortithm was found the RSA cryptosystem would be broken. Why?
 
 #Digital signatures
+
+###What are digital signatures?
+
+###What is the purpose of a digital signature?
+
+###What are the main formats of a digital signature?
+
+###What information is contained inside of a digital signature (You do not need to know all the items in a certificate, only about 5 items that you think are important). 
+
+
 
 ###Explain what is meant by collisions for a hash function. 
 
@@ -71,7 +101,7 @@
 
 ###Explain the notion of strong collision resistance 
 
-###Name hash functions that are currently recommended
+###Name hash functions that are currently recommended (You do not need to know the Merkle-Damgard construction and the sponge construction for hash functions)
 
 ###Past paper question (10 marks)
 
@@ -96,6 +126,14 @@ A typical digital signature scheme uses a hash function and a public-key cryptos
 ####The SSL (Secure Socket Layer) protocol uses digital certificates. Explain at which point they are used and how the browser checks that the certificate is genuine. 
 
 #General security
+
+###Discuss different types of attacks that occur over the internet in terms of motivation and the goals the attacker tries to achieve. 
+
+###Discuss non technical security attacks and attacks that exploit the human element ("Social engineering")?
+
+###
+
+###What does the term "authentication" mean in cryptography and why is authentication needed? What is a MAC (Message Authentication Code)? Explain the main idea for producing a MAC using a hash function. (HMAC algorithms)( You do not need to know the exact formula for HMAC ). Explain why this method satisfies the requirements of a MAC. Discuss methods of authenticating the time when a message was sent. 
 
 ###Discuss several methods that can be used by an unauthorised person to obtain the password of a computer system. Discuss possible methods to protect against these attacks (10 marks)
 
