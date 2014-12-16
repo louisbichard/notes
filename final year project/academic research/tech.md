@@ -1,3 +1,9 @@
+##Staffordshire womens aid
+
+__Source__: http://www.staffordshirewomensaid.org/Stalking.php
+
+“There is an increasing amount of stalking and harrassing through internet and other technologies, and they are now key ways in which domestic and sexual violence is perpetrated. I think it’s easy to underestimate the fear that this form of abuse can create, and it is important that people come to acknowledge this. We are pleased to see that national Women's Aid have developed a tool for helping organisations like ours to support victims of cyber abuse. We will continue to work, as a local charity providing support for victims of sexual and domestic violence, to raise awareness on forms of abuse perpetrated through the internet.”
+
 #TecSOS phones
 
 // TODO: RESEARCH THIS
@@ -23,7 +29,7 @@ __source__: http://www.telegraph.co.uk/women/womens-life/9913548/International-W
 
 "Statistics suggest that on average, two women a week are killed by a current or former partner while one in four women will experience domestic violence in their lifetime."
 
-
+"One of the tactics police use is a static alarm based in a victim’s home,” said Liversidge. “The problem with it is the victim gets used to having this blanket of safety so they’re loath to leave home. Inadvertently, you make victims prisoners in their own home. Suddenly, this phone allows you to go out and about and bit by bit, they get their self confidence back."
 
 #Tech safety: Assessing for technology abuse and privacy concerns
 

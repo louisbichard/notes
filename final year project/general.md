@@ -17,6 +17,9 @@
 	* Check if voicemail is okay if they choose phone contact
 * Include anonymous question feature where they don't have to email anyone
 * Session inactivity timeouts
+* Quick link functionality
+	* Keyboard shortcut, or link to drop you onto another webpage immediately
+* Possibility for cloaking the website so it appears to be something else.
 
 ##Structure of the literature review
 
