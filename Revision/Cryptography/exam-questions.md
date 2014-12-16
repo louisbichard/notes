@@ -9,11 +9,24 @@
 
 # Past paper - 2009
 
-### Decribe the one-time pad encryption and discuss its security (6 marks)
-
 ### Bob is setting up his keys for RSA cryptosystem. He has computed his keys as (e = 21, n = 187) for the public key and (d = 62, p = 11, q = 17) for the private key. Is this a correct key pair? Justify your answer. You can use any method you want for checking whether the keys are correct. If they are not, you do not need to produce alternative correct keys. (7 marks)
 
 ###Bob is using the RSA public key (e = 21, n = 187) and the correct corresponding private key for singing. Alice receives an unecrypted document M with a digital signature having the value 5. Alice is told that the message is signed by Bob. Explain how Alice will verify the signature, knowing that when applying the hash function to M, the hash code obtained is 82. For full marks use the square and multiply method where appropriate. (7 marks)
+
+# Past paper - 2013
+
+###Alice and bob use public key cryptography. Bob publishes his public key as (e = 33, n = 3127). Alice wants to send him the message m = 10. How will she encrypt it? Use the square and multiply method for full marks, or any other method for partial marks. Eve has bob's public key and she suspects that Bobs private decryption exponent is d = 8. Do you think she is right? Justify your answer. (If you think she is incorrect, you must determine the correct exponent).
+
+#Symmetric vs public key cryptography
+
+###Compare the two different types of cryptography, discussing their advantages and disadvantages. 
+
+###For each of the following algorithms, specify whether they are symmetric, public-key:
+####Substitution cipher
+####One-time pad
+####AES
+####DES
+####RSA
 
 #Symmetric key cryptosystems
 
@@ -75,6 +88,8 @@
 
 #SSL
 
+###For SSL, describe where encryption is used in the protocol and what type of encryption it is (symm or pub)
+
 ###What security services does SSL offer? What are the protocols included in SSL? What are the main steps of the protocols? 
 
 ###Explain how SSL combines the use of public key cryptography and symmetric cryptography. 
@@ -94,6 +109,8 @@
 ###How does a web browser determine whether a certificate is genuine?
 
 ###Explain how digital signatures are produced using a hash function and a public-key cryptosystem. How are digital signatures checked?
+
+###Explain how digital signatures are verified. 
 
 ###It is well known that if an efficient integer factorisation algortithm was found the RSA cryptosystem would be broken. Why?
 
@@ -130,6 +147,10 @@ A typical digital signature scheme uses a hash function and a public-key cryptos
 ####Explain how the signature is verified
 
 ####What are collisions for a hash function
+
+####How do collisions affect the security of a hash function
+
+####A digital signature contains, amongst other things a digital signature. 
 
 ####Explain the notion of weak collision resistance for a hash function. Explain why this property is required for hash functions used in digital signatures
 
@@ -178,3 +199,7 @@ A typical digital signature scheme uses a hash function and a public-key cryptos
 ###Discuss the security related features a customer would expect to see on an e-commerce website (only mention features visible to the customer) (10 marks)
 
 ###What would a web browser do with a digital certificate after it finds out that it's genuine. 
+
+###Discuss buffer overflow attacks and possible measures to protect against them. (5 marks)
+
+### Decribe the one-time pad encryption and discuss its security (6 marks)
