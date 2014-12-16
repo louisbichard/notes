@@ -115,6 +115,8 @@
 
 #SSL
 
+###An attacker Eve could record a genuine Secure Socket Layer session between alice and her bank as it takes place. Eve could then attempt 
+
 ###You are about to make an online payment to an e-commerce website ABC.co.uk using secure socket layer (SSL) protocol. This website sends to your browser a digital certificate issued by the certificate authority XYZ. How does your web browser verify that the certificate of the ABC.co.uk is genuine? 
 
 ###For SSL, describe where encryption is used in the protocol and what type of encryption it is (symm or pub)
