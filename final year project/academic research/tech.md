@@ -36,7 +36,6 @@ __source__: http://www.telegraph.co.uk/women/womens-life/9913548/International-W
 __Source__: http://static.squarespace.com/static/51dc541ce4b03ebab8c5c88c/t/53b5753fe4b0c9a85cfa03a0/1404400959539/Assessing+for+Tech+Abuse_2014.pdf
 
 * Prevent compromise of survivors in misuse of technology
-* 
 
 #Tech safety: Messaging survivors
 
