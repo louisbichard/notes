@@ -7,6 +7,14 @@
 * Some marks awarded for additional revision
 * No questions regarding port sniffers and scanners in this year
 
+# Past paper - 2009
+
+### Decribe the one-time pad encryption and discuss its security (6 marks)
+
+### Bob is setting up his keys for RSA cryptosystem. He has computed his keys as (e = 21, n = 187) for the public key and (d = 62, p = 11, q = 17) for the private key. Is this a correct key pair? Justify your answer. You can use any method you want for checking whether the keys are correct. If they are not, you do not need to produce alternative correct keys. (7 marks)
+
+###Bob is using the RSA public key (e = 21, n = 187) and the correct corresponding private key for singing. Alice receives an unecrypted document M with a digital signature having the value 5. Alice is told that the message is signed by Bob. Explain how Alice will verify the signature, knowing that when applying the hash function to M, the hash code obtained is 82. For full marks use the square and multiply method where appropriate. (7 marks)
+
 #Symmetric key cryptosystems
 
 ###Describe the general structure of a symmetric cryptographic system. Describe the general structure of a public key cryptography system. Compare the two types of systems, discussing the advantages and disadvantages and discuss how the two systems can be combined.
@@ -43,6 +51,15 @@
 
 ####Discuss whether this mode is suitable for producing a MAC (Message Authentication Code). In the affirmative case explain how is the MAC obtained. 
 
+###In AES encryption algorithm there are several rounds, eaching containing the operations Add Round Key, Substitute Bytes, Shift Rows, Mix Columns. Discuss how will the algorithm be affected in the following separate scenarios:
+
+####The add round key operation is not performed at all in any round
+
+####In each round, in the Add Round Key, instead of computing a bitwise XOR between the state and the key, we use a bitwise OR (6 marks).
+
+###Name two formats for digital signatures
+
+###Name three pieces of information that you feel are most important in a certificate, regardless of the format (if you can't decide which three are most important, name up to five) and briefly explain why you think they are imporant. 
 
 ###Describe the main steps of the encryption and decryption algorithms in the Advanced Encryption Standard (AES). What encryption standard was used before AES and why did it need to be replaced?
 
@@ -160,3 +177,4 @@ A typical digital signature scheme uses a hash function and a public-key cryptos
 
 ###Discuss the security related features a customer would expect to see on an e-commerce website (only mention features visible to the customer) (10 marks)
 
+###What would a web browser do with a digital certificate after it finds out that it's genuine. 
