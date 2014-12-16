@@ -16,7 +16,7 @@
 
 # Past paper - 2011 
 
-
+###Alice and Bob use RSA public key cryptography. Bob chooses the prime numbers p=7 and q = 11. For his public encryption exponent Bob wants to chose either e=3 or e=7 or e=13 or e=14. At least one of these values if a valid choice but some might not be valid choices. For each choice explain why it is valid or not. Pick a valid choice and compute Bob's private key and public key using either the extended Euclidean algorithm (for full marks) or any other method (for partial marks). 
 
 # Past paper - 2012
 
@@ -45,9 +45,17 @@
 ####DES
 ####RSA
 
+###Describe the general structure of symmetric cryptographic system. 
+
+###Describe the general structure of public key cryptographic system
+
+###Give an example of both types of cryptography (symm and public key). 
+
+###Describe how the two types of cryptography can be combined and describe the advantages of doing so. 
+
 #Symmetric key cryptosystems
 
-###Describe the Cipher Block Chaining mode of operation for AES including the encryption as well as decryption process. (The explanation can either be text or a diagram). Explain how a message authentication code (MAC) can be created using AES in CBC mode. Why is this mode suitable for creating a MAC
+###Describe the Cipher Block Chaining mode of operation for AES including the encryption as well as decryption process. (The explanation can either be text or a diagram). Explain how a message authentication code (MAC) can be created using AES in CBC mode. Why is this mode suitable for creating a MAC?
 
 ###Describe the general structure of a symmetric cryptographic system. Describe the general structure of a public key cryptography system. Compare the two types of systems, discussing the advantages and disadvantages and discuss how the two systems can be combined.
 
@@ -106,6 +114,8 @@
 ####iii) What encryption standard was used before AES and why did it need to be changed?
 
 #SSL
+
+###You are about to make an online payment to an e-commerce website ABC.co.uk using secure socket layer (SSL) protocol. This website sends to your browser a digital certificate issued by the certificate authority XYZ. How does your web browser verify that the certificate of the ABC.co.uk is genuine? 
 
 ###For SSL, describe where encryption is used in the protocol and what type of encryption it is (symm or pub)
 
