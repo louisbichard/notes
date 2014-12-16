@@ -1,3 +1,15 @@
+##Do restraining orders work
+
+__Source__: http://www.sagepub.com/booksProdDesc.nav?prodId=Book5497
+
+// TODO: READ
+
+## The meaning of arrest
+
+__source__: http://onlinelibrary.wiley.com/doi/10.1111/j.1745-9125.1989.tb00867.x/pdf
+
+// TODO: READ
+
 #NNEDV (National network to end domestic violence)
 
 __Source:__ http://nnedv.org/about.html
@@ -187,13 +199,12 @@ police as a means and a solution for the social control of domestic violence
 
 "And, it gives women who are ready to leave their abusive partner the time to find somewhere else to go or to get a protective order (Starks, 1993)."
 
-"Manning (1993) argues that arresting batterers will target minorities and people from low socioeconomic backgrounds since arrests in domestic violence cases are disproportionately of lower class,"
 
 "Many victims do not actually want the offender arrested, but rather want to control the immediate situation--stop the violence at that time (Gelles, 1993)."
 
 "Finally, Sherman (1993) puts forth the following summary of conclusions from the domestic violence research on police use of arrest: (1) arrest reduces violence in some cities, but increases it in others, (2) arrest reduces domestic violence among employed people, but increases it among unemployed people, (3) arrest reduces domestic violence in the short run, but can increase it in the long run, and (4) police can predict which couples are most likely to suffer future violence, but our society values privacy too highly to encourage preventive action"
 
-"Williams and Hawkins’ (1989) analysis concluded that arrest works as a deterrent, but only for those who have something to lose"
+
 
  "Crimes that are economically motivated or require intense planning seem to be more receptive to deterrence than ‘‘noneconomic crimes in general and crimes involving the impulsive, explosive use of violence typical in domestic violence assaults’’ (Buzawa, 1990)"
 

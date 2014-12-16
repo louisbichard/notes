@@ -8,7 +8,18 @@ Opinions matter is "research conducted to identify peoples attitudes towards rap
 
 From a survey on 1061 random Londoners, the organisation Opinion matters found that when asked whether they would report a case of sexual assault to the police 20% of respondent said either definitely 'no' or 'maybe'. Out of these respondnets the reasons for their uncertainty in reporting the crime was because they would be too embarassed, would want to forget it ever happened, wouldn't want to go to court, would be afraid of repercussions or would be afraid that their family might find out (Opinion matters, 2010). From this research it can be deduced that a large amount of sexual offences go undetected and are simply unknown to the police. 
 
-// TODO: FIND OUT IF THIS IS REFERENCED TOO MANY TIMES
+##Current control measures for violent crime cases
+
+###Use of the police
+
+####Mandatory arrest
+
+In some countries such as the US, mandatory arrest is used as a deterrent or repercussion to control reoffending and recidivism of domestic violence related crimes. However "the weight of the literature seems to suggest that mandatory arrest policies may not achieve universally positive goals" (Melton, 2008). The reason for this lack of positive results appears to be linked to the demographics of the incidents. As identified by Williams & Dawkins (2006) analysis concludes that arrest works as a deterrent only in the cases as for those who have something to lose"
+
+
+
+"Manning (1993) argues that arresting batterers will target minorities and people from low socioeconomic backgrounds since arrests in domestic violence cases are disproportionately of lower class,"
+
 
 #Why domestic violence is important
 
@@ -78,10 +89,16 @@ __Ability to deliver on promises__: This is particularly relevant to mobile appl
 
 #References
 
-Opinion matters, 2010. Wake up to rape research. The Havens (Sexual assault referral centres) [online]. [viewed 14 December 2014]. Available from: http://www.vawpreventionscotland.org.uk/sites/default/files/Havens_Wake_Up_To_Rape_Report_Summary.pdf
+OPINION MATTERS, 2010. Wake up to rape research. The Havens (Sexual assault referral centres) [online]. [viewed 14 December 2014]. Available from: http://www.vawpreventionscotland.org.uk/sites/default/files/Havens_Wake_Up_To_Rape_Report_Summary.pdf
+
+MELTON, H., 2008. Police response to domestic violence. Journal of offender rehabilitation, 29 (1-2), 1-21. 
+
+MANNING, P., 1993. The preventitive conceit: The black box in marketing context. In: E.S.Buzawa, C.G.& Buzawa, Do arrests and restraining orders work? Thousand Oaks, CA, p.83-97.
+
+WILLIAMS, K.R., RICHARD HAWKINS, 2006. The meaning of arrest for wife assault. Criminology, 27 (1), 163-182.
+
 
 ##Example references
-
 
 ###Book
 
