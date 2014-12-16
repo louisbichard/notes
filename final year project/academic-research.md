@@ -192,8 +192,6 @@ s. And yet, this issue continues
 to spark controversy and debate among experts over the use of arrest by the
 police as a means and a solution for the social control of domestic violence
 
-
-
 #Secondary sources
 
 "Berk (1980) states that police often provide inadequate documentation
@@ -214,3 +212,5 @@ and to reinvolve (themselves) with ‘real’ police work’’ (Buzawa, 1990).
 violence by a man against his wife. In 1140, the first systematization of
 church law specified that ‘‘women were ‘subject to their men’ and needed to
 be corrected through castigation or punishment’’ (Dutton, 1995)."
+
+// TODO: FINISH THIS RESEARCH
