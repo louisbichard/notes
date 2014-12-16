@@ -13,6 +13,11 @@
 
 ###Bob is using the RSA public key (e = 21, n = 187) and the correct corresponding private key for singing. Alice receives an unecrypted document M with a digital signature having the value 5. Alice is told that the message is signed by Bob. Explain how Alice will verify the signature, knowing that when applying the hash function to M, the hash code obtained is 82. For full marks use the square and multiply method where appropriate. (7 marks)
 
+# Past paper - 2010
+
+###Alice and Bob use RSA public-key cryptography. For his private key Bob chooses the prime numbers p = 11 and q = 17. For his public key he chooses the exponent e = 23. Compute Bob's private key and public key using either the extended Euclidean algorithm (for full marks) or any other method (for partial marks). 
+
+###Using this setup, Alice wants to send Bob the message 3. How will she encrypt it? Use the square and multiply method (for full marks) or any other method for partial marks. 
 
 # Past paper - 2011 
 
@@ -54,6 +59,8 @@
 ###Describe how the two types of cryptography can be combined and describe the advantages of doing so. 
 
 #Symmetric key cryptosystems
+
+###What is the purpose of message authentication? Explain the method for producing a message authentication code (MAC) using a hash function and a shared secret key. Where is a MAC used in Secure Socket Layer (SSL) protocol. 
 
 ###Describe the Cipher Block Chaining mode of operation for AES including the encryption as well as decryption process. (The explanation can either be text or a diagram). Explain how a message authentication code (MAC) can be created using AES in CBC mode. Why is this mode suitable for creating a MAC?
 
@@ -115,7 +122,9 @@
 
 #SSL
 
-###An attacker Eve could record a genuine Secure Socket Layer session between alice and her bank as it takes place. Eve could then attempt 
+###What kind of encryption is used in the Secure Socket Layer (SSL) protocol: Where exactly in the protocol is encryption used and why? 
+
+###An attacker Eve could record a genuine Secure Socket Layer session between alice and her bank as it takes place. Eve could then attempt to connect to the bank later and replay the recorded session in the hope of making the bank believe this is a new communication from Alice. How is this prevented in SSL?
 
 ###You are about to make an online payment to an e-commerce website ABC.co.uk using secure socket layer (SSL) protocol. This website sends to your browser a digital certificate issued by the certificate authority XYZ. How does your web browser verify that the certificate of the ABC.co.uk is genuine? 
 
@@ -135,6 +144,10 @@
 
 ###What is a PKI (Public key infrastructure)?
 
+###Name the two formats of digital certificates
+
+###What is the prupose of a digital certificate
+
 ###What are the roles of a certification authority and a registration authority?
 
 ###How does a web browser determine whether a certificate is genuine?
@@ -146,6 +159,8 @@
 ###It is well known that if an efficient integer factorisation algortithm was found the RSA cryptosystem would be broken. Why?
 
 #Digital signatures
+
+###Assume you have a hash function which produces outputs (hash codes) which are 16 bits long. Discuss the sustainability of this function for the digital signature scheme (public key and hashing). (Taken from 2010 paper if this makes no sense)
 
 ###What are digital signatures?
 
