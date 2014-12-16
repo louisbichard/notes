@@ -18,6 +18,32 @@ __Cryptology__: Cryptography + Cryptanalysis
 	* Replay
 	* Impersonation
 	* Impersonating the sender and reciever (man in the middle)
-	* 
 
 // TODO: DEFINE REPLAY
+
+##Uses of cryptography
+
+* __Confidentiality__: Messages can only be read by the intended recipient
+* __Authentication__: Guarentee's the identity of the parties
+* __Integrity__: Unauthorised changes to messages would be detected
+* __Non-repudiation__: A party cannot deny that a message was sent of recieved by them
+
+##Principles of cryptographic algorithms
+
+Most algorithms today follow these basic principles: 
+
+* Not recommended to keep the algorithm secret
+* Decryption key must be kept secret
+* Algorithms are publically known
+	* Genuinely strong cryptography shouldn't need to do this
+
+##Types of cryptography
+
+###Symmetric cryptography
+* The conventional method of encryption
+* A secure channel is required for key distribution
+
+###Public key cryptography
+* Encryption and decryption use different keys
+* Keys are related but it's hard to deduce one from the other
+
