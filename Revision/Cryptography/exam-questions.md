@@ -5,6 +5,7 @@
 * Calculators are allowed
 * Similar to past years
 * Some marks awarded for additional revision
+* No questions regarding port sniffers and scanners in this year
 
 #Symmetric key cryptosystems
 
@@ -129,9 +130,15 @@ A typical digital signature scheme uses a hash function and a public-key cryptos
 
 ###Discuss different types of attacks that occur over the internet in terms of motivation and the goals the attacker tries to achieve. 
 
-###Discuss non technical security attacks and attacks that exploit the human element ("Social engineering")?
+###Discuss non technical security attacks and attacks that exploit the human element ("Social engineering")? And provide methods to protect against these attacks
 
-###
+###Discuss some of the potential threats when using executable content on a cient computer. Discuss possible measures to protect against these attacks
+
+###Discuss several methods that can be used by an unauthorised person to obtain the password to a computer system. Discuss measures to take to prevent this from happening
+
+###Discuss denial of service attacks and possible protection measures
+
+###Explain the terms: Virus, Worm, Trojan Horse and discuss their corresponding protection measures
 
 ###What does the term "authentication" mean in cryptography and why is authentication needed? What is a MAC (Message Authentication Code)? Explain the main idea for producing a MAC using a hash function. (HMAC algorithms)( You do not need to know the exact formula for HMAC ). Explain why this method satisfies the requirements of a MAC. Discuss methods of authenticating the time when a message was sent. 
 
@@ -143,7 +150,11 @@ A typical digital signature scheme uses a hash function and a public-key cryptos
 
 #Network security
 
-###What are port scanners/network scanners? How are they used for legitimate and illigitimate purposes?
+###Discuss cookies in terms of security and privacy threats
+
+###What are firewalls? What protection do they offer? Discuss different types of firewalls
+
+###What is IPSec? What security service does it provide? Describe the AH and ESP version of the protocol. Describe the transport mode and tunnel mode. What are the advantages of using tunnel mode at the router/firewall of an internal network? (Note: you do not need to know the exact structure of the IPSec packets, concentrate on what security mechanisms are used e.g. MAC)
 
 ###Discuss the security of the IEEE 802.11 (Wifi protocol)(6 marks)
 
