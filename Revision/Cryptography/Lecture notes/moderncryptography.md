@@ -62,3 +62,36 @@ Is done by expanding the original key
 * For every 4th word, another method is applied (Involves rotation of the word, and xor with a predefined value and substitution using S-BOX)
 * Expanded key is split into round keys of the required size
 
+##Decryption
+* All operations in the decryption rounds are reversed
+* The resulting decryption algorithm is similar, but not identical to encryption
+
+##Symmetric cryptosystem examples
+* Triple DES
+* IDEA
+* Serpent
+* Blowfith (Twofish)
+* RC2 & RC5
+* CAST
+
+##Modes of operation
+
+###ECB ( Electronic codebook )
+* Each block is encoded independently using the same key
+* Used for short messages (e.g key transmission)
+* Vulnerable if used for long  messages
+	* Repeated blocks of plaintext will cause repeated blocks of ciphertext
+
+###CBC ( Cipher block chaining )
+* The first block is XOR-ed with an initialisation vector and then encrypted
+* The vector can be made public or kept secret ... it's usually random and changed on each use of CBC
+
+###OFB (Output feedback) 
+* Keystream is produced by repeatedly encrypting the initialisation vector using the same key. Each encryption produces one more block of bits in the keystream
+
+## CFB ( Cipher feedback ) 
+* Initialisation vector is encrypted producing the first block of the keystream. This is XORed with the first block of plaintext to obtain the first block of ciphertext. Each block of ciphertext is encrypted using the same key K to obtain the next block of the keystream. 
+
+## CTR ( Counter )
+* The keystream is produced by encrypting an initial coutner value, then adding one to each counter value. 
+* A new random counter value should be used each time the coutner mode is used
