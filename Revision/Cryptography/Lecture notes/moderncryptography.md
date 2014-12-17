@@ -4,6 +4,43 @@
 * Hiding relation between ciphertext and the key
 
 
-##Confusion and diffusion
+#Confusion and diffusion
+
+##Definitions
 __Confusion__: Hiding the relation between ciphertext and key
-__Diffusion__: 
+__Diffusion__: Spreading information. Small changes in cipher text should produce large changes in ciphertext
+
+##Overview
+* Usuaully achieved by a combination of _substitutions_ and _permutations_
+* Substitutions ( S-BOX ) act on smaller groups of bits
+* Permutations act over the whole block
+
+###How it is achieved
+* Is achieved by running several rounds, e.g. substitutions, permutations and XORing
+* Bit block lengths can be up to 64-254 bits
+
+#DES ( Data encryption standard )
+* A symmetric key system
+* Very fast
+* Advances in comuting power made it vulnerable to exhaustive key search
+* Was replaced by a new standard AES ( Advanced encryption standard )
+
+##Cryptanalysis of DES
+* Exhaustive key search succeded to crack DES in recent years
+* Several DES cracking challenges resulted in brute force breaking of DES
+
+##How to make DES stronger
+* Triple DES
+	* Encrypt using one key
+	* Decrypt with another second key
+	* Encrypt again using the first key (or a third)
+
+#AES ( Advanced encryption standard )
+* Consists of several rounds, each consisting of a combination of substitutions, permutations and XOR-ing with the round key
+* All bits are treated equally and each round acts on all 
+* Plain text is organised in a 4 x 4 array of bytes, called the state
+* Successive bytes are written in column wise arrays
+
+##Rounds of encryption
+* __Byte sub__ ( An SBOX  ) is applied to each byte
+* __ShiftRow__: Each row is cyclically shifted left by the offsets 0, 1, 2, 3 bytes
