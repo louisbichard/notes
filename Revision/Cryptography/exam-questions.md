@@ -43,28 +43,38 @@
 
 ###Compare the two different types of cryptography, discussing their advantages and disadvantages. 
 
+__Symmetric__ encryption is where both sender and reciever have access to a decryption key. Because of this, a secure channel must be available in order for the communication of the key between those wishing to decrypt. 
+
+__Public key cryptography__: Refers to when the reciever of the message has a private key to which he can decrypt messages. They then make the encryption key public so that anyone has access to the key. 
+
+* Symmetric encryption is considerably quicker than public key encryption for the same level of security
+* For the same level of computational cost, symmetric is more secure
+* Symmetric key requires a secure channel for communicating the key which can be expensive therefore making public key cryptography more accessible. 
+
 ###For each of the following algorithms, specify whether they are symmetric, public-key:
 ####Substitution cipher
+
+__Symmetric__ is done through shifting of letters according to a block table
+
 ####One-time pad
 ####AES
 ####DES
 ####RSA
 
-###Describe the general structure of symmetric cryptographic system. 
-
-###Describe the general structure of public key cryptographic system
-
 ###Give an example of both types of cryptography (symm and public key). 
 
+__Symmetric__: Caesar cipher
+__Public key__: RSA
+
 ###Describe how the two types of cryptography can be combined and describe the advantages of doing so. 
+
+As symmetric key encryption is much faster, this can be used as the main communication channel, however it's difficult to share the key without a secure channel. By sending the symmetric key encrypted using public key cryptography the symmetric key can be communicated securely. 
 
 #Symmetric key cryptosystems
 
 ###What is the purpose of message authentication? Explain the method for producing a message authentication code (MAC) using a hash function and a shared secret key. Where is a MAC used in Secure Socket Layer (SSL) protocol. 
 
 ###Describe the Cipher Block Chaining mode of operation for AES including the encryption as well as decryption process. (The explanation can either be text or a diagram). Explain how a message authentication code (MAC) can be created using AES in CBC mode. Why is this mode suitable for creating a MAC?
-
-###Describe the general structure of a symmetric cryptographic system. Describe the general structure of a public key cryptography system. Compare the two types of systems, discussing the advantages and disadvantages and discuss how the two systems can be combined.
 
 ###Explain how the one-time pad cryptographic system works and discuss its security
 
@@ -142,8 +152,6 @@
 
 ###Explain how PGP/GnuPG works for sending an encrypted email. Explain how PGP combines the use of public key cryptography and symmetric cryptography. 
 
-###What is a PKI (Public key infrastructure)?
-
 ###Name the two formats of digital certificates
 
 ###What is the prupose of a digital certificate
@@ -169,8 +177,6 @@
 ###What are the main formats of a digital signature?
 
 ###What information is contained inside of a digital signature (You do not need to know all the items in a certificate, only about 5 items that you think are important). 
-
-
 
 ###Explain what is meant by collisions for a hash function. 
 
