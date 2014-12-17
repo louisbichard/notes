@@ -150,13 +150,17 @@ Before AES was DES. Whilst DES was very fast, advances in computational power ma
 
 ###Explain how PGP/GnuPG works for sending an encrypted email. Explain how PGP combines the use of public key cryptography and symmetric cryptography. 
 
+###It is well known that if an efficient integer factorisation algortithm was found the RSA cryptosystem would be broken. Why?
+
+#Digital signatures
+
 ###Name two formats for digital signatures
 
+Encrypted using just a public key, or the combination of both a hash function and the public key
+
+// TODO: DOUBLE CHECK THAT THIS IS ACTUALLY THE CASE
+
 ###Name three pieces of information that you feel are most important in a certificate, regardless of the format (if you can't decide which three are most important, name up to five) and briefly explain why you think they are imporant
-
-###Name the two formats of digital certificates
-
-###What is the prupose of a digital certificate
 
 ###What are the roles of a certification authority and a registration authority?
 
@@ -164,21 +168,13 @@ Before AES was DES. Whilst DES was very fast, advances in computational power ma
 
 ###Explain how digital signatures are produced using a hash function and a public-key cryptosystem. How are digital signatures checked?
 
-To sign a message using hashing and public key cryptography first the message is hashed to produce.
+To sign a message using hashing and public key cryptography first the message is hashed to produce a message digest and this is 'signed' using the private key. This is then published and associated to a signature. 
+
+To verify this, apply the hash function to the message to compute the digest (h1) and encrypt the signature using teh public key (h2). If these are equal, then the messgae is genuine. 
 
 ###Explain how digital signatures are verified. 
 
-###It is well known that if an efficient integer factorisation algortithm was found the RSA cryptosystem would be broken. Why?
-
-#Digital signatures
-
 ###Assume you have a hash function which produces outputs (hash codes) which are 16 bits long. Discuss the sustainability of this function for the digital signature scheme (public key and hashing). (Taken from 2010 paper if this makes no sense)
-
-###What are digital signatures?
-
-###What is the purpose of a digital signature?
-
-###What are the main formats of a digital signature?
 
 ###What information is contained inside of a digital signature (You do not need to know all the items in a certificate, only about 5 items that you think are important). 
 
@@ -222,6 +218,8 @@ A typical digital signature scheme uses a hash function and a public-key cryptos
 
 ####How do collisions affect the security of a hash function
 
+// TODO: WORK THIS OUT
+
 ####A digital signature contains, amongst other things a digital signature. What is the role of the signature? 
 
 The signature ensures that:
@@ -229,6 +227,7 @@ The signature ensures that:
 * You can prove the identity of the author and therefore be sure that it wasn't forge
 * The signer cannot deny that they signed the message
 * Is integral, i.e it is tied to the message, so the message cannot be tampered with, and if it is it would disrupt the message and be obvious that it was forged. 
+* Has a timestamp to prevent replay
 
 ####Who signs an X509 certificate usually
 
@@ -239,8 +238,6 @@ The signature ensures that:
 ####Are there cryptographic hash functions that do not have any collisons? Justify your answer
 
 ### Past paper Digital signature questions (10 marks)
-
-####Name the two main formats for digital signatures
 
 ####What does a certification authority and registration authority do?
 

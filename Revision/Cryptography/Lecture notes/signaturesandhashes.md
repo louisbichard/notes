@@ -55,3 +55,4 @@ __RIPEMD-160__: 160 bit output
 ##When is a hash function broken?
 
 If there is a method for finding collisions significantly quicker than brute force
+
