@@ -57,6 +57,11 @@ __Public key cryptography__: Refers to when the reciever of the message has a pr
 __Symmetric__ is done through shifting of letters according to a block table
 
 ####One-time pad
+
+__Symmetric__ the key is secret and found on a pad
+
+// TODO: DOUBLE CHECK THIS
+
 ####AES
 ####DES
 ####RSA
@@ -70,13 +75,19 @@ __Public key__: RSA
 
 As symmetric key encryption is much faster, this can be used as the main communication channel, however it's difficult to share the key without a secure channel. By sending the symmetric key encrypted using public key cryptography the symmetric key can be communicated securely. 
 
+#Stream ciphers
+
+###Explain how the one-time pad cryptographic system works and discuss its security
+
+One time pad is a __stream cipher__ that achieves __perfect secrecy__. The keystream is truly random, meaning that given any ciphertext, all plaintexts will have been equally likely to have generated it. One-time pad as a result is very expensive as the keystream is the same length of the message itself. Due to its strength as a cryptosystem it is used in military and diplomatic contexts where security is paramount. 
+
+// TODO: DO SOME RESEARCH ON THIS TO 'PAD IT OUT' (GET IT! ... OH MAN, I'M LOSING IT)
+
 #Symmetric key cryptosystems
 
 ###What is the purpose of message authentication? Explain the method for producing a message authentication code (MAC) using a hash function and a shared secret key. Where is a MAC used in Secure Socket Layer (SSL) protocol. 
 
 ###Describe the Cipher Block Chaining mode of operation for AES including the encryption as well as decryption process. (The explanation can either be text or a diagram). Explain how a message authentication code (MAC) can be created using AES in CBC mode. Why is this mode suitable for creating a MAC?
-
-###Explain how the one-time pad cryptographic system works and discuss its security
 
 ###For ECB (Electronic cook book):
 
@@ -263,5 +274,3 @@ A typical digital signature scheme uses a hash function and a public-key cryptos
 ###What would a web browser do with a digital certificate after it finds out that it's genuine. 
 
 ###Discuss buffer overflow attacks and possible measures to protect against them. (5 marks)
-
-### Decribe the one-time pad encryption and discuss its security (6 marks)
