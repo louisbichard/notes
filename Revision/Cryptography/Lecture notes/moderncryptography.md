@@ -42,7 +42,7 @@ __Diffusion__: Spreading information. Small changes in cipher text should produc
 * Successive bytes are written in column wise arrays
 
 ##Rounds of encryption
-* __Byte sub__ ( An SBOX  ) is applied to each byte
+* __Byte sub__ ( An SBOX ) is applied to each byte
 * __ShiftRow__: Each row is cyclically shifted left by the offsets 0, 1, 2, 3 bytes
 * __MixColumn__: Each column of bytes is transformed by a finite field operation ( can be viewed as a substitution acting on each column )
 * __AddRoundKey__: The round key, written column wise is XOR'ed to the current block
@@ -50,7 +50,6 @@ __Diffusion__: Spreading information. Small changes in cipher text should produc
 ##Rounds
 * There is an XOR with a round key before the first round
 * The last round skips the mixcolumns step
-
 
 ##RoundKey generation
 Is done by expanding the original key

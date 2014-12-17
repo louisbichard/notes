@@ -52,6 +52,7 @@ __Public key cryptography__: Refers to when the reciever of the message has a pr
 * Symmetric key requires a secure channel for communicating the key which can be expensive therefore making public key cryptography more accessible. 
 
 ###For each of the following algorithms, specify whether they are symmetric, public-key:
+
 ####Substitution cipher
 
 __Symmetric__ is done through shifting of letters according to a block table
@@ -63,8 +64,16 @@ __Symmetric__ the key is secret and found on a pad
 // TODO: DOUBLE CHECK THIS
 
 ####AES
+
+__Symmetric__
+
 ####DES
+
+__Symmetric__
+
 ####RSA
+
+__Public Key__
 
 ###Give an example of both types of cryptography (symm and public key). 
 
@@ -87,59 +96,37 @@ One time pad is a __stream cipher__ that achieves __perfect secrecy__. The keyst
 
 ###What is the purpose of message authentication? Explain the method for producing a message authentication code (MAC) using a hash function and a shared secret key. Where is a MAC used in Secure Socket Layer (SSL) protocol. 
 
-###Describe the Cipher Block Chaining mode of operation for AES including the encryption as well as decryption process. (The explanation can either be text or a diagram). Explain how a message authentication code (MAC) can be created using AES in CBC mode. Why is this mode suitable for creating a MAC?
+###Describe the Cipher Block Chaining mode of operation for AES including the encryption as well as decryption process. (The explanation can either be text or a diagram).
 
-###For ECB (Electronic cook book):
+* The first block is XOR-ed with an initialisation vector and then encrypted
+* The vector can be made public or kept secret ... it's usually random and changed on each use of CBC
 
-####Assume in the plaintext there is a block of text that appears several times. Discuss whether this fact will reflect in the ciphertext for this mode
+// TODO: SUBMIT THIS ONE TO MEMORY
 
-####Discuss whether this mode is suitable for producing a MAC (Message Authentication Code). In the affirmative case explain how is the MAC obtained. 
-
-###For CBC (Cipher Block Chaining):
-
-####Assume in the plaintext there is a block of text that appears several times. Discuss whether this fact will reflect in the ciphertext for this mode
-
-####Discuss whether this mode is suitable for producing a MAC (Message Authentication Code). In the affirmative case explain how is the MAC obtained. 
-
-###For OFB (Ouput feedback):
-
-####Assume in the plaintext there is a block of text that appears several times. Discuss whether this fact will reflect in the ciphertext for this mode
-
-####Discuss whether this mode is suitable for producing a MAC (Message Authentication Code). In the affirmative case explain how is the MAC obtained. 
-
-###For CFB (Cipher Feedback):
-
-####Assume in the plaintext there is a block of text that appears several times. Discuss whether this fact will reflect in the ciphertext for this mode
-
-####Discuss whether this mode is suitable for producing a MAC (Message Authentication Code). In the affirmative case explain how is the MAC obtained. 
-
-###For CTR (Counter:
-
-####Assume in the plaintext there is a block of text that appears several times. Discuss whether this fact will reflect in the ciphertext for this mode
-
-####Discuss whether this mode is suitable for producing a MAC (Message Authentication Code). In the affirmative case explain how is the MAC obtained. 
+### Explain how a message authentication code (MAC) can be created using AES in CBC mode. Why is this mode suitable for creating a MAC?
 
 ###In AES encryption algorithm there are several rounds, eaching containing the operations Add Round Key, Substitute Bytes, Shift Rows, Mix Columns. Discuss how will the algorithm be affected in the following separate scenarios:
+
+// TODO: IN ORDER TO ANSWER THESE, WATCH A YOUTUBE VIDEO
 
 ####The add round key operation is not performed at all in any round
 
 ####In each round, in the Add Round Key, instead of computing a bitwise XOR between the state and the key, we use a bitwise OR (6 marks).
 
-###Name two formats for digital signatures
-
-###Name three pieces of information that you feel are most important in a certificate, regardless of the format (if you can't decide which three are most important, name up to five) and briefly explain why you think they are imporant. 
-
 ###Describe the main steps of the encryption and decryption algorithms in the Advanced Encryption Standard (AES). What encryption standard was used before AES and why did it need to be replaced?
 
-###Explain how to use AES (or any other symmetric block cipher) in ECB (Electronic cook book) and CBC (Cipher Block Chaining) mode. 
+The main steps of encryption involved in AES are: __Byte substitution__, __ShiftRow__, __MixColumn__, __AddRounKey__. 
 
-###AES past paper question (8 marks)
+For encryption of a block of 128 bits, this would last for 10 rounds. 
 
-####i) In relation to encryption in standard (AES) describe the main steps of encryption algorithm for block size 128 bits and key size 128 bits (You do not need to describe the decryption or the creation of round keys)
+* __Byte sub__ ( An SBOX ) is applied to each byte
+* __ShiftRow__: Each row is cyclically shifted left by the offsets 0, 1, 2, 3 bytes
+* __MixColumn__: Each column of bytes is transformed by a finite field operation ( can be viewed as a substitution acting on each column )
+* __AddRoundKey__: The round key, written column wise is XOR'ed to the current block
 
-####ii) In the design of the afformentioned algorithm do you think that it was necessary that all entries in the Sbox (substitution table) should be different? Justify your answer
+Before AES was DES. Whilst DES was very fast, advances in computational power made it vulnerable to exhaustive key search. 
 
-####iii) What encryption standard was used before AES and why did it need to be changed?
+####In the design of 128 bit AES do you think that it was necessary that all entries in the Sbox (substitution table) should be different? Justify your answer
 
 #SSL
 
@@ -162,6 +149,10 @@ One time pad is a __stream cipher__ that achieves __perfect secrecy__. The keyst
 #Public Key Cryptography
 
 ###Explain how PGP/GnuPG works for sending an encrypted email. Explain how PGP combines the use of public key cryptography and symmetric cryptography. 
+
+###Name two formats for digital signatures
+
+###Name three pieces of information that you feel are most important in a certificate, regardless of the format (if you can't decide which three are most important, name up to five) and briefly explain why you think they are imporant
 
 ###Name the two formats of digital certificates
 
@@ -274,3 +265,44 @@ A typical digital signature scheme uses a hash function and a public-key cryptos
 ###What would a web browser do with a digital certificate after it finds out that it's genuine. 
 
 ###Discuss buffer overflow attacks and possible measures to protect against them. (5 marks)
+
+
+<!-- 
+I AM NOT SO SURE ABOUT THESE QUESTIONS SO I AM LEAVING THEM FOR NOW, COME BACK TO THEM AT THE END IF YOU GET TIME
+--> 
+
+###Explain how to use AES (or any other symmetric block cipher) in ECB (Electronic cook book) and CBC (Cipher Block Chaining) mode. 
+
+###For ECB (Electronic cook book):
+
+####Assume in the plaintext there is a block of text that appears several times. Discuss whether this fact will reflect in the ciphertext for this mode
+
+Since the block is encoded independently using the same key it is possible for the plain and cypertext to be repeated so is vulnerable for long messages.
+
+// TODO: READ MORE AROUND THIS, I'M STILL NOT SO SURE
+
+####Discuss whether this mode is suitable for producing a MAC (Message Authentication Code). In the affirmative case explain how is the MAC obtained. 
+
+###For CBC (Cipher Block Chaining):
+
+####Assume in the plaintext there is a block of text that appears several times. Discuss whether this fact will reflect in the ciphertext for this mode
+
+####Discuss whether this mode is suitable for producing a MAC (Message Authentication Code). In the affirmative case explain how is the MAC obtained. 
+
+###For OFB (Ouput feedback):
+
+####Assume in the plaintext there is a block of text that appears several times. Discuss whether this fact will reflect in the ciphertext for this mode
+
+####Discuss whether this mode is suitable for producing a MAC (Message Authentication Code). In the affirmative case explain how is the MAC obtained. 
+
+###For CFB (Cipher Feedback):
+
+####Assume in the plaintext there is a block of text that appears several times. Discuss whether this fact will reflect in the ciphertext for this mode
+
+####Discuss whether this mode is suitable for producing a MAC (Message Authentication Code). In the affirmative case explain how is the MAC obtained. 
+
+###For CTR (Counter:
+
+####Assume in the plaintext there is a block of text that appears several times. Discuss whether this fact will reflect in the ciphertext for this mode
+
+####Discuss whether this mode is suitable for producing a MAC (Message Authentication Code). In the affirmative case explain how is the MAC obtained. 
