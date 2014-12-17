@@ -164,6 +164,8 @@ Before AES was DES. Whilst DES was very fast, advances in computational power ma
 
 ###Explain how digital signatures are produced using a hash function and a public-key cryptosystem. How are digital signatures checked?
 
+To sign a message using hashing and public key cryptography first the message is hashed to produce.
+
 ###Explain how digital signatures are verified. 
 
 ###It is well known that if an efficient integer factorisation algortithm was found the RSA cryptosystem would be broken. Why?
@@ -182,15 +184,31 @@ Before AES was DES. Whilst DES was very fast, advances in computational power ma
 
 ###Explain what is meant by collisions for a hash function. 
 
+A collision refers to when multiple inputs to a hash function create the same output. 
+
+// TODO: DOUBLE CHECK THIS
+
 ###Explain what is meant by a hash function being one-way.
 
+A hash function is one way if for any given value h it is very hard to find x so that H(x) = h. One way functions cannot be found out in reverse.
+
+// TODO: CLEAN UP THIS ANSWER, IT'S FLAKEY
+
 ###Explain the notion of weak collision resistance for a hash function.
+
+Weak collision resistance means that for any given input it is hard (but not impossible) to find another input that has the same hash code
 
 ###Explain how an opponent can forge signatures if the hash function is not weak collision resistant
 
 ###Explain the notion of strong collision resistance 
 
+Strong collision resistance is where it is hard to find any inputs at all that have the same output from two different inputs
+
 ###Name hash functions that are currently recommended (You do not need to know the Merkle-Damgard construction and the sponge construction for hash functions)
+
+SHA-2 and SHA-3 family
+
+// TODO: DOUBLE CHECK IF THERE ARE MORE OF THESE THAT WE CAN USE
 
 ###Past paper question (10 marks)
 
@@ -198,13 +216,19 @@ A typical digital signature scheme uses a hash function and a public-key cryptos
 
 ####Explain how the signature is produced
 
-####Explain how the signature is verified
+// TODO: WORK THIS OUT
 
-####What are collisions for a hash function
+####Explain how the signature is verified
 
 ####How do collisions affect the security of a hash function
 
 ####A digital signature contains, amongst other things a digital signature. What is the role of the signature? 
+
+The signature ensures that:
+
+* You can prove the identity of the author and therefore be sure that it wasn't forge
+* The signer cannot deny that they signed the message
+* Is integral, i.e it is tied to the message, so the message cannot be tampered with, and if it is it would disrupt the message and be obvious that it was forged. 
 
 ####Who signs an X509 certificate usually
 
