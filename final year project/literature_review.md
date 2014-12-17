@@ -14,12 +14,7 @@ From a survey on 1061 random Londoners, the organisation Opinion matters found t
 
 ####Mandatory arrest
 
-In some countries such as the US, mandatory arrest is used as a deterrent or repercussion to control reoffending and recidivism of domestic violence related crimes. However "the weight of the literature seems to suggest that mandatory arrest policies may not achieve universally positive goals" (Melton, 2008). The reason for this lack of positive results appears to be linked to the demographics of the incidents. As identified by Williams & Dawkins (2006) analysis concludes that arrest works as a deterrent only in the cases as for those who have something to lose"
-
-
-
-"Manning (1993) argues that arresting batterers will target minorities and people from low socioeconomic backgrounds since arrests in domestic violence cases are disproportionately of lower class,"
-
+In some countries such as the US, mandatory arrest is used as a deterrent or repercussion to control reoffending and recidivism of domestic violence related crimes. However "the weight of the literature seems to suggest that mandatory arrest policies may not achieve universally positive goals" (Melton, 2008). The reason for this lack of positive results appears to be linked to the demographics of the incidents. As identified by Williams & Dawkins (2006) analysis concludes that arrest works as a deterrent only in the cases as for those who have something to lose. This is particularly the case when it is seen that most cases of domestic violence originate from low socioeconomic backgrounds and the lower class (Manning, 1996).
 
 #Why domestic violence is important
 
@@ -93,7 +88,7 @@ OPINION MATTERS, 2010. Wake up to rape research. The Havens (Sexual assault refe
 
 MELTON, H., 2008. Police response to domestic violence. Journal of offender rehabilitation, 29 (1-2), 1-21. 
 
-MANNING, P., 1993. The preventitive conceit: The black box in marketing context. In: E.S.Buzawa, C.G.& Buzawa, Do arrests and restraining orders work? Thousand Oaks, CA, p.83-97.
+MANNING, P., 1996. The preventitive conceit: The black box in marketing context. In: E.S.Buzawa, C.G.& Buzawa, Do arrests and restraining orders work? Thousand Oaks, CA, p.83-97.
 
 WILLIAMS, K.R., RICHARD HAWKINS, 2006. The meaning of arrest for wife assault. Criminology, 27 (1), 163-182.
 
