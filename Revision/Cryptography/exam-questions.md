@@ -94,7 +94,11 @@ One time pad is a __stream cipher__ that achieves __perfect secrecy__. The keyst
 
 #Symmetric key cryptosystems
 
-###What is the purpose of message authentication? Explain the method for producing a message authentication code (MAC) using a hash function and a shared secret key. Where is a MAC used in Secure Socket Layer (SSL) protocol. 
+###Explain the method for producing a message authentication code (MAC) using a hash function and a shared secret key? 
+
+###Where is a MAC used in Secure Socket Layer (SSL) protocol. 
+
+// TODO: FIND THIS OUT
 
 ###Describe the Cipher Block Chaining mode of operation for AES including the encryption as well as decryption process. (The explanation can either be text or a diagram).
 
@@ -259,7 +263,25 @@ The signature ensures that:
 
 ###Explain the terms: Virus, Worm, Trojan Horse and discuss their corresponding protection measures
 
-###What does the term "authentication" mean in cryptography and why is authentication needed? What is a MAC (Message Authentication Code)? Explain the main idea for producing a MAC using a hash function. (HMAC algorithms)( You do not need to know the exact formula for HMAC ). Explain why this method satisfies the requirements of a MAC. Discuss methods of authenticating the time when a message was sent. 
+###What does the term "authentication" mean in cryptography and why is authentication needed? 
+
+Authentication is given a message you can guarentee the sender, the time the message was sent and that it was unmodified in transer. 
+
+###What is a MAC (Message Authentication Code)? 
+
+A MAC is a _method of message authenication_. A MAC _is computed from a message through use of a secret key_. If the message was subject to an attack, the MAC has a high probability to not match the message anymore. The MAC can also be _checked by someone else who knows the secret key_. 
+
+###Explain the main idea for producing a MAC using a hash function. (HMAC algorithms)( You do not need to know the exact formula for HMAC ). 
+
+###Explain why HMAC method satisfies the requirements of a MAC. 
+
+###Discuss methods of authenticating the time when a message was sent. 
+
+Authenticating time proves the time that a message was sent at. Methods of doing this are: 
+
+__Timestamping__: The time or date is included in the message before the whole is authenticated (e.g. PGP signatures include time). _This can also be done by a trusted third party._
+
+__Challenge/Repsonse__: A party sends the other a nonce (random number) to which the other party should send the same number nack in an authenticated way, preventing replay. 
 
 ###Discuss several methods that can be used by an unauthorised person to obtain the password of a computer system. Discuss possible methods to protect against these attacks (10 marks)
 
