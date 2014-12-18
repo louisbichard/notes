@@ -96,6 +96,8 @@ One time pad is a __stream cipher__ that achieves __perfect secrecy__. The keyst
 
 ###Explain the method for producing a message authentication code (MAC) using a hash function and a shared secret key? 
 
+When concatenating a message and a secret key and applying a hash function the result is the MAC code. 
+
 ###Where is a MAC used in Secure Socket Layer (SSL) protocol. 
 
 // TODO: FIND THIS OUT
@@ -106,8 +108,6 @@ One time pad is a __stream cipher__ that achieves __perfect secrecy__. The keyst
 * The vector can be made public or kept secret ... it's usually random and changed on each use of CBC
 
 // TODO: SUBMIT THIS ONE TO MEMORY
-
-### Explain how a message authentication code (MAC) can be created using AES in CBC mode. Why is this mode suitable for creating a MAC?
 
 ###In AES encryption algorithm there are several rounds, eaching containing the operations Add Round Key, Substitute Bytes, Shift Rows, Mix Columns. Discuss how will the algorithm be affected in the following separate scenarios:
 
@@ -275,6 +275,12 @@ A MAC is a _method of message authenication_. A MAC _is computed from a message 
 
 ###Explain why HMAC method satisfies the requirements of a MAC. 
 
+A mac must prevent impersonation, content modification and validate the time of the message relay. 
+
+HMAC is a hash implementaiton of the MAC concept. Buy concatenating the secret key and applying the hash function twice the message is authenticated.
+
+// TODO: SORT THIS OUT, I DON'T REALLY LIKE IT, GOOGLE IT, THE SLIDES AREN'T GREAT
+
 ###Discuss methods of authenticating the time when a message was sent. 
 
 Authenticating time proves the time that a message was sent at. Methods of doing this are: 
@@ -349,3 +355,5 @@ Since the block is encoded independently using the same key it is possible for t
 ####Assume in the plaintext there is a block of text that appears several times. Discuss whether this fact will reflect in the ciphertext for this mode
 
 ####Discuss whether this mode is suitable for producing a MAC (Message Authentication Code). In the affirmative case explain how is the MAC obtained. 
+
+### Explain how a message authentication code (MAC) can be created using AES in CBC mode. Why is this mode suitable for creating a MAC?

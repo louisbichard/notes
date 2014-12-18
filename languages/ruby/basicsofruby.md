@@ -1,3 +1,13 @@
+# Printing to the console
+
+print prints on the same line
+
+	print "Put this on the console"
+
+puts prints on separate lines
+
+	puts "test this on the console"
+
 # Code comments
 
 	=begin
@@ -74,11 +84,38 @@ Same as the while
 
 ## The for loop
 
+Using the .. will iterate up to the top value
+Using ... Will omit the final value in the loop
+
 	for num in 1...10
 	  puts num
 	end
 
+or use the loop syntax
 
-Continue where you left off: 
+	i = 20
+	loop do
+	  i -= 1
+	  print "#{i}"
+	  break if i <= 0
+	end
 
-http://www.codecademy.com/courses/ruby-beginner-en-XYcN1/1/2?curriculum_id=5059f8619189a5000201fbcb
+## Arrays
+
+	my_array = [1, 2, 3, 4, 5]
+
+## Each loops
+	
+	array = [1,2,3,4,5]
+
+	array.each do |x|
+	  x += 10
+	  print "#{x}"
+	end
+
+# Other loops
+
+	10.times do 
+	   puts "Lou is so awesome"  
+	end
+
