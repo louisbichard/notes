@@ -1,8 +1,13 @@
+SATISFIED WITH
+=====================
 
+####With reference to their advantages and disadvantages, describe __economic measures of innovation__? (20)
 
-#General innovation
+* Measuring numbers of small businesses reflects the amount of replicative innovators that are in the economy - as defined by Schumpter. Egypt often comes out more entrepreneurial than America (Henrekson) when using this statistic. Henrekson also argued that self-made billionaires produces a much better measurement of entrepreneurial vigor in an economy. Small businesses are a sign of stagnation in the economy as no other jobs are available, successful businesses tend to destroy the smaller companies as they take up the market: I.e Walmart or Amazon. However this has implications.
 
-####What do you understand to be the 'S curve' in relation to the introduction of a new product or service? (5 marks) (2 occurrences)
+* Entrepreneurs tend to be highly educated, 45% of american self-made entrepreneurs have advanced degrees. This is different to how it was at the start of the 1900's with engineers like Henry Ford dropping out of school. The service economy is king. 
+
+####What do you understand to be the __'S curve'__ in relation to the introduction of a new product or service? (5 marks) (2 occurrences)
 
 The 'S-curve' in relation to the release of a new product is the time taken for adoption from different categories of people and closely resembles and reflects the product lifecycle. 
 
@@ -16,9 +21,50 @@ In order of adoption, the 5 groups are:
 * Early minority
 * Laggards
 
-#Opportunities
+####How can the __'Theory of planned behaviour'__ be used to explain entrepreneurial behaviour? (20 marks)
 
-####Opportunity spotting and idea creation is an essential part of the innovation process. How do entrepreurs identify new product and or service opportunities (25 marks)
+The theory of planned behaviour is a psychological tool that is used to predict the __likelihood that a person will partake in a specific act or behaviour__. The theory of planned behaviour is broken down into 6 main constructs that all determine someones behaviour. It should also be highlighted that a lot of the areas are to do with the entrepreneurs __perception__ of the situation, not just the actual situation itself. The theory however does not plan in different elements of behaviour intention such as mood, fear or past antecedent experience. 
+
+__Attitude__ can affect an entrepreneurs behaviour, where the entrepreneur has a favourable evaluation of their behaviour of interest for instance, is the project a worthy cause? Will the entrepreneur earn enough money to live? Is it ethical (if the entrepreneur is likely to consider ethics).
+
+__Subjective Norms__ refer to the perceptions of those around the entrepreneur. It is likely that if an entrepeneur speaks to their parents, they will want to entrepreneur to be safe and stable and not take risks, however if the entrepreneur is in social groups where entrepreneurial risky behaviour is normal, they are likely to conduct these behaviours. 
+
+__Social norms__ refers to the customary codes of behaviour within the society within which the entrepreneur resides. Different countries have different likelhihoods of entrepreneurial behaviour and this is related to the social norm of those societies. In some socities where it is customary for a woman to stay at home and do house work are less likely to participate in entrepreneurial behaviour. 
+
+__Behavioural control__ refers to the perception that the entrepreneur has over the situation. Are they smart enough, do they have the right resources etc. 
+
+####What do you understand to be the finance gap? (5 marks)
+
+Also known as the funding gap. The finance gap is the gap in provision for medium sized, fast growing firms. This occurs when the company is too large to ask individual shareholders for funds or to ask for bank finance but they are also not ready to launch on the stock market. 
+
+####What barriers to __firm growth__ are often encountered by the entrepreneur (10 marks)
+
+When assessing firms growth this can be done well through use of a PESTEL analysis to address the business positioning. 
+
+__Political__: implications to growth could include goverment support, and therefore access to grants and financing. 
+
+__Environmental__: A large consideration and could mean the competitors already in the market and their organisational structure. It may be that the market will not facilitate new competitors as it is already saturated, and larger companies will resist attempts to grow through cut price strategies, leveraging their own _economies of scale_. Furthermore as argued by Bridge et al (2003) growth cannot occur without innovation and the company will most likely need innovative new products in order to gain growth and market share. Similar to the _storey_ frameowork of growth, the organisations strategy is important to growth. The organisation must have direction and a vision for the markets they are targeting. 
+
+__Social__ factors, again similar to `the entrepreneur` factor in _storey's_ (1994) theory of staged growth the entrepreneur must possess the right skills to create growth in the organisation. Skills such as the attitude to want to grow as Bridge et al (2003) identifies, some entrepreneurs do not want to grow their firm anymore as percieved benefits do not outweight the costs and thus the entrepreneur is in (as Bridge refers to it 'the comfort zone'.
+
+__Economical__: Lastly economical factors such as the cash flow available to the organisation or their access to capital and financing will influence growth. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+PARTIALLY COMPLETE
+==================
+
+####__Opportunity spotting__ and idea creation is an essential part of the innovation process. How do entrepreurs identify new product and or service opportunities (25 marks)
 
 Entrepreneurs may find opportunities in 3 main areas, gaps in the market, technological innovations or by looking into the future. 
 
@@ -32,25 +78,21 @@ Lastly, opportunities can be found in the future space. Predicting future change
 // TODO: TO IMPROVE: ADD SOME QUOTES FROM OUTSIDE SOURCES
 // TODO: ADD SOMETHING ABOUT CLOSE TIES WITH UNIVERISTIES IS GOOD FOR BLUE SKIES RESEARCH, BUT THEY NEED TO FIND THESE TIES WITH UNIVERSITIES AND THESE ARE TYPICALLY HARD TO FIND
 
-#People - Entrepreneurs and entrepreneurship
 
-####How can the 'Theory of planned behaviour' be used to explain entrepreneurial behaviour? (20 marks)
+####Growth of a business is highly complex and depends on the interaction of different factors. Evaluate the Storey Framework as a way of identifiying firms that are likely to achieve a high level of growth (20 marks) (2 occurences)
 
-The theory of planned behaviour is a psychological tool that is used to predict the __likelihood that a person will partake in a specific act or behaviour__. The theory of planned behaviour is broken down into 6 main constructs that all determine someones behaviour. It should also be highlighted that a lot of the areas are to do with the entrepreneurs __perception__ of the situation, not just the actual situation itself. The theory however does not plan in different elements of behaviour intention such as mood, fear or past antecedent experience. 
+The storey framework __consists of measuring 3 characteristics__ to predict growth: __The entrepreneur__, __the strategy__ they employ and __the company itself__. It is argued that these __factors are not independent__ and must all be present at the correct level in order for a business to be deemed in a position to achieve large rates of growth. 
 
-__Attitude__ can affect an entrepreneurs behaviour, where the entrepreneur has a favourable evaluation of their behaviour of interest for instance, is the project a worthy cause? Will the entrepreneur earn enough money to live? Is it ethical (if the entrepreneur is likely to consider ethics).
+The first characteristic is that of the entrepreneur themselves which encompasses factors regarding the entrepreneur themselves and whether they are deemed to possess the relevant characteristics and skills in order to drive growth. Some examples of these characteristics are __motivation__, __education__, __Management experiencee__. 
 
-__Subjective Norms__ refer to the perceptions of those around the entrepreneur. It is likely that if an entrepeneur speaks to their parents, they will want to entrepreneur to be safe and stable and not take risks, however if the entrepreneur is in social groups where entrepreneurial risky behaviour is normal, they are likely to conduct these behaviours. 
+Secondly is the factors of __the company__ itself. The company encompasses usually decisions by the entrepreneur when they set up the organisation and remain fairly constant once they start trading. This is measured by addressing factors such as the __companies age__, __culture__ and __structure__. 
 
-__Social norms__ refers to the customary codes of behaviour within the society within which the entrepreneur resides. Different countries have different likelhihoods of entrepreneurial behaviour and this is related to the social norm of those societies. In some socities where it is customary for a woman to stay at home and do house work are less likely to participate in entrepreneurial behaviour. 
+Lastly is __the strategy__ of the organistation itself which is arguably the most important and interesting characteristic. Includes factors such as the market position of the company, training of the workforce, any new products it has in the pipeline and competitors. 
 
-__Behavioural control__ refers to the perception that the entrepreneur has over the situation. Are they smart enough, do they have the right resources etc. 
+// LOOK UP PROBLEMS WITH THE STOREY METHOD - AS THIS IS AN EVALUATION QUESTION
 
-####Discuss why use of cognitive theory rather than describing personality traits may give us a better understanding of why people engage in entrepreneurial behaviour? (10 marks) (3 occurences)
 
-// TODO: COMPLETE
-
-####How does the schumpeterian view of the entrepreneur differ with that of kirzner? (15 marks) (3 occurences)
+####How does the __schumpeterian__ view of the entrepreneur differ with that of kirzner? (15 marks) (3 occurences)
 
 Schumpeter was an economist, who thought that entrepreneurs were someone special who was innately creative. Yet this creativity would only flourish in an economically stable environment. 
 
@@ -60,13 +102,7 @@ Kirzner on the other hand believed that entrepreneurs were opportunitists, takin
 
 // TODO: REVISIT THIS, I'M NOT REALLY THAT HAPPY WITH IT
 
-####Giving examples, describe how acedemic economists, psychologists and sociologists have tried to define the entrepreneur? (25)
-
-// TODO: COMPLETE
-
-#Intellectual property
-
-####With reference to the main types of intellectual property describe how inventors can protect their ideas. In each case briefly explain the process for securing intellectual property rights on an idea (20 marks)
+####With reference to the main types of __intellectual property__ describe how inventors can protect their ideas. In each case briefly explain the process for securing intellectual property rights on an idea (20 marks)
 
 Intellectual property is non-physical property that is the product of original thought. Intellectual property allow artists and creators to gain rights to prosecute those infringing their rights by copying their ideas. 
 
@@ -77,21 +113,21 @@ __Design rights__ are protection over the look or appearance of a certain object
 // TODO: DO SOME RESEARCH INTO DESIGN RIGHTS TO IMPROVE IT
 // TODO: MAKE SURE THESE ARE THE ONLY 2 IDEAS THAT PROTECT IDEAS
 
-####Describe the three main types of intellectual property that companies use to protect their industrial rights (25) (4 occurrences)
+####Describe the main sources of __debt and equity finance__ for entrepreneurs and reflect on the advantages of __funding a business__ through different routes (15 marks) (2 occurences)
 
-// TODO: COMPLETE
+__Banks__ will invest in businesses, however will be reluctant to do so in the case of small businesses. Banks can provide large sources of funding, but there will be little feedback and assistance. Banks are primarily bothered about __ROI__ and finances. 
 
-####Describe what a firm might do with its intellectual property in order to maximise its value as a company asset (5 marks) (4 occurences)
+__Venture capitalists__ will invest in small companies (however not seeds) and are more open to taking risk if the reward can be seen. Venture capitalists are often likely to invest in indivduals as they will need to work with them, and often they are investing in the businesses ability to generate ideas, rather than on one sole investment. 
 
-// TODO: COMPLETE
+__Grants__ are usually government funding 'pots' of money available to certain business types. Grants are advantageous in that you do not have to 'pay them back' however the application __proccesses can be lengthy and competitive__. 
 
-#Financing innovation
 
-####What are the different funding opportunities available to entrepreneurs? Your answer should reflect the advantages and disadvantages of funding a business idea through the routes you describe? (20) (4 occurrences)
+__Crowd sourcing__ is a form of funding that comes from a large group of people all investing a small amount of income to reach a larger total. Crowd sourcing works best for __customer facing__ 'simple products' that solve a simple problem. Crowd sourcing is __not good for larger companies__ with technical and complex solutions or ones that aren't in the basic customer domain I.E business to business. Crowd sourcing is very good for seed businesses as the small investment means a the risk is offset to investors. 
 
-// TODO: COMPLETE
+// TODO: MAKE SURE YOU HAVE THE VENTURE CAPITALIST DEFINITION RIGHT, IT SOUNDS A LOT LIKE A BUSINESS ANGEL AND YOU DON'T WANT TO GET THOSE TWO MIXED UP. 
 
-####As a venture capitalist, what criteria would you use to evaluate an investment opportunity (10 marks)
+
+####As a __venture capitalist__, what criteria would you use to evaluate an __investment opportunity__ (10 marks)
 
 A Venture capitalist is usually an individual investor that looks to take equity in a company in return for a stake of the business returns. Venture capatilists are open to large risks in order to achieve higher returns and will work closely with the organisation in order to achieve this. 
 
@@ -107,77 +143,86 @@ __Exit strategy__ is another big factor for VC's. It is the way that a VC will '
 
 // TODO: RESEARCH 
 
-####Describe the main sources of debt and equity finance for entrepreneurs and reflect on the advantages of fuding a business through different routes (15 marks) (2 occurences)
-
-__Banks__ will invest in businesses, however will be reluctant to do so in the case of small businesses. Banks can provide large sources of funding, but there will be little feedback and assistance. Banks are primarily bothered about __ROI__ and finances. 
-
-__Venture capitalists__ will invest in small companies (however not seeds) and are more open to taking risk if the reward can be seen. Venture capitalists are often likely to invest in indivduals as they will need to work with them, and often they are investing in the businesses ability to generate ideas, rather than on one sole investment. 
-
-__Grants__ are usually government funding 'pots' of money available to certain business types. Grants are advantageous in that you do not have to 'pay them back' however the application __proccesses can be lengthy and competitive__. 
 
 
-__Crowd sourcing__ is a form of funding that comes from a large group of people all investing a small amount of income to reach a larger total. Crowd sourcing works best for __customer facing__ 'simple products' that solve a simple problem. Crowd sourcing is __not good for larger companies__ with technical and complex solutions or ones that aren't in the basic customer domain I.E business to business. Crowd sourcing is very good for seed businesses as the small investment means a the risk is offset to investors. 
 
-// TODO: MAKE SURE YOU HAVE THE VENTURE CAPITALIST DEFINITION RIGHT, IT SOUNDS A LOT LIKE A BUSINESS ANGEL AND YOU DON'T WANT TO GET THOSE TWO MIXED UP. 
 
-####What do you understand to be the finance gap? (5 marks)
 
-Also known as the funding gap. The finance gap is the gap in provision for medium sized, fast growing firms. This occurs when the company is too large to ask individual shareholders for funds or to ask for bank finance but they are also not ready to launch on the stock market. 
+INCOMPLETE
+==========
 
-#Growth
+####Describe the three main types of __intellectual property__ that companies use to protect their industrial rights (25) (4 occurrences)
 
-####Small firm performance is not improved by formal business training provided for entrepreneurs. Discuss this statement (10 marks) (3 occurences)
+####Describe what a firm might do with its __intellectual property__ in order to maximise its value as a company asset (5 marks) (4 occurences)
 
-// TODO: COMPLETE
+####Discuss why use of __cognitive theory__ rather than describing __personality traits__ may give us a better understanding of why people engage in __entrepreneurial behaviour__? (10 marks) (3 occurences)
 
-####Growth of a business is highly complex and depends on the interaction of different factors. Evaluate the Storey Framework as a way of identifiying firms that are likely to achieve a high level of growth (20 marks) (2 occurences)
+####With reference to the __key stages__ involved in the __innovative process__ and barriers you are likely to encounter?
 
-The storey framework __consists of measuring 3 characteristics__ to predict growth: __The entrepreneur__, __the strategy__ they employ and __the company itself__. It is argued that these __factors are not independent__ and must all be present at the correct level in order for a business to be deemed in a position to achieve large rates of growth. 
+####Small firm performance is not improved by __formal business training__ provided for entrepreneurs. Discuss this statement (10 marks) (3 occurences)
 
-The first characteristic is that of the entrepreneur themselves which encompasses factors regarding the entrepreneur themselves and whether they are deemed to possess the relevant characteristics and skills in order to drive growth. Some examples of these characteristics are __motivation__, __education__, __Management experiencee__. 
+`Entrepreneurial traits or attributes may be cultivated through education and training which itself should be enterprising in nature` (Carr, 2000)
 
-Secondly is the factors of __the company__ itself. The company encompasses usually decisions by the entrepreneur when they set up the organisation and remain fairly constant once they start trading. This is measured by addressing factors such as the __companies age__, __culture__ and __structure__. 
+####Why is adopting __innovative culture__ so difficult for small businesses and how might they address this difficulty? (20 marks)
 
-Lastly is __the strategy__ of the organistation itself which is arguably the most important and interesting characteristic. Includes factors such as the market position of the company, training of the workforce, any new products it has in the pipeline and competitors. 
+Definition
 
-// LOOK UP PROBLEMS WITH THE STOREY METHOD - AS THIS IS AN EVALUATION QUESTION
 
-####What barriers to firm growth are often encountered by the entrepreneur (10 marks)
 
-// TODO: COMPLETE
+- British opinion of failure
+- 
 
-####Describe a stage model of firm growth (15 marks)
+- Addressing the difficulty: 
+	- `Social aspects of a cluster of companies lead to increased productivity in three ways: increased productivity, innovation, stimulating new business` - (Porter, 1990)
 
-// TODO: COMPLETE
 
-####With reference to key stages in the innovation process, what barriers do businesses often encounter when developing new products and services? (20)
 
-// TODO: COMPLETE
+####Briefly describe how you would evaluate the success of a new __government funding__ scheme available to encourage __innovation in small businesses__ (5 marks) (5 occurences)
 
-#Measuring innovation
+####Discuss why the __UK's innovative performance__ appears to be, at best, average compare to its major competitors (DTI innovation report 2003). Incude in your answer what measure the government has taken to address this problem. (25 marks)
 
-####Briefly describe how you would evaluate the success of a new government funding scheme available to encourage innovation in small businesses (5 marks) (5 occurences)
+####With reference to key stages in the innovation process, what barriers do businesses often encounter when __developing new products__ and services? (20)
 
-// TODO: COMPLETE
+####Giving examples, describe how acedemic economists, psychologists and sociologists have tried to __define the entrepreneur__? (25)
 
-####Discuss why the UK's innovative performance appears to be, at best, average compare to its major competitors (DTI innovation report 2003). Incude in your answer what measure the government has taken to address this problem. (25 marks)
+####Describe how you would take a __new product__ or service idea to the __market__ (25 marks)
 
-// TODO: COMPLETE
 
-####With reference to their advantages and disadvantages, describe economic measures of innovation? (20)
+COLLECTION OF QUOTES
+====================
 
-* Measuring numbers of small businesses reflects the amount of replicative innovators that are in the economy - as defined by Schumpter. Egypt often comes out more entrepreneurial than America (Henrekson) when using this statistic. Henrekson also argued that self-made billionaires produces a much better measurement of entrepreneurial vigor in an economy. Small businesses are a sign of stagnation in the economy as no other jobs are available, successful businesses tend to destroy the smaller companies as they take up the market: I.e Walmart or Amazon. However this has implications.
+`Growth cannot be achieved without additional innovations` - (Bridge et al, 2003)
 
-* Entrepreneurs tend to be highly educated, 45% of american self-made entrepreneurs have advanced degrees. This is different to how it was at the start of the 1900's with engineers like Henry Ford dropping out of school. The service economy is king. 
+`Aspiring entrepreneurs need to address their personal ambitions` - Bank of England
 
-#Uncategorised (TODO)
+`Lifestyle business: One with no aspiration of growth` - (Bridge et al, 2003)
 
-####With reference to the key stages involved in the innovative process and barriers you are likely to encounter, describe how you would take a new product or service idea to the market (25 marks)
+`Growth can reach a plateu known as the 'comfort stage' where costs of growth exceed percieved benefits` - (Bridge et al, 2003)
 
-// TODO: COMPLETE
+`Weak market orientation, low productivity and costly access to finance cause failure to grow in SME's` - (European Observatory for SME's, 1997)
 
-####Why is adopting innovative culture so difficult for small businesses and how might they address this difficulty? (20 marks)
+`Conducting formal market research had strong associations with growth` - (Barkham, 2012)
 
-// TODO: COMPLETE
+`Social aspects of a cluster of companies lead to increased productivity in three ways: increased productivity, innovation, stimulating new business` - (Porter, 1990)
+
+`Small organisation growth is influenced by 3 factors – the entrepreneurs background, nature of the firm, and the strategy ` (Storey, 1994).
+
+`Entrepreneurial traits or attributes may be cultivated through education and training which itself should be enterprising in nature` (Carr, 2000)
+
+`Best institutional vehicle for promostion of entrepreneurial traits is business ownership itself` (Gibb, 1987)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
