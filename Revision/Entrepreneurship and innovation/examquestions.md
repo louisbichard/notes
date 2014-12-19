@@ -1,6 +1,28 @@
 SATISFIED WITH
 =====================
 
+####With reference to the __key stages__ involved in the __innovative process__ and barriers you are likely to encounter?
+
+The innovative process is defined as:
+
+	Create ideas -> Select best idea -> Implement
+
+However in some cases is extended as
+
+	Recognition -> Invention -> Development -> Implementation -> Diffusion
+
+In the selection phase:
+
+__Subject area knowledge__: Closely linked to time, an entrepreneur must spend the time learning the market for which they want to enter and assessing the risks and balancing and addressing issues that exist across their varying products.
+
+Most of the barriers that the entrepreneur will encounter will be within the implementation phase as this is when an entrepreneur must make the most risk, financially and personally. 
+
+__Financials__ are a barrier to implementation of a small firm. As a seed company, an entrepreneur will need to look for investments from friends and family and invest their own capital as the idea hasn't yet been taken to market and therefore will struggle for formal investment in the forms of venture capital, or bank finance. 
+
+__Time__: Most of these ideas will be born by employees in an industry who notice an opportunity and want to turn it into a business, they will however struggle to find the amount of time necessary to invest into a business to research the idea and bring it to market. 
+
+__The external environment__: The market conditions must support then entrepreneurs business, the competition must be scalable, or the niche must be differentiated enough to gain market share. 
+
 ####With reference to their advantages and disadvantages, describe __economic measures of innovation__? (20)
 
 * Measuring numbers of small businesses reflects the amount of replicative innovators that are in the economy - as defined by Schumpter. Egypt often comes out more entrepreneurial than America (Henrekson) when using this statistic. Henrekson also argued that self-made billionaires produces a much better measurement of entrepreneurial vigor in an economy. Small businesses are a sign of stagnation in the economy as no other jobs are available, successful businesses tend to destroy the smaller companies as they take up the market: I.e Walmart or Amazon. However this has implications.
@@ -143,6 +165,21 @@ __Exit strategy__ is another big factor for VC's. It is the way that a VC will '
 
 // TODO: RESEARCH 
 
+####Small firm performance is not improved by __formal business training__ provided for entrepreneurs. Discuss this statement (10 marks) (3 occurences)
+
+
+`Entrepreneurial traits or attributes may be cultivated through education and training which itself should be enterprising in nature` (Carr, 2000)
+
+`To develop a 'right hand person' to whom the manager can turn to, is a sign of operating proficiency` (Chell, 2001)
+
+`Bringing other people to take on the responsibilities which had hitherto been dealt by the manager is a problem` (Chell, 2001)
+
+* As an organisation grows, a good entrepreneur will be able to identify those with the prerequisite skills and willingness to take on higher responsibilities that could further the business. 
+
+* As the SME will struggle to pay large wages, poaching is a concern and a reason for not investing in formal business training. 
+	* Must counter with responsibility, progression and manage the culture so that it is an attractive place to work
+	* Must manage satisfaction to lower labour turnover
+
 
 
 
@@ -151,22 +188,14 @@ __Exit strategy__ is another big factor for VC's. It is the way that a VC will '
 INCOMPLETE
 ==========
 
-####Describe the three main types of __intellectual property__ that companies use to protect their industrial rights (25) (4 occurrences)
-
 ####Describe what a firm might do with its __intellectual property__ in order to maximise its value as a company asset (5 marks) (4 occurences)
 
 ####Discuss why use of __cognitive theory__ rather than describing __personality traits__ may give us a better understanding of why people engage in __entrepreneurial behaviour__? (10 marks) (3 occurences)
 
-####With reference to the __key stages__ involved in the __innovative process__ and barriers you are likely to encounter?
-
-####Small firm performance is not improved by __formal business training__ provided for entrepreneurs. Discuss this statement (10 marks) (3 occurences)
-
-`Entrepreneurial traits or attributes may be cultivated through education and training which itself should be enterprising in nature` (Carr, 2000)
 
 ####Why is adopting __innovative culture__ so difficult for small businesses and how might they address this difficulty? (20 marks)
 
 Definition
-
 
 
 - British opinion of failure
@@ -181,8 +210,7 @@ Definition
 
 ####Discuss why the __UK's innovative performance__ appears to be, at best, average compare to its major competitors (DTI innovation report 2003). Incude in your answer what measure the government has taken to address this problem. (25 marks)
 
-####With reference to key stages in the innovation process, what barriers do businesses often encounter when __developing new products__ and services? (20)
-
+__The report__: Initiated by Tony Blair to 
 ####Giving examples, describe how acedemic economists, psychologists and sociologists have tried to __define the entrepreneur__? (25)
 
 ####Describe how you would take a __new product__ or service idea to the __market__ (25 marks)
@@ -211,12 +239,19 @@ COLLECTION OF QUOTES
 
 `Best institutional vehicle for promostion of entrepreneurial traits is business ownership itself` (Gibb, 1987)
 
+`a high proportion of business start ups are made by two or more partners` (Chell, 2001)
 
+`Bringing other people to take on the responsibilities which had hitherto been dealt by the manager is a problem` (Chell, 2001)
 
+`Reluctace of the owner to pay for training as employee's may get poached` (Chell, 2001)
 
+`Additional skills take the SME to the next level` (Chell, 2001)
 
+`To develop a 'right hand person' to whom the manager can turn to, is a sign of operating proficiency` (Chell, 2001)
 
+`A core charactersitc associated with high-performance organisations is the extent to which they commit to training and development` (Tidd et al, 2001) 
 
+`Training has considerable potential as a motivator` (Tidd et al, 2001)
 
 
 

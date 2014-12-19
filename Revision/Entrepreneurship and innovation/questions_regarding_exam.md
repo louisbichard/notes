@@ -9,3 +9,7 @@ Would you expect all six areas to be discussed in detail, or even highlighted at
 	"What barriers to __firm growth__ are often encountered by the entrepreneur (10 marks)"
 
  Are we talking about general barriers to the business growth, or specifically originating from the entrepreneur themselves?
+
+# Is there a difference between basic uses of IP and using IP to protect 'ideas' thus they need answering differently?
+
+	####With reference to the main types of __intellectual property__ describe how inventors can protect their ideas. In each case briefly explain the process for securing intellectual property rights on an idea (20 marks)
