@@ -57,7 +57,7 @@ __Behavioural control__ refers to the perception that the entrepreneur has over 
 
 ####What do you understand to be the finance gap? (5 marks)
 
-Also known as the funding gap. The finance gap is the gap in provision for medium sized, fast growing firms. This occurs when the company is too large to ask individual shareholders for funds or to ask for bank finance but they are also not ready to launch on the stock market. 
+Exists because __demand__ from small firms is greater than the willingness of financial institutions to supply finance at current market conditions (__rates of interest__).
 
 ####What barriers to __firm growth__ are often encountered by the entrepreneur (10 marks)
 
@@ -71,10 +71,23 @@ __Social__ factors, again similar to `the entrepreneur` factor in _storey's_ (19
 
 __Economical__: Lastly economical factors such as the cash flow available to the organisation or their access to capital and financing will influence growth. 
 
+####How does the __schumpeterian__ view of the entrepreneur differ with that of kirzner? (15 marks) (3 occurences)
 
+Schumpeter has 2 views of entrepreneurs: Those who are replicators of existing ideas and those who are innovators, for this question I will focus on the innovators. Schumpter percieved entrepreneurs to have a special set of characteristics that allowed them to be creative in coming up with new solutions, pushing boundaries and crashing into new markets and disrupting the zeitgeist. However on the otherhand this differs to Kirzners view. Kirzner believed that entrepreneurs were not special people and anyone could be an entrepreneur aslong as they spot opportunities in a market and work to exploit these. Kirzners view on entrepreneurs is a lot less elaborate than Schumpeters. 
 
+####__Opportunity spotting__ and idea creation is an essential part of the __innovation process__. How do entrepreurs identify new product and or service opportunities (25 marks)
 
+The innovative process is: 
 
+	Creating ideas -> Assessing and choosing the best ideas -> Implementation of the idea
+
+Entrepreneurs may find opportunities in 3 main areas, gaps in the market, technological innovations or by looking into the future. 
+
+Market opportunities can be identified a number of different ways, the first and most obvious being by having a __keen entrepreneurial eye__ within the indutstry. Secondly, using __market intelligence__ tools can also __detect changes in customer demands__ by measuring and analysing figures regarding the size, shape and dynamics of the market. Entrepreneurs can also use the __schumpeter replicator theory__ of the entrepreneur to copy existing organisations in the instance of __southwest airlines__ being copied by Stelios, but given a USP such as reduced travel agents to provide a low cost airline that met market demands. 
+
+Secondly, opportunities can be found in __technological innovations__. This can sometimes be known as __'blue skies research'__ which refers to the act of researching technologies that aren't immediately apparent. This however can be very risky and expensive for an entrepreneur. 
+
+Lastly, opportunities can be found in the future space. Predicting future changes is based on trends or __PESTLE analysis__ that analyses political, environmental, social, technological and economic changes in the businesses domain. Working closely with univeristies conducting blue skies research can help organistaions to generate new innovative products to bring to market.
 
 
 
@@ -85,21 +98,6 @@ __Economical__: Lastly economical factors such as the cash flow available to the
 
 PARTIALLY COMPLETE
 ==================
-
-####__Opportunity spotting__ and idea creation is an essential part of the innovation process. How do entrepreurs identify new product and or service opportunities (25 marks)
-
-Entrepreneurs may find opportunities in 3 main areas, gaps in the market, technological innovations or by looking into the future. 
-
-Market opportunities can be identified a number of different ways, the first and most obvious being by having a __keen entrepreneurial eye__ within the indutstry. Secondly, using __market intelligence__ tools can also __detect changes in customer demands__ by measuring and analysing figures regarding the size, shape and dynamics of the market. Entrepreneurs can also use the __schumpeter replicator theory__ of the entrepreneur to copy existing organisations in the instance of __southwest airlines__ being copied by Stelios, but given a USP such as reduced travel agents to provide a low cost airline that met market demands. 
-
-Secondly, opportunities can be found in __technological innovations__. This can sometimes be known as __'blue skies research'__ which refers to the act of researching technologies that aren't immediately apparent. This however can be very risky and expensive for an entrepreneur. 
-
-Lastly, opportunities can be found in the future space. Predicting future changes is based on trends or __PESTLE analysis__ that analyses political, environmental, social, technological and economic changes in the businesses domain. 
-
-// TODO: DEFINE THE INNOVATION PROCESS
-// TODO: TO IMPROVE: ADD SOME QUOTES FROM OUTSIDE SOURCES
-// TODO: ADD SOMETHING ABOUT CLOSE TIES WITH UNIVERISTIES IS GOOD FOR BLUE SKIES RESEARCH, BUT THEY NEED TO FIND THESE TIES WITH UNIVERSITIES AND THESE ARE TYPICALLY HARD TO FIND
-
 
 ####Growth of a business is highly complex and depends on the interaction of different factors. Evaluate the Storey Framework as a way of identifiying firms that are likely to achieve a high level of growth (20 marks) (2 occurences)
 
@@ -113,16 +111,6 @@ Lastly is __the strategy__ of the organistation itself which is arguably the mos
 
 // LOOK UP PROBLEMS WITH THE STOREY METHOD - AS THIS IS AN EVALUATION QUESTION
 
-
-####How does the __schumpeterian__ view of the entrepreneur differ with that of kirzner? (15 marks) (3 occurences)
-
-Schumpeter was an economist, who thought that entrepreneurs were someone special who was innately creative. Yet this creativity would only flourish in an economically stable environment. 
-
-Schumpeter defined two types of entrepreneur: Those who were replicators of existing ideas and tended to setup small businesses and those who were innovators who would crash into a market, and disrupt the common zeitgeist to push new boundaries and develop and push new ideas. 
-
-Kirzner on the other hand believed that entrepreneurs were opportunitists, taking advantage of holes in the market, as opposed to being innately innovative or creative, kirzner believed that entrepreneurs were more business minded than creative and had the insight and knowledge to notice these market needs and implement them.
-
-// TODO: REVISIT THIS, I'M NOT REALLY THAT HAPPY WITH IT
 
 ####With reference to the main types of __intellectual property__ describe how inventors can protect their ideas. In each case briefly explain the process for securing intellectual property rights on an idea (20 marks)
 
@@ -165,6 +153,28 @@ __Exit strategy__ is another big factor for VC's. It is the way that a VC will '
 
 // TODO: RESEARCH 
 
+####Discuss why the __UK's innovative performance__ appears to be, at best, average compare to its major competitors (DTI innovation report 2003). Incude in your answer what measures the government has taken to address this problem. (25 marks)
+
+__The report__: Initiated by Tony Blair and with integration with Micheal Porter
+
+The main reason that Britains innovative performance was not as good as other countries was due to lag in productivity per hour. 
+
+// THIS IS NOT THE REAL REASON ... FIND IT OUT
+
+Some steps that the government are taking to tackle issues identified in the report are:
+
+__Skills__: The government will look to invest more in skills that support innovative behaviour, inclusive of higher education. 
+__Skills__: Ensure the economy has the correct skills to support innovative behaviour
+__Supporting innovation__: Advisory services, development of flexible leadership and management programmes
+__Supporting women entrepreneurs__: Improve business advice, mentoring and networking
+__Changing national measurements__: NMS (National measurement system) will be improved so that it reflects innovation more greatly.
+
+
+
+
+INCOMPLETE
+==========
+
 ####Small firm performance is not improved by __formal business training__ provided for entrepreneurs. Discuss this statement (10 marks) (3 occurences)
 
 
@@ -181,17 +191,9 @@ __Exit strategy__ is another big factor for VC's. It is the way that a VC will '
 	* Must manage satisfaction to lower labour turnover
 
 
-
-
-
-
-INCOMPLETE
-==========
-
 ####Describe what a firm might do with its __intellectual property__ in order to maximise its value as a company asset (5 marks) (4 occurences)
 
 ####Discuss why use of __cognitive theory__ rather than describing __personality traits__ may give us a better understanding of why people engage in __entrepreneurial behaviour__? (10 marks) (3 occurences)
-
 
 ####Why is adopting __innovative culture__ so difficult for small businesses and how might they address this difficulty? (20 marks)
 
@@ -208,10 +210,9 @@ Definition
 
 ####Briefly describe how you would evaluate the success of a new __government funding__ scheme available to encourage __innovation in small businesses__ (5 marks) (5 occurences)
 
-####Discuss why the __UK's innovative performance__ appears to be, at best, average compare to its major competitors (DTI innovation report 2003). Incude in your answer what measure the government has taken to address this problem. (25 marks)
-
-__The report__: Initiated by Tony Blair to 
 ####Giving examples, describe how acedemic economists, psychologists and sociologists have tried to __define the entrepreneur__? (25)
+
+According to __economic theory__ the entrepreneur can be viewed as someone who coordinates different factors of production. The entrepreneur is recognised as a risk taker. 
 
 ####Describe how you would take a __new product__ or service idea to the __market__ (25 marks)
 
@@ -253,6 +254,7 @@ COLLECTION OF QUOTES
 
 `Training has considerable potential as a motivator` (Tidd et al, 2001)
 
+`Small enterprises are the backbone of the European economy` (European Council, 2000)
 
 
 
