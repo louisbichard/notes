@@ -51,7 +51,9 @@
 * Type A behaviour
 
 ##Type A and B personalities
-* Theory defined by Friedman and Rosenman
+
+_Friedman & Rosenman_
+
 	* Dates back to how some patients couldn't sit still in a waiting room, tended to sit on the edge of their chair
 
 ###Type A

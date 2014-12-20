@@ -17,7 +17,6 @@
 	* Board composition and committee roles
 	* Leadership and communication
 
-
 ###Micro level causes of failure
 * A complex ecosystem populatd by: 
 	* Competitors
@@ -39,10 +38,6 @@
 * Distributors put their prices up
 
 ##Case studies of failure
-
-###3M - Six Sigma
-* Designed to eliminate wastage
-* Some found it too rigid and restrictive
 
 ##Failure in SME's
 * 65% of SME's have not conceptualised a vision or strategy. 

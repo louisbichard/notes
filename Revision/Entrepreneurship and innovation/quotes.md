@@ -40,7 +40,9 @@ COLLECTION OF QUOTES
 `Growth of regions and business stems from ability to continually develop and produce innovative products` (sternberg 2000)
 
 
+EXAMPLES
+========
 
-
-
-
+###3M - Six Sigma
+* Designed to eliminate wastage
+* Some found it too rigid and restrictive

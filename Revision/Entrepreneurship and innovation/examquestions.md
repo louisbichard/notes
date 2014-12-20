@@ -61,6 +61,8 @@ Exists because _demand_ from small firms is greater than the willingness of fina
 
 ####What barriers to __firm growth__ are often encountered by the entrepreneur (10 marks)
 
+// INCLUDE SOME QUOTE FROM GROWTH NOTES ABOUT FIRM GROWTH
+
 When assessing firms growth this can be done well through use of a PESTEL analysis to address the business positioning. 
 
 _Political_: implications to growth could include goverment support, and therefore access to grants and financing. 
@@ -89,8 +91,15 @@ Secondly, opportunities can be found in _technological innovations_. This can so
 
 Lastly, opportunities can be found in the future space. Predicting future changes is based on trends or _PESTLE analysis_ that analyses political, environmental, social, technological and economic changes in the businesses domain. Working closely with univeristies conducting blue skies research can help organistaions to generate new innovative products to bring to market.
 
+####Giving examples, describe how acedemic economists, psychologists and sociologists have tried to __define the entrepreneur__? (25)
 
+Different appraoches exist to describing the entrepreneur.
 
+According to __economic theory__ the entrepreneur can be viewed as someone who coordinates different factors of production. The entrepreneur is recognised as a risk taker. Economists that have formualted theories on the entrepreneur include kerzner and schumpeter. _Kirzner_ describes an entrepreneur as one who is alert. By being alert an entrepreneur can notice market gaps and work to exploit these demands as a middle man. The kirzner approach is based on a lack of supply in an industry and an exploitation of _perfect knowledge_
+
+_Psychologists_ have offered a characteristic based approach to entrepreneurial recognition. Mclleland for instance outlined three competencies of an entrepreneur which are achievement, orientation and commitment. Other psychologists have suggested other theories such as _Friedman and roseman's_ theory of Type A and Type B as reason for entrepreneurial behaviour. Where type A's are restless, competitive and self-critical individual.This characteristic based approach however is not viewed as comprehensive as it is difficult to measure indidvidual traits.
+
+_Sociologists_ take the viewpoint that a characteristics based approach is inadequate and that other factors may affect an individuals propensity to partake in entrepreneurial behaviours. The areas that sociologists look at include the regions that the entrepreneur resides, for instance the south east of the UK is more likely to produce entrepreneurs than the midlands. Location can play a large role on entrepreneurial behaviour as the culture of that area. When clustered near those with similar intentions this increases success (Porter, 1990). Other areas assessed by sociologists include the ability to learn, the ability to deal with failure and gender. 
 
 
 
@@ -172,10 +181,21 @@ _Changing national measurements_: NMS (National measurement system) will be impr
 
 
 
+
+
+
+
+
+
+
+
+
 INCOMPLETE
 ==========
 
 ####Small firm performance is not improved by __formal business training__ provided for entrepreneurs. Discuss this statement (10 marks) (3 occurences)
+
+-  (Barber et al) Identifies Lack of management training and qualifications as a barrier to growth. 
 
 `Entrepreneurial traits or attributes may be cultivated through education and training which itself should be enterprising in nature` (Carr, 2000)
 
@@ -193,6 +213,8 @@ INCOMPLETE
 
 ####Discuss why use of __cognitive theory__ rather than describing __personality traits__ may give us a better understanding of why people engage in __entrepreneurial behaviour__? (10 marks) (3 occurences)
 
+Personality trait analysis assumes that an entrepreneur cannot take the Kirzen based approach whereby an entrepreneur can possess any characteristics and still be an entrepreneur by exploiting market gaps. 
+
 ####Why is adopting __innovative culture__ so difficult for small businesses and how might they address this difficulty? (20 marks)
 
 Innovative culture is generally most effective in small businesses if the _market conditions_ permit such behaviour and can be argued to exist mostly in niche markets. The markets that are best are usually where the market values product variety and producer flexibility  _(Deakins and Freel, 2003)_. 
@@ -207,10 +229,11 @@ Locating in a _'porterian cluster'_ can help to increase a firms ability to be i
 
 ####Briefly describe how you would evaluate the success of a new __government funding__ scheme available to encourage __innovation in small businesses__ (5 marks) (5 occurences)
 
-####Giving examples, describe how acedemic economists, psychologists and sociologists have tried to __define the entrepreneur__? (25)
 
-According to __economic theory__ the entrepreneur can be viewed as someone who coordinates different factors of production. The entrepreneur is recognised as a risk taker. 
 
 ####Describe how you would take a __new product__ or service idea to the __market__ (25 marks)
+
+When taking a product to market, consideration of _strategy_ must be taken. Deciding on a strategy must be defined before entering the market. Porter outlines 4 different strategies dependent on the price and the differentiation of the product. The firm must choose a strategy in order to be successful, not choosing a strategy could be highly detrimental. 
+
 
 

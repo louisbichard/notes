@@ -12,12 +12,15 @@ Would you expect all six areas to be discussed in detail, or even highlighted at
 
 # Is there a difference between basic uses of IP and using IP to protect 'ideas' thus they need answering differently?
 
-	####With reference to the main types of __intellectual property__ describe how inventors can protect their ideas. In each case briefly explain the process for securing intellectual property rights on an idea (20 marks)
+	With reference to the main types of __intellectual property__ describe how inventors can protect their ideas. In each case briefly explain the process for securing intellectual property rights on an idea (20 marks)
 
 # Is the innovative process just the smaller, or larger description?
 
 	Idea creation -> Selection -> Implementaiton
 
-	or 
+or 
 
-	Deployment, synthesis, blah
+	Idea Formation -> Opportunity Recognition -> Planning and preparation -> Entrepreneurship entry -> Launch
+
+^ This was identified in the course reading book
+

@@ -13,15 +13,11 @@
 
 # Importance of innovation in the economy
 
-- __Trade liberalisation__: A rapid fall in communication and transport costs allows the UK to compete better with other countries especially when they have such low labour costs
-
-- __Technology understanding__: To create opportunity
-
-- __Global communications__: 
-
-- __New products and higher quality__: Goods and services
-
-- __Meet environmental challenges__: 
+Trade liberalisation
+Technology understanding
+Global communications
+New products and higher quality
+Meet environmental challenges
 
 # Action areas
 

@@ -1,49 +1,62 @@
-#Week 1 notes
-
-##The entrepreneurship & innovation management model
-
-Conists of 4 parts: 
+# The entrepreneurship & innovation management model
+====================================================
 
 * People (entrepreneurs)
 * Possibility 
 * Positioning and planning 
 * Protection (IP)
 
-##Academic reading: 
+###Definition of innovation
 
-* Deakings and Freel (5th and 6th editions)
+`Innovation is introduction of new ideas, goods and services and practices which are intended to be useful`
+`A process whereby something new is introduced`
 
-##Failure: 
+// TODO: GO BACK TO FIRST LECTURE AND FIND OUT THE QUOTES FOR THESE
 
-* Clients had everchanging needs and they did not meet them, did not respond to changes in the __external environment__
-	* Tie Rack
-	* Barratts
-	* Blockbuster
-	* Woolworths
+## Definition of enterprise
 
-##Innovation
+`A purposeful industrious undertaking, especially one that requires effort or boldness`
 
-* Derived from the latin 'inovare'
+`An organisation created for business ventures`
 
-###Definition
 
-* Innovation is introduction of new ideas, goods and services and practices which are intended to be useful
-* 'A process whereby something new is introduced'
-
-###As a process
+# STAGES
+========
 
 Idea -> Select best idea -> Implement
 
-##Entrerprise
+Idea Formation -> Opportunity Recognition -> Planning and preparation -> Entrepreneurship entry -> Launch
 
-###Definition
+# CHARACTERISTICS BASED APPROACH TO ENTREPRENEUR RECOGNITION
+============================================================
 
-"A purposeful industrious undertaking, especially one that requires effort or boldness"
+- Addressing traits that seem to be apparent to most entrepreneurs
+- Suggests that cannot use situational entrepreneur definition
+- An entrepreneur MUST possess certain characteristics
 
-"An organisation created for business ventures"
+`Key competencies of the entrepreneur: Proactivity, Achiement orientation, commitment` - McClelland
 
-##SME's and Start ups
+`Key core traits: self-confidence, risk-taker, flexibility, need for achievement, desire for independence` - Meredith et al.
 
-* Are more flexible than large firms
-* Government focus on start ups and micro business
-* 
+# Criticism of the characteristics approach
+
+- Is difficult to measure the presence of such a characteristic
+- Inappropriate to search for a specific character trait
+- Comprises essentially static analysis process to a dynamic area
+- Ignores learning & preparation in the process
+
+# SOCIOLOGIST VIEW OF THE ENTREPRENEUR
+======================================
+
+- Socio-behaviour approach recognise characteristics
+- Societies culture is more powerful influence on individuals propensity to pursue entrepreneurship
+
+# Attributes:
+- Dealing with failure 
+- Regions
+	- Inter-firm networks cotnribute to successful entrepreneurship
+	- South east is more likely to be entrepreneurial than scotland
+	- Efficient networks
+- Gender
+- Ability to learn
+- Risk management
