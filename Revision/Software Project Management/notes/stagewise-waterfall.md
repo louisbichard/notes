@@ -19,7 +19,6 @@
 
 // TODO: Draw out the model
 
-
 ## Advantages 
 
 - Encourages specification of th
@@ -27,3 +26,21 @@
 - Demands documents are produced
 - Reduces development and maintenance costs
 - Enables resources to be more structured and manageable
+
+# CLASSICAL WATERFALL MODEL
+===========================
+- First published model of a software development process
+- Derived from other engineering processes
+- Is simple in design
+- Possibility of sometimes referring back up
+- Requirements can be out of date before the project is complete
+- Target system not available until the end
+- Most use to systems with complete specifications
+
+## Advantages of waterfall
+- Some clients like the idea of 'go away and develop it'
+- Like the idea of getting a quote
+
+## Problems with the waterfall/ Stage-wise approach
+- Implementation big bang at the end
+- Costs of errors increase as a project moves on

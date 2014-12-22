@@ -1,6 +1,5 @@
-#General notes
-
-#Potential system considerations or changes
+# SYSTEM CONSIDERATIONS AND CHANGES
+===================================
 
 * Support of multiple roles
 	* Extending roles so they are an array, not a string?
@@ -21,7 +20,8 @@
 	* Keyboard shortcut, or link to drop you onto another webpage immediately
 * Possibility for cloaking the website so it appears to be something else.
 
-##Structure of the literature review
+# SECTION 1: LITERATURE REVIEW
+==============================
 
 * Background to domestic violence
 * History of the women rights movement and domestic rights historically
@@ -50,3 +50,10 @@
 	* Where do they get mobile devices?
 	* Threats of using personal devices
 * Use of USB devices for browsing while not on the actual computer
+
+# SECTION 2: Development methodology
+====================================
+- Sort of incremental model
+- Probably also evolutionary
+- Prototype in nature (Horizontal/ Vertical needs to be discussed)
+- Constant feedback (Agiley?)
