@@ -79,7 +79,7 @@ __Post project__: Measuring the benefits of the solution that was delivered, pro
 
 # Extreme programming
 =======================
-- Not suitable for larger projects
+- Best in smaller projects
 - Another popular agile process. 
 - Delivers the software that is needed as it is needed. Emphasises team work. 
 - Advocates pair programming
@@ -138,7 +138,6 @@ __Post project__: Measuring the benefits of the solution that was delivered, pro
 - Exploration
 - Engineering
 - Deployment
-
 
 # Scrum
 ========

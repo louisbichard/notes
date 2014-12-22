@@ -101,3 +101,9 @@ __Agile__
 
 __Requirements__: Soft systems, DFD's Rich pictures, Structure charts
 __Design stage__: JSD, OOD, SSADM
+
+# Top down and bottom up development
+
+__Horizontal top down__: Starts from the main core and implements each level completely
+__Vertical top down__: Goes from the top core down to complete whole features or sections first
+__Bottom up__: Starts with the more intricate details of implementation such as the algorithm that might underpin the system
