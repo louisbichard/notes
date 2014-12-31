@@ -1,3 +1,7 @@
+# General notes
+================
+
+- Arguments need to take the exact specified amount of arguments that the funciton defines
 
 # Setting variables
 
@@ -194,29 +198,6 @@ Can be used as such:
 
 	if type("something") == str --> True
 
-# Array manipulation
-====================
-
-# Inserting into an array
-
-	animals = ["aardvark", "badger", "duck", "emu", "fennec fox"]
-	animals.insert(0, "cobra")
-
-# Slice
-Slices up to but not including the array index that is second
-
-	suitcase = ["sunglasses", "hat", "passport", "laptop", "suit", "shoes"]
-	middle = suitcase[2:3]  # Third and fourth items (index two and three)
-
-# Remove from an array
-
-	backpack = ['xylophone', 'dagger', 'tent', 'bread loaf']
-	backpack.remove('dagger')
-
-# Join an array into a string
-	
-	" ".join(row)
-
 # Looping
 =========
 
@@ -255,23 +236,6 @@ if the condition is false than else is ran
 	    guesses_left -= 1
 	else:
 	    print "You lose!"
-
-
-# Dictionaries
-==============
-
-Creating a dictionary
-
-	residents = {'Puffin' : 104, 'Sloth' : 105, 'Burmese Python' : 106}
-
-Deleting a key
-
-	del zoo_animals['Bengal Tiger']
-
-Printing all values in a dictionary
-
-	for key in webster:
-	    print webster[key]
 
 # Classes
 =========

@@ -1,5 +1,5 @@
-Parkinsons law & the right time
-===============================
+The right time for Parkinson 
+============================
 
 It's said for a start up that if your product feels ready, then you've launched too late. I think the same is true of weightlifters. I don't think there has been a time that I've stepped once onto the platform and felt truly 'ready'. 
     
