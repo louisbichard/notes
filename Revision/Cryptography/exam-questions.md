@@ -1,11 +1,44 @@
-#Exam notes
 
-* 1.5 hours
-* 4 questions
-* Calculators are allowed
-* Similar to past years
-* Some marks awarded for additional revision
-* No questions regarding port sniffers and scanners in this year
+
+
+# Satisfied with
+================
+
+###Compare the two different types of cryptography, discussing their advantages and disadvantages. 
+
+__Symmetric__ encryption is where both sender and reciever have access to a decryption key. Because of this, a secure channel must be available in order for the communication of the key between those wishing to decrypt. 
+
+__Public key cryptography__: Refers to when the reciever of the message has a private key to which he can decrypt messages. They then make the encryption key public so that anyone has access to the key. 
+
+* Symmetric encryption is considerably quicker than public key encryption for the same level of security
+* For the same level of computational cost, symmetric is more secure
+* Symmetric key requires a secure channel for communicating the key which can be expensive therefore making public key cryptography more accessible. 
+
+###Describe how the two types of cryptography can be combined and describe the advantages of doing so. 
+
+As symmetric key encryption is much faster, this can be used as the main communication channel, however it's difficult to share the key without a secure channel. By sending the symmetric key encrypted using public key cryptography the symmetric key can be communicated securely. 
+
+
+
+###Explain how digital signatures are produced using a hash function and a public-key cryptosystem. How are digital signatures checked?
+
+To sign a message using hashing and public key cryptography first the message is hashed to produce a message digest and this is 'signed' using the private key. This is then published and associated to a signature. 
+
+To verify this, apply the hash function to the message to compute the digest (h1) and encrypt the signature using teh public key (h2). If these are equal, then the messgae is genuine. 
+
+
+# Not satisfied with
+====================
+
+###Describe the Cipher Block Chaining mode of operation for AES including the encryption as well as decryption process. (The explanation can either be text or a diagram).
+
+* The first block is XOR-ed with an initialisation vector and then encrypted
+* The vector can be made public or kept secret ... it's usually random and changed on each use of CBC
+
+
+
+# To answer
+===========
 
 # Past paper - 2009
 
@@ -41,16 +74,6 @@
 
 #Symmetric vs public key cryptography
 
-###Compare the two different types of cryptography, discussing their advantages and disadvantages. 
-
-__Symmetric__ encryption is where both sender and reciever have access to a decryption key. Because of this, a secure channel must be available in order for the communication of the key between those wishing to decrypt. 
-
-__Public key cryptography__: Refers to when the reciever of the message has a private key to which he can decrypt messages. They then make the encryption key public so that anyone has access to the key. 
-
-* Symmetric encryption is considerably quicker than public key encryption for the same level of security
-* For the same level of computational cost, symmetric is more secure
-* Symmetric key requires a secure channel for communicating the key which can be expensive therefore making public key cryptography more accessible. 
-
 ###For each of the following algorithms, specify whether they are symmetric, public-key:
 
 ####Substitution cipher
@@ -80,9 +103,7 @@ __Public Key__
 __Symmetric__: Caesar cipher
 __Public key__: RSA
 
-###Describe how the two types of cryptography can be combined and describe the advantages of doing so. 
 
-As symmetric key encryption is much faster, this can be used as the main communication channel, however it's difficult to share the key without a secure channel. By sending the symmetric key encrypted using public key cryptography the symmetric key can be communicated securely. 
 
 #Stream ciphers
 
@@ -102,10 +123,7 @@ When concatenating a message and a secret key and applying a hash function the r
 
 // TODO: FIND THIS OUT
 
-###Describe the Cipher Block Chaining mode of operation for AES including the encryption as well as decryption process. (The explanation can either be text or a diagram).
 
-* The first block is XOR-ed with an initialisation vector and then encrypted
-* The vector can be made public or kept secret ... it's usually random and changed on each use of CBC
 
 // TODO: SUBMIT THIS ONE TO MEMORY
 
@@ -170,11 +188,7 @@ Encrypted using just a public key, or the combination of both a hash function an
 
 ###How does a web browser determine whether a certificate is genuine?
 
-###Explain how digital signatures are produced using a hash function and a public-key cryptosystem. How are digital signatures checked?
 
-To sign a message using hashing and public key cryptography first the message is hashed to produce a message digest and this is 'signed' using the private key. This is then published and associated to a signature. 
-
-To verify this, apply the hash function to the message to compute the digest (h1) and encrypt the signature using teh public key (h2). If these are equal, then the messgae is genuine. 
 
 ###Explain how digital signatures are verified. 
 
@@ -262,14 +276,6 @@ The signature ensures that:
 ###Discuss distributed denial of service attacks and their purpose, methods used for attack and protecting against them (no need to discuss any other type of denial of service attacks).
 
 ###Explain the terms: Virus, Worm, Trojan Horse and discuss their corresponding protection measures
-
-###What does the term "authentication" mean in cryptography and why is authentication needed? 
-
-Authentication is given a message you can guarentee the sender, the time the message was sent and that it was unmodified in transer. 
-
-###What is a MAC (Message Authentication Code)? 
-
-A MAC is a _method of message authenication_. A MAC _is computed from a message through use of a secret key_. If the message was subject to an attack, the MAC has a high probability to not match the message anymore. The MAC can also be _checked by someone else who knows the secret key_. 
 
 ###Explain the main idea for producing a MAC using a hash function. (HMAC algorithms)( You do not need to know the exact formula for HMAC ). 
 

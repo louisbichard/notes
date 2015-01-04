@@ -24,3 +24,7 @@ or
 
 ^ This was identified in the course reading book
 
+# Does franchising count as a method of earning finance from intellectual property?
+
+
+# For the essay questions, you talk about analysis of the business currently and recommendations, can these be merged together, i.e assess one section like strategy and then go on to recommend, then assess finance? For instance?

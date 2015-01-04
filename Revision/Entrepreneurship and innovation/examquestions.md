@@ -1,15 +1,57 @@
-SATISFIED WITH
-=====================
+
+WRITTEN UP 
+==========
+
+####What do you understand to be the _'S curve'_ in relation to the introduction of a new product or service? (5 marks) (2 occurrences)
+
+The 'S-curve' in relation to the release of a new product is the time taken for adoption from different categories of people and closely resembles and reflects the product lifecycle. 
+
+The S curve is plotted in terms of adoption rate in the market (y axis) and time (x axis) and forms an S shape due to the slow adoption, followed by exponential growth, stagnation and eventually decline. 
+
+In order of adoption, the 5 groups are: 
+
+* Innovators
+* Early adopters
+* Early majority
+* Late majority
+* Laggards
+
+
+####What do you understand to be the finance gap? (5 marks)
+
+Exists because _demand_ from small firms is greater than the willingness of financial institutions to supply finance at current market conditions (_rates of interest_).
+
+####Describe what a firm might do with its __intellectual property__ in order to maximise its value as a company asset (5 marks) (4 occurences)
+
+__Licensing__: Intellectual property can be licensed to someone else, giving them the right to use your idea. Licenses can be granted for certain areas or particular groups of customers.
+
+__Franchising__: Another business can setup up under your name, allowing your ideas and branding to be used by another. 
+
+__Sale of patents__: Selling a patent is a final way of earning revenue from intellectual property. This is usually done when patents are taken out purely for the reason of selling them on later when they become of greater value. 
+
+####__Opportunity spotting__ and idea creation is an essential part of the __innovation process__. How do entrepreurs identify new product and or service opportunities (25 marks)
+
+The innovative process is: 
+
+    Creating ideas -> Assessing and choosing the best ideas -> Implementation of the idea
+
+Entrepreneurs may find opportunities in 3 main areas, gaps in the market, technological innovations or by looking into the future. 
+
+Market opportunities can be identified a number of different ways, the first and most obvious being by having a _keen entrepreneurial eye_ within the indutstry. Secondly, using _market intelligence_ tools can also _detect changes in customer demands_ by measuring and analysing figures regarding the size, shape and dynamics of the market. Entrepreneurs can also use the _schumpeter replicator theory_ of the entrepreneur to copy existing organisations in the instance of _southwest airlines_ being copied by Stelios, but given a USP such as reduced travel agents to provide a low cost airline that met market demands. 
+
+Secondly, opportunities can be found in _technological innovations_. This can sometimes be known as _'blue skies research'_ which refers to the act of researching technologies that aren't immediately apparent. This however can be very risky and expensive for an entrepreneur. 
+
+Lastly, opportunities can be found in the future space. Predicting future changes is based on trends or _PESTLE analysis_ that analyses political, environmental, social, technological and economic changes in the businesses domain. Working closely with univeristies conducting blue skies research can help organistaions to generate new innovative products to bring to market.
 
 ####With reference to the __key stages__ involved in the __innovative process__ and barriers you are likely to encounter?
 
 The innovative process is defined as:
 
-	Create ideas -> Select best idea -> Implement
+    Create ideas -> Select best idea -> Implement
 
 However in some cases is extended as
 
-	Recognition -> Invention -> Development -> Implementation -> Diffusion
+    Recognition -> Invention -> Development -> Implementation -> Diffusion
 
 In the selection phase:
 
@@ -23,45 +65,7 @@ _Time_: Most of these ideas will be born by employees in an industry who notice 
 
 _The external environment_: The market conditions must support then entrepreneurs business, the competition must be scalable, or the niche must be differentiated enough to gain market share. 
 
-####With reference to their advantages and disadvantages, describe __economic measures of innovation__? (20)
-
-* Measuring numbers of small businesses reflects the amount of replicative innovators that are in the economy - as defined by Schumpter. Egypt often comes out more entrepreneurial than America (Henrekson) when using this statistic. Henrekson also argued that self-made billionaires produces a much better measurement of entrepreneurial vigor in an economy. Small businesses are a sign of stagnation in the economy as no other jobs are available, successful businesses tend to destroy the smaller companies as they take up the market: I.e Walmart or Amazon. However this has implications.
-
-* Entrepreneurs tend to be highly educated, 45% of american self-made entrepreneurs have advanced degrees. This is different to how it was at the start of the 1900's with engineers like Henry Ford dropping out of school. The service economy is king. 
-
-####What do you understand to be the _'S curve'_ in relation to the introduction of a new product or service? (5 marks) (2 occurrences)
-
-The 'S-curve' in relation to the release of a new product is the time taken for adoption from different categories of people and closely resembles and reflects the product lifecycle. 
-
-The S curve is plotted in terms of adoption rate in the market (y axis) and time (x axis) and forms an S shape due to the slow adoption, followed by exponential growth, stagnation and eventually decline. 
-
-In order of adoption, the 5 groups are: 
-
-* Innovators
-* Early adopters
-* Early majority
-* Early minority
-* Laggards
-
-####How can the __'Theory of planned behaviour'__ be used to explain entrepreneurial behaviour? (20 marks)
-
-The theory of planned behaviour is a psychological tool that is used to predict the _likelihood that a person will partake in a specific act or behaviour_. The theory of planned behaviour is broken down into 6 main constructs that all determine someones behaviour. It should also be highlighted that a lot of the areas are to do with the entrepreneurs _perception_ of the situation, not just the actual situation itself. The theory however does not plan in different elements of behaviour intention such as mood, fear or past antecedent experience. 
-
-_Attitude_ can affect an entrepreneurs behaviour, where the entrepreneur has a favourable evaluation of their behaviour of interest for instance, is the project a worthy cause? Will the entrepreneur earn enough money to live? Is it ethical (if the entrepreneur is likely to consider ethics).
-
-_Subjective Norms_ refer to the perceptions of those around the entrepreneur. It is likely that if an entrepeneur speaks to their parents, they will want to entrepreneur to be safe and stable and not take risks, however if the entrepreneur is in social groups where entrepreneurial risky behaviour is normal, they are likely to conduct these behaviours. 
-
-_Social norms_ refers to the customary codes of behaviour within the society within which the entrepreneur resides. Different countries have different likelhihoods of entrepreneurial behaviour and this is related to the social norm of those societies. In some socities where it is customary for a woman to stay at home and do house work are less likely to participate in entrepreneurial behaviour. 
-
-_Behavioural control_ refers to the perception that the entrepreneur has over the situation. Are they smart enough, do they have the right resources etc. 
-
-####What do you understand to be the finance gap? (5 marks)
-
-Exists because _demand_ from small firms is greater than the willingness of financial institutions to supply finance at current market conditions (_rates of interest_).
-
 ####What barriers to __firm growth__ are often encountered by the entrepreneur (10 marks)
-
-// INCLUDE SOME QUOTE FROM GROWTH NOTES ABOUT FIRM GROWTH
 
 When assessing firms growth this can be done well through use of a PESTEL analysis to address the business positioning. 
 
@@ -73,23 +77,32 @@ _Social_ factors, again similar to `the entrepreneur` factor in _storey's_ (1994
 
 _Economical_: Lastly economical factors such as the cash flow available to the organisation or their access to capital and financing will influence growth. 
 
+
+
+
+
+
+
+
+
+
+
+SATISFIED WITH
+=====================
+
+####With reference to their advantages and disadvantages, describe __economic measures of innovation__? (20)
+
+* Measuring numbers of small businesses reflects the amount of replicative innovators that are in the economy - as defined by Schumpter. Egypt often comes out more entrepreneurial than America (Henrekson) when using this statistic. Henrekson also argued that self-made billionaires produces a much better measurement of entrepreneurial vigor in an economy. Small businesses are a sign of stagnation in the economy as no other jobs are available, successful businesses tend to destroy the smaller companies as they take up the market: I.e Walmart or Amazon. However this has implications.
+
+* Entrepreneurs tend to be highly educated, 45% of american self-made entrepreneurs have advanced degrees. This is different to how it was at the start of the 1900's with engineers like Henry Ford dropping out of school. The service economy is king. 
+
+
+
+
+
 ####How does the __schumpeterian__ view of the entrepreneur differ with that of kirzner? (15 marks) (3 occurences)
 
 Schumpeter has 2 views of entrepreneurs: Those who are replicators of existing ideas and those who are innovators, for this question I will focus on the innovators. Schumpter percieved entrepreneurs to have a special set of characteristics that allowed them to be creative in coming up with new solutions, pushing boundaries and crashing into new markets and disrupting the zeitgeist. Schumpter exemplified these creative attributes in his theory of _creative destruction_ which highlights ways that an entrepreneur will disrupt a market with their creativity in the form of new _products_, _markets_, _organisation_ types etc.  However on the otherhand this differs to Kirzners view. Kirzner believed that entrepreneurs were not special people and anyone could be an entrepreneur aslong as they spot opportunities in a market and work to exploit these. Kirzners view on entrepreneurs is a lot less elaborate than Schumpeters. 
-
-####__Opportunity spotting__ and idea creation is an essential part of the __innovation process__. How do entrepreurs identify new product and or service opportunities (25 marks)
-
-The innovative process is: 
-
-	Creating ideas -> Assessing and choosing the best ideas -> Implementation of the idea
-
-Entrepreneurs may find opportunities in 3 main areas, gaps in the market, technological innovations or by looking into the future. 
-
-Market opportunities can be identified a number of different ways, the first and most obvious being by having a _keen entrepreneurial eye_ within the indutstry. Secondly, using _market intelligence_ tools can also _detect changes in customer demands_ by measuring and analysing figures regarding the size, shape and dynamics of the market. Entrepreneurs can also use the _schumpeter replicator theory_ of the entrepreneur to copy existing organisations in the instance of _southwest airlines_ being copied by Stelios, but given a USP such as reduced travel agents to provide a low cost airline that met market demands. 
-
-Secondly, opportunities can be found in _technological innovations_. This can sometimes be known as _'blue skies research'_ which refers to the act of researching technologies that aren't immediately apparent. This however can be very risky and expensive for an entrepreneur. 
-
-Lastly, opportunities can be found in the future space. Predicting future changes is based on trends or _PESTLE analysis_ that analyses political, environmental, social, technological and economic changes in the businesses domain. Working closely with univeristies conducting blue skies research can help organistaions to generate new innovative products to bring to market.
 
 ####Giving examples, describe how acedemic economists, psychologists and sociologists have tried to __define the entrepreneur__? (25)
 
@@ -105,8 +118,36 @@ _Sociologists_ take the viewpoint that a characteristics based approach is inade
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 PARTIALLY COMPLETE
 ==================
+
+####How can the __'Theory of planned behaviour'__ be used to explain entrepreneurial behaviour? (20 marks)
+
+The theory of planned behaviour is a psychological tool that is used to predict the _likelihood that a person will partake in a specific act or behaviour_. The theory of planned behaviour is broken down into 6 main constructs that all determine someones behaviour. It should also be highlighted that a lot of the areas are to do with the entrepreneurs _perception_ of the situation, not just the actual situation itself. The theory however does not plan in different elements of behaviour intention such as mood, fear or past antecedent experience. 
+
+_Attitude_ can affect an entrepreneurs behaviour, where the entrepreneur has a favourable evaluation of their behaviour of interest for instance, is the project a worthy cause? Will the entrepreneur earn enough money to live? Is it ethical (if the entrepreneur is likely to consider ethics).
+
+_Subjective Norms_ refer to the perceptions of those around the entrepreneur. It is likely that if an entrepeneur speaks to their parents, they will want to entrepreneur to be safe and stable and not take risks, however if the entrepreneur is in social groups where entrepreneurial risky behaviour is normal, they are likely to conduct these behaviours. 
+
+_Social norms_ refers to the customary codes of behaviour within the society within which the entrepreneur resides. Different countries have different likelhihoods of entrepreneurial behaviour and this is related to the social norm of those societies. In some socities where it is customary for a woman to stay at home and do house work are less likely to participate in entrepreneurial behaviour. 
+
+_Behavioural control_ refers to the perception that the entrepreneur has over the situation. Are they smart enough, do they have the right resources etc. 
 
 ####Growth of a business is highly complex and depends on the interaction of different factors. Evaluate the Storey Framework as a way of identifiying firms that are likely to achieve a high level of growth (20 marks) (2 occurences)
 
@@ -178,21 +219,6 @@ _Supporting innovation_: Advisory services, development of flexible leadership a
 _Supporting women entrepreneurs_: Improve business advice, mentoring and networking
 _Changing national measurements_: NMS (National measurement system) will be improved so that it reflects innovation more greatly.
 
-
-
-
-
-
-
-
-
-
-
-
-
-INCOMPLETE
-==========
-
 ####Small firm performance is not improved by __formal business training__ provided for entrepreneurs. Discuss this statement (10 marks) (3 occurences)
 
 -  (Barber et al) Identifies Lack of management training and qualifications as a barrier to growth. 
@@ -209,8 +235,6 @@ INCOMPLETE
 	* Must counter with responsibility, progression and manage the culture so that it is an attractive place to work
 	* Must manage satisfaction to lower labour turnover
 
-####Describe what a firm might do with its __intellectual property__ in order to maximise its value as a company asset (5 marks) (4 occurences)
-
 ####Discuss why use of __cognitive theory__ rather than describing __personality traits__ may give us a better understanding of why people engage in __entrepreneurial behaviour__? (10 marks) (3 occurences)
 
 Personality trait analysis assumes that an entrepreneur cannot take the Kirzen based approach whereby an entrepreneur can possess any characteristics and still be an entrepreneur by exploiting market gaps. 
@@ -224,10 +248,10 @@ Locating in a _'porterian cluster'_ can help to increase a firms ability to be i
 `Internationally competitive businesses are usually found in geographically concentrated clusters of related businesses` (Porter 1990)
 
 - British opinion of failure
+
 - Addressing the difficulty: 
 	- `Social aspects of a cluster of companies lead to increased productivity in three ways: increased productivity, innovation, stimulating new business` - (Porter, 1990)
 
-####Briefly describe how you would evaluate the success of a new __government funding__ scheme available to encourage __innovation in small businesses__ (5 marks) (5 occurences)
 
 
 
@@ -237,3 +261,28 @@ When taking a product to market, consideration of _strategy_ must be taken. Deci
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+INCOMPLETE
+==========
+
+
+####Briefly describe how you would evaluate the success of a new __government funding__ scheme available to encourage __innovation in small businesses__ (5 marks) (5 occurences)

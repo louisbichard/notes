@@ -17,12 +17,6 @@ COLLECTION OF QUOTES
 
 `Small organisation growth is influenced by 3 factors – the entrepreneurs background, nature of the firm, and the strategy ` (Storey, 1994).
 
-`Entrepreneurial traits or attributes may be cultivated through education and training which itself should be enterprising in nature` (Carr, 2000)
-
-`Best institutional vehicle for promostion of entrepreneurial traits is business ownership itself` (Gibb, 1987)
-
-`a high proportion of business start ups are made by two or more partners` (Chell, 2001)
-
 `Bringing other people to take on the responsibilities which had hitherto been dealt by the manager is a problem` (Chell, 2001)
 
 `Reluctace of the owner to pay for training as employee's may get poached` (Chell, 2001)
@@ -38,6 +32,13 @@ COLLECTION OF QUOTES
 `Small enterprises are the backbone of the European economy` (European Council, 2000)
 
 `Growth of regions and business stems from ability to continually develop and produce innovative products` (sternberg 2000)
+
+`Entrepreneurial traits or attributes may be cultivated through education and training which itself should be enterprising in nature` (Carr, 2000)
+
+`Best institutional vehicle for promostion of entrepreneurial traits is business ownership itself` (Gibb, 1987)
+
+`a high proportion of business start ups are made by two or more partners` (Chell, 2001)
+
 
 
 EXAMPLES

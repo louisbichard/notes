@@ -1,23 +1,26 @@
-#Exam notes
 
-## Grade boundaries
+# Exam strategy
 
-###First+ 
+- Read question 1
+    + Begin notes
+    + Start to write down basic framework for your answer
+- Read and complete next sections
+- Add up to notes in question 1 if you need
+- Go back and answer question1
 
-Excellent demonstration of appropriate analysis that is well applied to the question with clear evidence of reading and good evaluation.  As good an answer as one can expect by an undergraduate at this stage of their degree programme.
+# What gets the highest marks
 
-###First 
+- Excellent analysis 
+- Real world examples
+- Well applied to the question with 
+- Clear evidence of reading and good evaluation.  
 
-Excellent answer with clear attempt at evaluation plus evidence of good understanding of the underlying analysis and reading.
-
-###2.1
-
-Good answer that is applied to the question set and that shows evidence of reading and understanding backed by appropriate analysis.  There may be some minor misconceptions and the candidate may demonstrate underdeveloped or limited evaluation.  
-
-13BSC522 Exam feedback
 Question 1
+
 You were required to write a report for Charnwood Theatre Company Limited that included a critical evaluation of their current business activities and suggested ways in which they could improve future business performance.
+
 Feedback
+
 Generally this question was answered well.  Critical analysis required you to look at the internal, external micro and external macro environment within which the company operated.  For internal analysis, you could evaluate the strengths and weaknesses of the company and the individuals working there.  You should consider things such as:
 Skills of the founders and employees
 Finance
@@ -26,7 +29,7 @@ Operations – including location and structure
 For external micro analysis, you should have considered opportunities and threats.  You should have considered who the company’s customers are and how they are currently positioning and selling and marketing its services/products.
 External threats will include competitors (direct and indirect).
 For macro external analysis you could have used a PESTLE analysis.  There were some clues in the case study such as a Government cuts in funding for the arts.  This would probably have an indirect negative affect on the business.
-The second part of the question required you to address these issues and come up with solutions.  Many students attempted to do this and generally answers were good.  Marks were gained for doing an enhanced SWOT and including academic theory such as Porter, Ansoff, growth models etc.
+The second part of the question required xyou to address these issues and come up with solutions.  Many students attempted to do this and generally answers were good.  Marks were gained for doing an enhanced SWOT and including academic theory such as Porter, Ansoff, growth models etc.
 Very good answers included real life examples to show that the recommendations made had been used by other companies.  For example, some of you mentioned:
 where an existing company had changed location to be closer to their customers 
 where a company had started to sell on-line

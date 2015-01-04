@@ -34,10 +34,7 @@ http://www.marketingletter.com/members/oml_41B.html
 
     Headline + Opening Hook + Features and Benefits + Unique Selling Proposition + Credibility + Bullets + Price and Bargain Appeal + Guarantee + Don't Decide Now + Bonuses or Price Discount + You Can't Lose + P.S. = Money!
 
-    A good description is like a mini sales letter.  Once again, you should imagine the ideal customer avatar.  Get into the shoes of this person and describe their frustration.  And then you’ll present your eBook as a solution to this problem. Read more at location 934   • Delete this highlight
-
-
-    A good description is like a mini sales letter.  Once again, you should imagine the ideal customer avatar.  Get into the shoes of this person and describe their frustration.  And then you’ll present your eBook as a solution to this problem. Read more at location 934   • Delete this highlight
+    A good description is like a mini sales letter.  Once again, you should imagine the ideal customer avatar.  Get into the shoes of this person and describe their frustration.  And then you’ll present your eBook as a solution to this problem.
 
 ## Requesting an ebook cover
 
