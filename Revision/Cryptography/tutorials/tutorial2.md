@@ -12,10 +12,14 @@ Compute the inverse of the following permutation:
 
 # Assume you are using a stream cipher where the keystream is generated using the Blum Blum Schub pseudorandom number generator with the parameters p = 11,  q= 19. Encrypt the message 11010111, assuming the seed is , s0 =25. (Recall that the Blum Blum Shub pseudorandom number generator will generate the sequence of numbers     s1 s2 s3 … based on the recurrence relation si = (si-1)2 mod n  with n=pq. A binary sequence for the keystream is obtained by taking the least significant bits: s1 mod 2, s2 mod 2, s3 mod 2, …)
 
-# (Problem 2.19 in W. Stallings, Cryptography and Network security) This problem explores the use of a one-time pad version of the Vigenère cipher. In this scheme, the key is a stream of random numbers between 0 and 25. For example, if the key is 3 19 5 …, then the first letter of plaintext is encrypted with a shift of 3 letters, the second with a shift of 19 letters, the third with a shift of 5 letters, and so on. 
+## Notes from lecture
+Blum-Blum-Shub generator 
+one of the most cryptographically secure generators
+n = pq     with p, q  two prime numbers such that 
+p mod 4 = q mod 4 = 3
+Seed s0 should not be divisible by p or by q.
+Algorithm:
+sn= (sn-1) 2 mod n
+(to obtain bits, we keep the least significant bit kn= sn mod 2)
 
-## Encrypt the plaintext sendmoremoney with the key stream 9 0 1 7 23 15 21 14 11 11 2 8 9.
-
-## Using the ciphertext produced in part a, find a key so that the ciphertext decrypts to the plaintext cashnotneeded. 
-
-## Explain how the computations above illustrate the perfect secrecy and unconditional security of the one-time pad.
+Stream ciphers use purpose-designed generators.

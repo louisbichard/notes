@@ -1,30 +1,12 @@
 
 
-
-# Satisfied with
-================
-
-###Compare the two different types of cryptography, discussing their advantages and disadvantages. 
-
-__Symmetric__ encryption is where both sender and reciever have access to a decryption key. Because of this, a secure channel must be available in order for the communication of the key between those wishing to decrypt. 
-
-__Public key cryptography__: Refers to when the reciever of the message has a private key to which he can decrypt messages. They then make the encryption key public so that anyone has access to the key. 
-
-* Symmetric encryption is considerably quicker than public key encryption for the same level of security
-* For the same level of computational cost, symmetric is more secure
-* Symmetric key requires a secure channel for communicating the key which can be expensive therefore making public key cryptography more accessible. 
-
-###Describe how the two types of cryptography can be combined and describe the advantages of doing so. 
-
-As symmetric key encryption is much faster, this can be used as the main communication channel, however it's difficult to share the key without a secure channel. By sending the symmetric key encrypted using public key cryptography the symmetric key can be communicated securely. 
-
-
-
 ###Explain how digital signatures are produced using a hash function and a public-key cryptosystem. How are digital signatures checked?
 
 To sign a message using hashing and public key cryptography first the message is hashed to produce a message digest and this is 'signed' using the private key. This is then published and associated to a signature. 
 
 To verify this, apply the hash function to the message to compute the digest (h1) and encrypt the signature using teh public key (h2). If these are equal, then the messgae is genuine. 
+
+// TODO: ADD INFORMATION REGARDING PUBLIC KEY
 
 
 # Not satisfied with
@@ -34,7 +16,6 @@ To verify this, apply the hash function to the message to compute the digest (h1
 
 * The first block is XOR-ed with an initialisation vector and then encrypted
 * The vector can be made public or kept secret ... it's usually random and changed on each use of CBC
-
 
 
 # To answer
@@ -74,45 +55,6 @@ To verify this, apply the hash function to the message to compute the digest (h1
 
 #Symmetric vs public key cryptography
 
-###For each of the following algorithms, specify whether they are symmetric, public-key:
-
-####Substitution cipher
-
-__Symmetric__ is done through shifting of letters according to a block table
-
-####One-time pad
-
-__Symmetric__ the key is secret and found on a pad
-
-// TODO: DOUBLE CHECK THIS
-
-####AES
-
-__Symmetric__
-
-####DES
-
-__Symmetric__
-
-####RSA
-
-__Public Key__
-
-###Give an example of both types of cryptography (symm and public key). 
-
-__Symmetric__: Caesar cipher
-__Public key__: RSA
-
-
-
-#Stream ciphers
-
-###Explain how the one-time pad cryptographic system works and discuss its security
-
-One time pad is a __stream cipher__ that achieves __perfect secrecy__. The keystream is truly random, meaning that given any ciphertext, all plaintexts will have been equally likely to have generated it. One-time pad as a result is very expensive as the keystream is the same length of the message itself. Due to its strength as a cryptosystem it is used in military and diplomatic contexts where security is paramount. 
-
-// TODO: DO SOME RESEARCH ON THIS TO 'PAD IT OUT' (GET IT! ... OH MAN, I'M LOSING IT)
-
 #Symmetric key cryptosystems
 
 ###Explain the method for producing a message authentication code (MAC) using a hash function and a shared secret key? 
@@ -123,8 +65,6 @@ When concatenating a message and a secret key and applying a hash function the r
 
 // TODO: FIND THIS OUT
 
-
-
 // TODO: SUBMIT THIS ONE TO MEMORY
 
 ###In AES encryption algorithm there are several rounds, eaching containing the operations Add Round Key, Substitute Bytes, Shift Rows, Mix Columns. Discuss how will the algorithm be affected in the following separate scenarios:
@@ -134,19 +74,6 @@ When concatenating a message and a secret key and applying a hash function the r
 ####The add round key operation is not performed at all in any round
 
 ####In each round, in the Add Round Key, instead of computing a bitwise XOR between the state and the key, we use a bitwise OR (6 marks).
-
-###Describe the main steps of the encryption and decryption algorithms in the Advanced Encryption Standard (AES). What encryption standard was used before AES and why did it need to be replaced?
-
-The main steps of encryption involved in AES are: __Byte substitution__, __ShiftRow__, __MixColumn__, __AddRounKey__. 
-
-For encryption of a block of 128 bits, this would last for 10 rounds. 
-
-* __Byte sub__ ( An SBOX ) is applied to each byte
-* __ShiftRow__: Each row is cyclically shifted left by the offsets 0, 1, 2, 3 bytes
-* __MixColumn__: Each column of bytes is transformed by a finite field operation ( can be viewed as a substitution acting on each column )
-* __AddRoundKey__: The round key, written column wise is XOR'ed to the current block
-
-Before AES was DES. Whilst DES was very fast, advances in computational power made it vulnerable to exhaustive key search. 
 
 ####In the design of 128 bit AES do you think that it was necessary that all entries in the Sbox (substitution table) should be different? Justify your answer
 
@@ -176,19 +103,11 @@ Before AES was DES. Whilst DES was very fast, advances in computational power ma
 
 #Digital signatures
 
-###Name two formats for digital signatures
-
-Encrypted using just a public key, or the combination of both a hash function and the public key
-
-// TODO: DOUBLE CHECK THAT THIS IS ACTUALLY THE CASE
-
 ###Name three pieces of information that you feel are most important in a certificate, regardless of the format (if you can't decide which three are most important, name up to five) and briefly explain why you think they are imporant
 
 ###What are the roles of a certification authority and a registration authority?
 
 ###How does a web browser determine whether a certificate is genuine?
-
-
 
 ###Explain how digital signatures are verified. 
 
@@ -218,12 +137,6 @@ Weak collision resistance means that for any given input it is hard (but not imp
 
 Strong collision resistance is where it is hard to find any inputs at all that have the same output from two different inputs
 
-###Name hash functions that are currently recommended (You do not need to know the Merkle-Damgard construction and the sponge construction for hash functions)
-
-SHA-2 and SHA-3 family
-
-// TODO: DOUBLE CHECK IF THERE ARE MORE OF THESE THAT WE CAN USE
-
 ###Past paper question (10 marks)
 
 A typical digital signature scheme uses a hash function and a public-key cryptosystem
@@ -250,10 +163,6 @@ The signature ensures that:
 ####Who signs an X509 certificate usually
 
 ####Who signs an openPGP certificate usually
-
-####Explain the notion of weak collision resistance for a hash function. Explain why this property is required for hash functions used in digital signatures
-
-####Are there cryptographic hash functions that do not have any collisons? Justify your answer
 
 ### Past paper Digital signature questions (10 marks)
 
@@ -328,38 +237,8 @@ I AM NOT SO SURE ABOUT THESE QUESTIONS SO I AM LEAVING THEM FOR NOW, COME BACK T
 
 ###Explain how to use AES (or any other symmetric block cipher) in ECB (Electronic cook book) and CBC (Cipher Block Chaining) mode. 
 
-###For ECB (Electronic cook book):
-
-####Assume in the plaintext there is a block of text that appears several times. Discuss whether this fact will reflect in the ciphertext for this mode
-
-Since the block is encoded independently using the same key it is possible for the plain and cypertext to be repeated so is vulnerable for long messages.
-
-// TODO: READ MORE AROUND THIS, I'M STILL NOT SO SURE
-
-####Discuss whether this mode is suitable for producing a MAC (Message Authentication Code). In the affirmative case explain how is the MAC obtained. 
-
-###For CBC (Cipher Block Chaining):
+###For all the modes of AES: CBC, CTR, OFB, CFB, ECB:
 
 ####Assume in the plaintext there is a block of text that appears several times. Discuss whether this fact will reflect in the ciphertext for this mode
 
 ####Discuss whether this mode is suitable for producing a MAC (Message Authentication Code). In the affirmative case explain how is the MAC obtained. 
-
-###For OFB (Ouput feedback):
-
-####Assume in the plaintext there is a block of text that appears several times. Discuss whether this fact will reflect in the ciphertext for this mode
-
-####Discuss whether this mode is suitable for producing a MAC (Message Authentication Code). In the affirmative case explain how is the MAC obtained. 
-
-###For CFB (Cipher Feedback):
-
-####Assume in the plaintext there is a block of text that appears several times. Discuss whether this fact will reflect in the ciphertext for this mode
-
-####Discuss whether this mode is suitable for producing a MAC (Message Authentication Code). In the affirmative case explain how is the MAC obtained. 
-
-###For CTR (Counter:
-
-####Assume in the plaintext there is a block of text that appears several times. Discuss whether this fact will reflect in the ciphertext for this mode
-
-####Discuss whether this mode is suitable for producing a MAC (Message Authentication Code). In the affirmative case explain how is the MAC obtained. 
-
-### Explain how a message authentication code (MAC) can be created using AES in CBC mode. Why is this mode suitable for creating a MAC?
