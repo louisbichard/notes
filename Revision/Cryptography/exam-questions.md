@@ -1,26 +1,5 @@
 
 
-###Explain how digital signatures are produced using a hash function and a public-key cryptosystem. How are digital signatures checked?
-
-To sign a message using hashing and public key cryptography first the message is hashed to produce a message digest and this is 'signed' using the private key. This is then published and associated to a signature. 
-
-To verify this, apply the hash function to the message to compute the digest (h1) and encrypt the signature using teh public key (h2). If these are equal, then the messgae is genuine. 
-
-// TODO: ADD INFORMATION REGARDING PUBLIC KEY
-
-
-# Not satisfied with
-====================
-
-###Describe the Cipher Block Chaining mode of operation for AES including the encryption as well as decryption process. (The explanation can either be text or a diagram).
-
-* The first block is XOR-ed with an initialisation vector and then encrypted
-* The vector can be made public or kept secret ... it's usually random and changed on each use of CBC
-
-
-# To answer
-===========
-
 # Past paper - 2009
 
 ### Bob is setting up his keys for RSA cryptosystem. He has computed his keys as (e = 21, n = 187) for the public key and (d = 62, p = 11, q = 17) for the private key. Is this a correct key pair? Justify your answer. You can use any method you want for checking whether the keys are correct. If they are not, you do not need to produce alternative correct keys. (7 marks)
@@ -53,20 +32,6 @@ To verify this, apply the hash function to the message to compute the digest (h1
 
 ###Alice and bob use public key cryptography. Bob publishes his public key as (e = 33, n = 3127). Alice wants to send him the message m = 10. How will she encrypt it? Use the square and multiply method for full marks, or any other method for partial marks. Eve has bob's public key and she suspects that Bobs private decryption exponent is d = 8. Do you think she is right? Justify your answer. (If you think she is incorrect, you must determine the correct exponent).
 
-#Symmetric vs public key cryptography
-
-#Symmetric key cryptosystems
-
-###Explain the method for producing a message authentication code (MAC) using a hash function and a shared secret key? 
-
-When concatenating a message and a secret key and applying a hash function the result is the MAC code. 
-
-###Where is a MAC used in Secure Socket Layer (SSL) protocol. 
-
-// TODO: FIND THIS OUT
-
-// TODO: SUBMIT THIS ONE TO MEMORY
-
 ###In AES encryption algorithm there are several rounds, eaching containing the operations Add Round Key, Substitute Bytes, Shift Rows, Mix Columns. Discuss how will the algorithm be affected in the following separate scenarios:
 
 // TODO: IN ORDER TO ANSWER THESE, WATCH A YOUTUBE VIDEO
@@ -77,49 +42,15 @@ When concatenating a message and a secret key and applying a hash function the r
 
 ####In the design of 128 bit AES do you think that it was necessary that all entries in the Sbox (substitution table) should be different? Justify your answer
 
-#SSL
-
-###What kind of encryption is used in the Secure Socket Layer (SSL) protocol: Where exactly in the protocol is encryption used and why? 
-
 ###An attacker Eve could record a genuine Secure Socket Layer session between alice and her bank as it takes place. Eve could then attempt to connect to the bank later and replay the recorded session in the hope of making the bank believe this is a new communication from Alice. How is this prevented in SSL?
-
-###You are about to make an online payment to an e-commerce website ABC.co.uk using secure socket layer (SSL) protocol. This website sends to your browser a digital certificate issued by the certificate authority XYZ. How does your web browser verify that the certificate of the ABC.co.uk is genuine? 
-
-###For SSL, describe where encryption is used in the protocol and what type of encryption it is (symm or pub)
 
 ###What security services does SSL offer? What are the protocols included in SSL? What are the main steps of the protocols? 
 
-###Explain how SSL combines the use of public key cryptography and symmetric cryptography. 
-
-###How does SSL achieve each of the following: confidentiality, authentication, integrity, protection against replay?
-
-###How does SSL use digital signatures?
-
-#Public Key Cryptography
-
-###Explain how PGP/GnuPG works for sending an encrypted email. Explain how PGP combines the use of public key cryptography and symmetric cryptography. 
-
 ###It is well known that if an efficient integer factorisation algortithm was found the RSA cryptosystem would be broken. Why?
-
-#Digital signatures
-
-###Name three pieces of information that you feel are most important in a certificate, regardless of the format (if you can't decide which three are most important, name up to five) and briefly explain why you think they are imporant
-
-###What are the roles of a certification authority and a registration authority?
-
-###How does a web browser determine whether a certificate is genuine?
 
 ###Explain how digital signatures are verified. 
 
 ###Assume you have a hash function which produces outputs (hash codes) which are 16 bits long. Discuss the sustainability of this function for the digital signature scheme (public key and hashing). (Taken from 2010 paper if this makes no sense)
-
-###What information is contained inside of a digital signature (You do not need to know all the items in a certificate, only about 5 items that you think are important). 
-
-###Explain what is meant by collisions for a hash function. 
-
-A collision refers to when multiple inputs to a hash function create the same output. 
-
-// TODO: DOUBLE CHECK THIS
 
 ###Explain what is meant by a hash function being one-way.
 
@@ -127,50 +58,11 @@ A hash function is one way if for any given value h it is very hard to find x so
 
 // TODO: CLEAN UP THIS ANSWER, IT'S FLAKEY
 
-###Explain the notion of weak collision resistance for a hash function.
-
-Weak collision resistance means that for any given input it is hard (but not impossible) to find another input that has the same hash code
-
 ###Explain how an opponent can forge signatures if the hash function is not weak collision resistant
-
-###Explain the notion of strong collision resistance 
-
-Strong collision resistance is where it is hard to find any inputs at all that have the same output from two different inputs
-
-###Past paper question (10 marks)
-
-A typical digital signature scheme uses a hash function and a public-key cryptosystem
-
-####Explain how the signature is produced
-
-// TODO: WORK THIS OUT
-
-####Explain how the signature is verified
-
-####How do collisions affect the security of a hash function
-
-// TODO: WORK THIS OUT
-
-####A digital signature contains, amongst other things a digital signature. What is the role of the signature? 
-
-The signature ensures that:
-
-* You can prove the identity of the author and therefore be sure that it wasn't forge
-* The signer cannot deny that they signed the message
-* Is integral, i.e it is tied to the message, so the message cannot be tampered with, and if it is it would disrupt the message and be obvious that it was forged. 
-* Has a timestamp to prevent replay
-
-####Who signs an X509 certificate usually
-
-####Who signs an openPGP certificate usually
 
 ### Past paper Digital signature questions (10 marks)
 
 ####What does a certification authority and registration authority do?
-
-####The SSL (Secure Socket Layer) protocol uses digital certificates. Explain at which point they are used and how the browser checks that the certificate is genuine. 
-
-#General security
 
 ###Discuss different types of attacks that occur over the internet in terms of motivation and the goals the attacker tries to achieve. 
 
@@ -185,8 +77,6 @@ The signature ensures that:
 ###Discuss distributed denial of service attacks and their purpose, methods used for attack and protecting against them (no need to discuss any other type of denial of service attacks).
 
 ###Explain the terms: Virus, Worm, Trojan Horse and discuss their corresponding protection measures
-
-###Explain the main idea for producing a MAC using a hash function. (HMAC algorithms)( You do not need to know the exact formula for HMAC ). 
 
 ###Explain why HMAC method satisfies the requirements of a MAC. 
 
@@ -226,10 +116,7 @@ __Challenge/Repsonse__: A party sends the other a nonce (random number) to which
 
 ###Discuss the security related features a customer would expect to see on an e-commerce website (only mention features visible to the customer) (10 marks)
 
-###What would a web browser do with a digital certificate after it finds out that it's genuine. 
-
 ###Discuss buffer overflow attacks and possible measures to protect against them. (5 marks)
-
 
 <!-- 
 I AM NOT SO SURE ABOUT THESE QUESTIONS SO I AM LEAVING THEM FOR NOW, COME BACK TO THEM AT THE END IF YOU GET TIME
@@ -242,3 +129,26 @@ I AM NOT SO SURE ABOUT THESE QUESTIONS SO I AM LEAVING THEM FOR NOW, COME BACK T
 ####Assume in the plaintext there is a block of text that appears several times. Discuss whether this fact will reflect in the ciphertext for this mode
 
 ####Discuss whether this mode is suitable for producing a MAC (Message Authentication Code). In the affirmative case explain how is the MAC obtained. 
+
+###Describe the Cipher Block Chaining mode of operation for AES including the encryption as well as decryption process. (The explanation can either be text or a diagram).
+
+* The first block is XOR-ed with an initialisation vector and then encrypted
+* The vector can be made public or kept secret ... it's usually random and changed on each use of CBC
+
+
+
+
+
+
+
+
+
+
+
+
+
+# To address
+
+###How does SSL use digital signatures?
+
+When verifying the server, or optionally verifying the client

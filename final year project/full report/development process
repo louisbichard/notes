@@ -1,0 +1,27 @@
+# Development methodology
+
+## Communication with client
+
+- Completed at phased intervals
+- Basic feedback on the system
+- On going concurrent development and design
+- Integrated the ongoing research into the design
+
+## Prototyping
+
+- Horizontal and vertical prototyping. 
+- Vertical prototyping used for the task features
+- Horizontal prototyping used for: events, user management, user creation, profile updating
+- Prototype in nature, to flesh out ideas and possibilities using the technology
+
+## Functional programming
+
+- Principles of functional programming were used throughout the project
+- Usage of currying and partial application to reduce code redundancy
+
+
+## Creation of plugins
+
+- Throughout the process plugins were created and open sourced
+- Percentagebar plugin on Github, allow community collaboration over components if necessary
+
