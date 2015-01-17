@@ -18,4 +18,3 @@
 * Has a local city center base
 	* Rental of room
 * Has career like facilities, i.e computers
-* 

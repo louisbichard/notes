@@ -19,41 +19,4 @@
 * Quick link functionality
 	* Keyboard shortcut, or link to drop you onto another webpage immediately
 * Possibility for cloaking the website so it appears to be something else.
-
-# SECTION 1: LITERATURE REVIEW
-==============================
-
-* Background to domestic violence
-* History of the women rights movement and domestic rights historically
-* Why domestic violence is important
-* The current trends of domestic violence
-* The problem the technology solves
-* Current measures to deal with domestic violence
-	* Police measures
-	* Police acting as social carers
-* Who is the future of domestic violence?
-	* Proposed solutions to domestic violence
-* Existing discreet/ Social care technologies and apps
-* How other online apps ensure that they are secure
-	* Banks
-* The implications of providing social care
-	* The dangers
-	* Legal issues
-		* Promises made in the app must be backed up
-		* Must work 100% of the time if relied on in emergency cases
-		* Data retention issues
-* The importance of the platform
-	* The controlling nature of domestic violence cases
-	* The use of technology and the stability of performance
-* Accessibility considerations
-	* Accessed on mobile devices?
-	* Where do they get mobile devices?
-	* Threats of using personal devices
-* Use of USB devices for browsing while not on the actual computer
-
-# SECTION 2: Development methodology
-====================================
-- Sort of incremental model
-- Probably also evolutionary
-- Prototype in nature (Horizontal/ Vertical needs to be discussed)
-- Constant feedback (Agiley?)
+* Possibility to look for a feature that allows timeout of users, so extending status so taht it has a 'no further action' (benign state) and possibly an alarm attached to people who entered the system, but made no further contact after X amount of time. Send some automated emails?
