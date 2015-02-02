@@ -1,0 +1,3 @@
+- Read and highlight all questions
+- Plan all non trivial answers
+- 
