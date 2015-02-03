@@ -1,0 +1,20 @@
+record {
+    display: block;
+}
+artist {
+    font-size: 24pt;
+    color: red;
+}
+title {
+    font-size: 24pt;
+    color: green;
+}
+length {
+    font-size: 16pt;
+}
+minutes {
+    color: blue;
+}
+seconds {
+    color: black;
+}
