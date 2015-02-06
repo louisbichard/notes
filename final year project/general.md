@@ -1,3 +1,8 @@
+# NOTES FROM THE LECTURE
+========================
+
+* 
+
 # SYSTEM CONSIDERATIONS AND CHANGES
 ===================================
 
