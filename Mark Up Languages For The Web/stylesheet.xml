@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<xsl:stylesheet version="1.0"   xmlns:xsl="http://www.w3.org/TR/WD-xsl">
+    <xsl:template match="/">
+        <html>
+
+        <head>
+            <title>A Simple XSL style sheet</title>
+        </head>
+
+        <body>
+
+            <xsl:for-each select="hitrecords/record">
+
+                <xsl:value-of select="." />
+
+            </xsl:for-each>
+
+        </body>
+
+        </html>
+
+
+    </xsl:template>
+</xsl:stylesheet>
