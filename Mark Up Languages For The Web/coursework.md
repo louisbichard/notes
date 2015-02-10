@@ -4,8 +4,8 @@ Assignment 1 (weighting = 20%)
 - 1500 words
 - Advantages and disadvantages of XML
 - Support your argument with reference to a minimum of two case studies.
-
-Specifically you should focus upon the latest developments and uses of XML based technologies. Credit will be given for depth in terms of the literature found and the case studies cited. The case studies should include references to “real-world” examples. The use of supplementary technologies such as AJAX, JASON, Javascript can also be included demonstrating your appreciation of the technologies available.
+- Focus upon the latest developments and uses of XML based technologies. 
+- Credit will be given for depth in terms of the literature found and the case studies cited. The case studies should include references to “real-world” examples. The use of supplementary technologies such as AJAX, JASON, Javascript can also be included demonstrating your appreciation of the technologies available.
 
 Marking schedule
 
