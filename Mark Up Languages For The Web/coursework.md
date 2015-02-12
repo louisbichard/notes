@@ -21,9 +21,11 @@ Submission to Computer Science Drop-Box (6th March, Week 5)
 
 Assignment 2 (weighting = 80%)
 
-Choose a subject, with the approval of the tutor, that is appropriate to apply the technology of XML. Create a website that demonstrates the use of XML and related technologies. Credit is also provided for creating an attractive site, and conforming to the latest standards of CSS and HTML.
+- Choose a subject, with the approval of the tutor, that is appropriate to apply the technology of XML. 
+- Create a website that demonstrates the use of XML and related technologies. 
+- Credit is also provided for creating an attractive site, and conforming to the latest standards of CSS and HTML.
 
-Provide a report to explain why you think it is appropriate to use XML and to justify the use of the technologies employed: CSS, XML, XSLT, Javascript and any other appropriate technology.
+- Provide a report to explain why you think it is appropriate to use XML and to justify the use of the technologies employed: CSS, XML, XSLT, Javascript and any other appropriate technology.
 
 Provide the following:
 
